@@ -156,60 +156,64 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 	"Alakazam": {
-		"Offensive Mega": {
-			"level": 50,
+		"Setname": {
+			"level": 75,
 			"evs": {
-				"sa": "252",
-				"sd": "4",
-				"sp": "252"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Alakazite",
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		},
-		"Bulky MegaZam": {
-			"level": 50,
+		"Setname2": {
+			"level": 75,
 			"evs": {
-				"hp": "100",
-				"df": "244",
-				"sa": "12",
-				"sd": "12",
-				"sp": "140"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Alakazite",
-			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
-			]
-		},
-		"Focus Sash": {
-			"level": 50,
-			"evs": {
-				"sa": "252",
-				"sd": "4",
-				"sp": "252"
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Focus Sash",
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
+
 	"Araquanid": {
 		"Assault Vest": {
 			"level": 50,
