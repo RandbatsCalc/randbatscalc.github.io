@@ -1,12 +1,43 @@
-/* test */
+/*
+"Setname": {
+	"level": ,
+	"evs": {
+		"hp": "84",
+		"at": "84",
+		"df": "84",
+		"sa": "84",
+		"sd": "84",
+		"sp": "84"
+	},
+	"ivs": {
+		"hp": "31",
+		"at": "31",
+		"df": "31",
+		"sa": "31",
+		"sd": "31",
+		"sp": "31"
+	},
+	"nature": "Serious",
+	"ability": "Snow Warning",
+	"item": "Leftovers",
+	"moves": [
+		"Blizzard",
+		"Giga Drain",
+		"Earthquake",
+		"Ice Shard"
+	]
+},
+
+
+ */
 
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Mega": {
 			"level": 75,
 			"evs": {
-				"hp": "252",
-				"at": "4",
+				"hp": "84",
+				"at": "84",
 				"sa": "252"
 			},
 			"nature": "Quiet",
