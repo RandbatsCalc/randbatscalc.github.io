@@ -11,7 +11,7 @@ var SETDEX_GEN7_SETS = {
 			},
 			"nature": "Quiet",
 			"ability": "Snow Warning",
-			"item": "",
+			"item": "Leftovers",
 			"moves": [
 				"Blizzard",
 				"Giga Drain",
