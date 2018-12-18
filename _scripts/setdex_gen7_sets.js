@@ -10,8 +10,8 @@ var SETDEX_GEN7_SETS = {
 				"sa": "252"
 			},
 			"nature": "Quiet",
-			"ability": "",
-			"item": "Abomasite",
+			"ability": "Snow Warning",
+			"item": "",
 			"moves": [
 				"Blizzard",
 				"Giga Drain",
