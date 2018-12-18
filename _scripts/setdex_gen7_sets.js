@@ -1,3 +1,5 @@
+/* test */
+
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Mega": {
