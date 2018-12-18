@@ -34,7 +34,7 @@
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Setname": {
-			"level": ,
+			"level": 75,
 			"evs": {
 				"hp": "84",
 				"at": "84",
