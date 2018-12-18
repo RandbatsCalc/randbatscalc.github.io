@@ -27,7 +27,7 @@ Format of adding Pokemon with one set in:
 		"Earthquake",
 		"Accelerock"
 	]
-}
+},
 
 Format of adding Pokemon with more than one set in:
 "Pokemon": {
