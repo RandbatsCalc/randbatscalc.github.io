@@ -18,56 +18,51 @@
 		"sp": "31"
 	},
 	"nature": "Serious",
-	"ability": "Snow Warning",
+	"ability": "Defiant",
 	"item": "Leftovers",
 	"moves": [
-		"Blizzard",
-		"Giga Drain",
+		"Tackle",
+		"Take Down",
 		"Earthquake",
-		"Ice Shard"
+		"Accelerock"
 	]
-},
+}
 
 
  */
 
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
-		"Mega": {
-			"level": 75,
+		"Setname": {
+			"level": ,
 			"evs": {
 				"hp": "84",
 				"at": "84",
-				"sa": "252"
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Quiet",
-			"ability": "Snow Warning",
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Blizzard",
-				"Giga Drain",
+				"Tackle",
+				"Take Down",
 				"Earthquake",
-				"Ice Shard"
-			]
-		},
-		"Choice Scarf": {
-			"level": 50,
-			"evs": {
-				"at": "4",
-				"sa": "252",
-				"sp": "252"
-			},
-			"nature": "Hasty",
-			"ability": "Snow Warning",
-			"item": "Choice Scarf",
-			"moves": [
-				"Blizzard",
-				"Wood Hammer",
-				"Earthquake",
-				"Hidden Power Fire"
+				"Accelerock"
 			]
 		}
 	},
+
 	"Aegislash": {
 		"THE CRUMBLER (Special Attacker)": {
 			"level": 50,
