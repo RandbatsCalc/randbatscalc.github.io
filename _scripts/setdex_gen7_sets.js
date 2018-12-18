@@ -3,13 +3,14 @@
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Mega": {
-			"level": 50,
+			"level": 75,
 			"evs": {
 				"hp": "252",
 				"at": "4",
 				"sa": "252"
 			},
 			"nature": "Quiet",
+			"ability": "Snow Warning",
 			"item": "Abomasite",
 			"moves": [
 				"Blizzard",
