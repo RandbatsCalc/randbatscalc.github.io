@@ -94,8 +94,8 @@ Format of adding Pokemon with more than one set in:
 
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
-		"Setname": {
-			"level": 75,
+		"Default": {
+			"level": 83,
 			"evs": {
 				"hp": "84",
 				"at": "84",
