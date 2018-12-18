@@ -2,194 +2,125 @@
 
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
-		"Mega": {
+		"Setname": {
 			"level": 75,
 			"evs": {
 				"hp": "84",
 				"at": "84",
-				"sa": "252"
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Quiet",
-			"ability": "Snow Warning",
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Blizzard",
-				"Giga Drain",
+				"Tackle",
+				"Take Down",
 				"Earthquake",
-				"Ice Shard"
-			]
-		},
-		"Choice Scarf": {
-			"level": 50,
-			"evs": {
-				"at": "4",
-				"sa": "252",
-				"sp": "252"
-			},
-			"nature": "Hasty",
-			"ability": "Snow Warning",
-			"item": "Choice Scarf",
-			"moves": [
-				"Blizzard",
-				"Wood Hammer",
-				"Earthquake",
-				"Hidden Power Fire"
+				"Accelerock"
 			]
 		}
 	},
+
 	"Aegislash": {
-		"THE CRUMBLER (Special Attacker)": {
-			"level": 50,
+		"Setname": {
+			"level": 75,
 			"evs": {
-				"hp": "252",
-				"sa": "252",
-				"sd": "4"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"ivs": {
-				"sp": "0"
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Quiet",
-			"ability": "Stance Change",
-			"item": "Weakness Policy",
-			"moves": [
-				"Shadow Ball",
-				"Shadow Sneak",
-				"Sacred Sword",
-				"Flash Cannon"
-			]
-		},
-		"SubToxic": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"sd": "4",
-				"sp": "252"
-			},
-			"nature": "Timid",
-			"ability": "Stance Change",
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Substitute",
-				"Toxic",
-				"Shadow Ball",
-				"Flash Cannon"
-			]
-		},
-		"Physical Attacker": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"sd": "4"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Brave",
-			"ability": "Stance Change",
-			"item": "Life Orb",
-			"moves": [
-				"Shadow Sneak",
-				"Sacred Sword",
-				"Iron Head",
-				"Shadow Claw"
-			]
-		},
-		"DragonWhale's SubToxic": {
-			"level": 50,
-			"evs": {
-				"hp": "220",
-				"de": "4",
-				"sa": "156",
-				"sd": "36",
-				"sp": "92"
-			},
-			"nature": "Modest",
-			"ability": "Stance Change",
-			"item": "Leftovers",
-			"moves": [
-				"Substitute",
-				"Toxic",
-				"Shadow Ball",
-				"Flash Cannon"
-			]
-		},
-		"The Ethan Special (PhysDef)": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "4",
-				"df": "252"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Relaxed",
-			"ability": "Stance Change",
-			"item": "Weakness Policy",
-			"moves": [
-				"King's Shield",
-				"Shadow Ball",
-				"Shadow Sneak",
-				"Sacred Sword"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
 	"Alakazam": {
-		"Offensive Mega": {
-			"level": 50,
+		"Setname": {
+			"level": 75,
 			"evs": {
-				"sa": "252",
-				"sd": "4",
-				"sp": "252"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Alakazite",
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		},
-		"Bulky MegaZam": {
-			"level": 50,
+		"Setname2": {
+			"level": 75,
 			"evs": {
-				"hp": "100",
-				"df": "244",
-				"sa": "12",
-				"sd": "12",
-				"sp": "140"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Alakazite",
-			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
-			]
-		},
-		"Focus Sash": {
-			"level": 50,
-			"evs": {
-				"sa": "252",
-				"sd": "4",
-				"sp": "252"
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Timid",
-			"ability": "Magic Guard",
-			"item": "Focus Sash",
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Psychic",
-				"Focus Blast",
-				"Shadow Ball",
-				"Hidden Power Ice"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
+
 	"Araquanid": {
 		"Assault Vest": {
 			"level": 50,
