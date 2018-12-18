@@ -1,32 +1,34 @@
 /*
 Format of adding Pokemon with one set in:
-"Setname": {
-	"level": 75,
-	"evs": {
-		"hp": "84",
-		"at": "84",
-		"df": "84",
-		"sa": "84",
-		"sd": "84",
-		"sp": "84"
-	},
-	"ivs": {
-		"hp": "31",
-		"at": "31",
-		"df": "31",
-		"sa": "31",
-		"sd": "31",
-		"sp": "31"
-	},
-	"nature": "Serious",
-	"ability": "Defiant",
-	"item": "Leftovers",
-	"moves": [
-		"Tackle",
-		"Take Down",
-		"Earthquake",
-		"Accelerock"
-	]
+"Pokemon": {
+	"Setname": {
+		"level": 75,
+		"evs": {
+			"hp": "84",
+			"at": "84",
+			"df": "84",
+			"sa": "84",
+			"sd": "84",
+			"sp": "84"
+		},
+		"ivs": {
+			"hp": "31",
+			"at": "31",
+			"df": "31",
+			"sa": "31",
+			"sd": "31",
+			"sp": "31"
+		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	}
 },
 
 Format of adding Pokemon with more than one set in:
@@ -124,100 +126,32 @@ var SETDEX_GEN7_SETS = {
 	},
 
 	"Aegislash": {
-		"THE CRUMBLER (Special Attacker)": {
-			"level": 50,
+		"Setname": {
+			"level": 75,
 			"evs": {
-				"hp": "252",
-				"sa": "252",
-				"sd": "4"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"ivs": {
-				"sp": "0"
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Quiet",
-			"ability": "Stance Change",
-			"item": "Weakness Policy",
-			"moves": [
-				"Shadow Ball",
-				"Shadow Sneak",
-				"Sacred Sword",
-				"Flash Cannon"
-			]
-		},
-		"SubToxic": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"sd": "4",
-				"sp": "252"
-			},
-			"nature": "Timid",
-			"ability": "Stance Change",
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Substitute",
-				"Toxic",
-				"Shadow Ball",
-				"Flash Cannon"
-			]
-		},
-		"Physical Attacker": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"sd": "4"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Brave",
-			"ability": "Stance Change",
-			"item": "Life Orb",
-			"moves": [
-				"Shadow Sneak",
-				"Sacred Sword",
-				"Iron Head",
-				"Shadow Claw"
-			]
-		},
-		"DragonWhale's SubToxic": {
-			"level": 50,
-			"evs": {
-				"hp": "220",
-				"de": "4",
-				"sa": "156",
-				"sd": "36",
-				"sp": "92"
-			},
-			"nature": "Modest",
-			"ability": "Stance Change",
-			"item": "Leftovers",
-			"moves": [
-				"Substitute",
-				"Toxic",
-				"Shadow Ball",
-				"Flash Cannon"
-			]
-		},
-		"The Ethan Special (PhysDef)": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "4",
-				"df": "252"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Relaxed",
-			"ability": "Stance Change",
-			"item": "Weakness Policy",
-			"moves": [
-				"King's Shield",
-				"Shadow Ball",
-				"Shadow Sneak",
-				"Sacred Sword"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
