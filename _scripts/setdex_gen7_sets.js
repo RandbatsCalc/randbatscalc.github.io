@@ -5,8 +5,8 @@ var SETDEX_GEN7_SETS = {
 		"Mega": {
 			"level": 75,
 			"evs": {
-				"hp": "252",
-				"at": "4",
+				"hp": "84",
+				"at": "84",
 				"sa": "252"
 			},
 			"nature": "Quiet",
