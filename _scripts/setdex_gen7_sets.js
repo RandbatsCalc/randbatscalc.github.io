@@ -1,4 +1,35 @@
-/* test */
+/*
+"Setname": {
+	"level": ,
+	"evs": {
+		"hp": "84",
+		"at": "84",
+		"df": "84",
+		"sa": "84",
+		"sd": "84",
+		"sp": "84"
+	},
+	"ivs": {
+		"hp": "31",
+		"at": "31",
+		"df": "31",
+		"sa": "31",
+		"sd": "31",
+		"sp": "31"
+	},
+	"nature": "Serious",
+	"ability": "Defiant",
+	"item": "Leftovers",
+	"moves": [
+		"Tackle",
+		"Take Down",
+		"Earthquake",
+		"Accelerock"
+	]
+},
+
+
+ */
 
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
