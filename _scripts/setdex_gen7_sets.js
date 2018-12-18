@@ -9,8 +9,7 @@ var SETDEX_GEN7_SETS = {
 				"at": "4",
 				"sa": "252"
 			},
-
-			"ability": "Snow Warning",
+			"nature": "Quiet",
 			"item": "Abomasite",
 			"moves": [
 				"Blizzard",
