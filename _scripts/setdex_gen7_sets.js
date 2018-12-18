@@ -1,5 +1,5 @@
 /*
-Format of adding Pokemon with one set in:
+Formats of adding Pokemon with one set in:
 "Pokemon": {
 	"Setname": {
 		"level": 75,
