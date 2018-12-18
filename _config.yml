@@ -1,0 +1,8 @@
+include: ['_pages', '_css', '_scripts', '_images']
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+ 
