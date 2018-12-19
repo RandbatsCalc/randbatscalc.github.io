@@ -124,6 +124,39 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Abomasnow-Mega": {
+		"Default": {
+			"level": 80,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Lunalium-Z",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+
+
 	"Aegislash": {
 		"Setname": {
 			"level": 75,
@@ -737,7 +770,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
-	
+
 	"Celesteela": {
 		"PhysDef": {
 			"level": 50,
