@@ -1,4 +1,4 @@
-/* smoochyena wrote this
+/* smoochyena wrote this hello
 Formats of adding Pokemon with one set in:
 "Pokemon": {
 	"Setname": {
