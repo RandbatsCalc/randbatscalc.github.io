@@ -214,58 +214,36 @@ var SETDEX_GEN7_SETS = {
 	},
 
 	"Araquanid": {
-		"Assault Vest": {
-			"level": 50,
+		"Default": {
+			"level": 79,
 			"evs": {
-				"hp": "252",
-				"at": "252",
-				"df": "4"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
-			"nature": "Adamant",
-			"ability": "Water Bubble",
-			"item": "Assault Vest",
-			"moves": [
-				"Liquidation",
-				"Leech Life",
-				"Poison Jab",
-				"Crunch"
-			]
-		},
-		"Choice Band": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"df": "4"
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Adamant",
-			"ability": "Water Bubble",
-			"item": "Choice Band",
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Liquidation",
-				"Leech Life",
-				"Poison Jab",
-				"Crunch"
-			]
-		},
-		"Waterium Z": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"df": "4"
-			},
-			"nature": "Adamant",
-			"ability": "Water Bubble",
-			"item": "Waterium Z",
-			"moves": [
-				"Liquidation",
-				"Leech Life",
-				"Poison Jab",
-				"Crunch"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
+
 	"Arcanine": {
 		"Physically Defensive": {
 			"level": 50,
