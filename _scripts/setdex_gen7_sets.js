@@ -678,101 +678,66 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
+
 	"Bronzong": {
-		"Trick Room Setter": {
-			"level": 50,
+		"Default": {
+			"level": 79,
 			"evs": {
-				"hp": "252",
-				"at": "4",
-				"sd": "252"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"GyroBall": {
+			"level": 79,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
 				"sp": "0"
 			},
-			"nature": "Sassy",
-			"ability": "Levitate",
-			"item": "Occa Berry",
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "0"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
-				"Gyro Ball",
-				"Zen Headbutt",
-				"Explosion",
-				"Hidden Power Ice"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
-	"Buzzwole": {
-		"Assault Vest": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"sd": "4"
-			},
-			"nature": "Adamant",
-			"ability": "Beast Boost",
-			"item": "Assault Vest",
-			"moves": [
-				"Leech Life",
-				"Superpower",
-				"Earthquake",
-				"Ice Punch"
-			]
-		},
-		"Physically Defensive": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "4",
-				"df": "252"
-			},
-			"nature": "Impish",
-			"ability": "Beast Boost",
-			"item": "Rocky Helmet",
-			"moves": [
-				"Leech Life",
-				"Hammer Arm",
-				"Bulk Up",
-				"Roost"
-			]
-		},
-		"Fast": {
-			"level": 50,
-			"evs": {
-				"hp": "4",
-				"at": "252",
-				"sp": "252"
-			},
-			"nature": "Jolly",
-			"ability": "Beast Boost",
-			"item": "Sitrus Berry",
-			"moves": [
-				"Leech Life",
-				"Superpower",
-				"Ice Punch",
-				"Earthquake"
-			]
-		},
-		"Trick Room Sweeper": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"df": "4"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Brave",
-			"ability": "Beast Boost",
-			"item": "Fightinium Z",
-			"moves": [
-				"Hammer Arm",
-				"Leech Life",
-				"Earthquake",
-				"Ice Punch"
-			]
-		}
-	},
+	
 	"Celesteela": {
 		"PhysDef": {
 			"level": 50,
