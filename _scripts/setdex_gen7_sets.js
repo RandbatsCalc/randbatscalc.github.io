@@ -1405,68 +1405,64 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
+
 	"Ferrothorn": {
-		"Wall-Nut (PhysDef)": {
-			"level": 50,
+		"Default": {
+			"level": 75,
 			"evs": {
-				"hp": "252",
-				"df": "252",
-				"sd": "4"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"ivs": {
-				"sp": "0"
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
 			},
-			"nature": "Relaxed",
-			"ability": "Iron Barbs",
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Power Whip",
-				"Gyro Ball",
-				"Knock Off",
-				"Bullet Seed"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		},
-		"Cashew (SpDef)": {
-			"level": 50,
+		"Gyro Ball": {
+			"level": 75,
 			"evs": {
-				"hp": "252",
-				"df": "4",
-				"sd": "252"
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84"
 			},
 			"ivs": {
-				"sp": "0"
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31"
 			},
-			"nature": "Sassy",
-			"ability": "Iron Barbs",
+			"nature": "Serious",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Power Whip",
-				"Gyro Ball",
-				"Knock Off",
-				"Bullet Seed"
-			]
-		},
-		"Choice Band": {
-			"level": 50,
-			"evs": {
-				"hp": "252",
-				"at": "252",
-				"df": "4"
-			},
-			"ivs": {
-				"sp": "0"
-			},
-			"nature": "Brave",
-			"ability": "Iron Barbs",
-			"item": "Choice Band",
-			"moves": [
-				"Power Whip",
-				"Gyro Ball",
-				"Knock Off",
-				"Bullet Seed"
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
 			]
 		}
 	},
+
 	"Garchomp": {
 		"Lurechomp": {
 			"level": 50,
