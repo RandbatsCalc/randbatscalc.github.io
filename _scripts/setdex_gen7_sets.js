@@ -1449,7 +1449,8 @@ var SETDEX_GEN7_SETS = {
 				"at": "31",
 				"df": "31",
 				"sa": "31",
-				"sd": "31"
+				"sd": "31",
+				"sp": "0"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
