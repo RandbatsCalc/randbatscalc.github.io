@@ -47,7 +47,7 @@ var SETDEX_GEN7_SETS = {
 				"sp": "31"
 			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Snow Warning",
 			"item": "Abomasite",
 			"moves": [
 				"Tackle",
