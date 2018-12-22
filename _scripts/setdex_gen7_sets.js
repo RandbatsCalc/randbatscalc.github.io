@@ -1,97 +1,3 @@
-/* smoochyena wrote this hello
-Formats of adding Pokemon with one set in:
-"Pokemon": {
-	"Setname": {
-		"level": 75,
-		"evs": {
-			"hp": "84",
-			"at": "84",
-			"df": "84",
-			"sa": "84",
-			"sd": "84",
-			"sp": "84"
-		},
-		"ivs": {
-			"hp": "31",
-			"at": "31",
-			"df": "31",
-			"sa": "31",
-			"sd": "31",
-			"sp": "31"
-		},
-		"nature": "Serious",
-		"ability": "Defiant",
-		"item": "Leftovers",
-		"moves": [
-			"Tackle",
-			"Take Down",
-			"Earthquake",
-			"Accelerock"
-		]
-	}
-},
-Format of adding Pokemon with more than one set in:
-"Pokemon": {
-	"Setname": {
-		"level": 75,
-		"evs": {
-			"hp": "84",
-			"at": "84",
-			"df": "84",
-			"sa": "84",
-			"sd": "84",
-			"sp": "84"
-		},
-		"ivs": {
-			"hp": "31",
-			"at": "31",
-			"df": "31",
-			"sa": "31",
-			"sd": "31",
-			"sp": "31"
-		},
-		"nature": "Serious",
-		"ability": "Defiant",
-		"item": "Leftovers",
-		"moves": [
-			"Tackle",
-			"Take Down",
-			"Earthquake",
-			"Accelerock"
-		]
-	},
-	"Setname2": {
-		"level": 75,
-		"evs": {
-			"hp": "84",
-			"at": "84",
-			"df": "84",
-			"sa": "84",
-			"sd": "84",
-			"sp": "84"
-		},
-		"ivs": {
-			"hp": "31",
-			"at": "31",
-			"df": "31",
-			"sa": "31",
-			"sd": "31",
-			"sp": "31"
-		},
-		"nature": "Serious",
-		"ability": "Defiant",
-		"item": "Leftovers",
-		"moves": [
-			"Tackle",
-			"Take Down",
-			"Earthquake",
-			"Accelerock"
-		]
-	}
-},
-
-*/
-
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Default": {
@@ -115,6 +21,34 @@ var SETDEX_GEN7_SETS = {
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 80,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Abomasite",
 			"moves": [
 				"Tackle",
 				"Take Down",
