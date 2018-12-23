@@ -3241,34 +3241,6 @@ var SETDEX_GEN7_SETS = {
 				"Accelerock"
 			]
 		},
-		"50% (Complete)": {
-			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Power Construct",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
 		"10%": {
 			"level": 79,
 			"evs": {
@@ -3289,34 +3261,6 @@ var SETDEX_GEN7_SETS = {
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"10% (Complete)": {
-			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Power Construct",
 			"item": "Leftovers",
 			"moves": [
 				"Tackle",
