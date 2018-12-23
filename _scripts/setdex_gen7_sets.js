@@ -3353,7 +3353,7 @@ var SETDEX_GEN7_SETS = {
 				"Accelerock"
 			]
 		}
-	},
+	}
 
 
 
