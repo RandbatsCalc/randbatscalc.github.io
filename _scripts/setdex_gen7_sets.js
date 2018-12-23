@@ -1,3 +1,98 @@
+//note fix the arceuses that don't have a proper set
+/* Formats of adding Pokemon with one set in:
+"Pokemon": {
+	"Default": {
+		"level": 75,
+		"evs": {
+			"hp": "84",
+			"at": "84",
+			"df": "84",
+			"sa": "84",
+			"sd": "84",
+			"sp": "84"
+		},
+		"ivs": {
+			"hp": "31",
+			"at": "31",
+			"df": "31",
+			"sa": "31",
+			"sd": "31",
+			"sp": "31"
+		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	}
+},
+
+Format for adding pokemon with 2 sets in:
+"Pokemon": {
+	"Default": {
+		"level": 75,
+		"evs": {
+			"hp": "84",
+			"at": "84",
+			"df": "84",
+			"sa": "84",
+			"sd": "84",
+			"sp": "84"
+		},
+		"ivs": {
+			"hp": "31",
+			"at": "31",
+			"df": "31",
+			"sa": "31",
+			"sd": "31",
+			"sp": "31"
+		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	},
+	"Mega": {
+		"level": 75,
+		"evs": {
+			"hp": "84",
+			"at": "84",
+			"df": "84",
+			"sa": "84",
+			"sd": "84",
+			"sp": "84"
+		},
+		"ivs": {
+			"hp": "31",
+			"at": "31",
+			"df": "31",
+			"sa": "31",
+			"sd": "31",
+			"sp": "31"
+		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	}
+},
+
+
+*/
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Default": {
