@@ -965,7 +965,7 @@ var SETDEX_GEN7_SETS = {
 				"sp": "31"
 			},
 			"nature": "Serious",
-			"ability": "Defeatist",
+			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
 				"Tackle",
