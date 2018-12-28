@@ -8098,6 +8098,864 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Lanturn": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lapras": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Latias": {
+		"Default": {
+			"level": 77,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 76,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Levitate",
+				"item": "Latiasite",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Latios": {
+		"Default": {
+			"level": 76,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 76,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Levitate",
+			"item": "Latiosite",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Leafeon": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Leavanny": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Ledian": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lickilicky": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Liepard": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lilligant": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Linoone": {
+		"Default": {
+			"level": 79,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lopunny": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 75,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lucario": {
+		"Default": {
+			"level": 77,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Adaptability",
+			"item": "Lucarionite",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Ludicolo": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lugia": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lumineon": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lunala": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lunatone": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lurantis": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Luvdisc": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Luxray": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lycanroc": {
+		"Default": {
+			"level": 83,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lycanroc-Dusk": {
+		"Default": {
+			"level": 79,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Tough Claws",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Lycanroc-Midnight": {
+		"Default": {
+			"level": 75,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"ivs": {
+				"hp": "31",
+				"at": "31",
+				"df": "31",
+				"sa": "31",
+				"sd": "31",
+				"sp": "31"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+
+
 
 
 	"Zygarde": {
