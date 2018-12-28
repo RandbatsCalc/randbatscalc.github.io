@@ -1,5 +1,6 @@
-//note fix the arceuses that don't have a proper set
-/* Formats of adding Pokemon with one set in:
+//note fix the arceuses and silvallies that don't have a proper set
+/*Find out how to properly name stuff
+ Formats of adding Pokemon with one set in:
 "Pokemon": {
 	"Default": {
 		"level": 75,
