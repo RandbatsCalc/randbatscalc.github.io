@@ -8067,7 +8067,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Landorus-Therian": {
+	"Landorus-T": {
 		"Default": {
 			"level": 75,
 			"evs": {
@@ -8098,7 +8098,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	
+
 
 	"Zygarde": {
 		"50%": {
