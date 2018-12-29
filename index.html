@@ -1,10 +1,10 @@
 ---
 layout: default
-title: cantsaycalc BETA
+title: Random Battles Damage Calc
 ---
 <div class="wrapper">
 	<div>
-		<span class="title-text">Battle Spot Singles Damage Calculator - Let's Go! Edition</span>
+		<span class="title-text"> USUM Random Battles Damage Calculator</span>
 		<span class="generation-select" title="Select the format.">
 			<!-- Gen 5: GBU, Gen 6: ORAS, Gen 7: USUM, Gen 20: Factory, Gen 21: Factory, Gen 22: LGPE -->
 			<input class="gen btn-input" type="radio" name="gen" value="5" id="gen5" /><label class="btn btn-small btn-left" for="gen5">GBU</label>
@@ -16,16 +16,16 @@ title: cantsaycalc BETA
 			<input class="gen btn-input" type="radio" name="gen" value="21" id="gen21" /><label class="btn btn-small btn-mid" for="gen21">Inverse</label>
 
 			<input class="gen btn-input" type="radio" name="gen" value="20" id="gen20" /><label class="btn btn-small btn-mid" for="gen20">Factory</label>
-			
+
 			<input class="gen btn-input" type="radio" name="gen" value="22" id="gen22" /><label class="btn btn-small btn-right" for="gen22">LGPE</label>
 		</span>
 		<span>What's "<a href="https://www.smogon.com/forums/threads/3604845/">Factory</a>"?</span>
 
 	</div>
 	<hr />
-	<p>BSS calc by <a href="https://twitter.com/cantsay_smogon">@cantsay_smogon</a> &amp; <a href="https://www.smogon.com/forums/members/188833/">LegoFigure11</a></p>
-	<p>Navigate to Alolan Formes by typing the full name such as <b>Marowak-Alola.</b></p>
-	<p>Something missing? Suggest sets to be permanently added to the calculator <a href="https://www.smogon.com/forums/threads/3597699/">here</a>!</p>
+	<p>Random Battles Calc by <a href="https://www.smogon.com/forums/members/smoochyena.463545/">Smoochyena</a> </p>
+	<p>Navigate to Alolan Formes by typing the full name, such as <b>Marowak-Alola.</b></p>
+	<p>Find a mistake? Report bugs <a href="https://www.smogon.com/forums/threads/3597699/">here</a>!</p>
 
 	<!-- <div class="banner"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
 	<!-- Damage Calc Header -->
@@ -252,10 +252,10 @@ title: cantsaycalc BETA
 						<td></td>
 						<td class='ev-total'>&nbsp;</td>
 						<td><span class="info-group">
-							<button class="gen-specific g22 hide minAvL calc-trigger btn" id="minAvL" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').val(0); $('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').change()" />Min</button> 
+							<button class="gen-specific g22 hide minAvL calc-trigger btn" id="minAvL" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').val(0); $('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').change()" />Min</button>
 						</span></td>
 						<td><span class="info-group">
-							<button class="gen-specific g22 hide maxAvL calc-trigger btn" id="maxAvL" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').val(200); $('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').change()" />Max</button> 
+							<button class="gen-specific g22 hide maxAvL calc-trigger btn" id="maxAvL" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').val(200); $('#p1 .hp .avs, #p1 .at .avs, #p1 .df .avs, #p1 .sa .avs, #p1 .sd .avs, #p1 .sp .avs').change()" />Max</button>
 						</span></td>
 						<td></td>
 					</tr>
@@ -381,7 +381,7 @@ title: cantsaycalc BETA
 			<div class="info-group">
 			<label class="gen-specific g22 hide">Happiness</label>
 				<input class="gen-specific g22 hide current-happiness hapL calc-trigger" value="255" />
-				<button class="gen-specific g22 hide minHapL calc-trigger btn" id="minHapL" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapL').val(0); $('.hapL').change()" />Min</button> 
+				<button class="gen-specific g22 hide minHapL calc-trigger btn" id="minHapL" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapL').val(0); $('.hapL').change()" />Min</button>
 				<button class="gen-specific g22 hide maxHapL calc-trigger btn" id="maxHapL" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapL').val(255); $('.hapL').change()"/>Max</button>
 				<br />
 				<label>Current HP</label>
@@ -861,10 +861,10 @@ title: cantsaycalc BETA
 						<td></td>
 						<td class='ev-total'>&nbsp;</td>
 						<td><span class="info-group">
-							<button class="gen-specific g22 hide minAvR calc-trigger btn" id="minAvR" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').val(0); $('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').change()" />Min</button> 
+							<button class="gen-specific g22 hide minAvR calc-trigger btn" id="minAvR" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').val(0); $('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').change()" />Min</button>
 						</span></td>
 						<td><span class="info-group">
-							<button class="gen-specific g22 hide maxAvR calc-trigger btn" id="maxAvR" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').val(200); $('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').change()" />Max</button> 
+							<button class="gen-specific g22 hide maxAvR calc-trigger btn" id="maxAvR" style="padding:0px; width: 4em; margin-left: 0.1em;" onclick="$('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').val(200); $('#p2 .hp .avs, #p2 .at .avs, #p2 .df .avs, #p2 .sa .avs, #p2 .sd .avs, #p2 .sp .avs').change()" />Max</button>
 						</span></td>
 						<td></td>
 					</tr>
@@ -990,7 +990,7 @@ title: cantsaycalc BETA
 			<div class="info-group">
 				<label class="gen-specific g22 hide">Happiness</label>
 				<input class="gen-specific g22 hide current-happiness hapR calc-trigger" value="255" />
-				<button class="gen-specific g22 hide minHapR calc-trigger btn" id="minHapR" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapR').val(0); $('.hapR').change()" />Min</button> 
+				<button class="gen-specific g22 hide minHapR calc-trigger btn" id="minHapR" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapR').val(0); $('.hapR').change()" />Min</button>
 				<button class="gen-specific g22 hide maxHapR calc-trigger btn" id="maxHapR" style="padding:0px; width: 3em; margin-left: 0.1em;" onclick="$('.hapR').val(255); $('.hapR').change()" />Max</button>
 				<br />
 				<label>Current HP</label>
