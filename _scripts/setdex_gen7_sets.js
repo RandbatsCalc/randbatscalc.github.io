@@ -96,26 +96,7 @@ Format for adding pokemon with 2 sets in:
 */
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
-		"Default": {
-			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
+		"Defaults": {"level": 83, "evs": { "hp": "84", "at": "84", "df": "84", "sa": "84", "sd": "84", "sp": "84"}, "nature": "Serious", "ability": "Defiant", "item": "Leftovers", "moves": ["Tackle", "Take Down", "Earthquake", "Accelerock"]},
 		"Mega": {
 			"level": 80,
 			"evs": {
