@@ -126,14 +126,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Snow Warning",
 			"item": "Abomasite",
@@ -157,14 +149,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -184,14 +168,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Magic Bounce",
@@ -216,14 +192,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -246,14 +214,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -278,14 +238,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -305,14 +257,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Tough Claws",
@@ -337,14 +281,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -364,14 +300,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Filter",
@@ -396,14 +324,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -423,14 +343,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Trace",
@@ -455,14 +367,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -486,14 +390,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -513,14 +409,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Pixilate",
@@ -545,14 +433,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -575,14 +455,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -607,14 +479,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -634,14 +498,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Mold Breaker",
@@ -666,14 +522,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -696,14 +544,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -728,14 +568,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -759,17 +591,32 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
+			"nature": "Serious",
+			"ability": "Multitype",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Arceus-Bug": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
+			"ability": "Multitype",
+			"item": "Insect Plate",
 			"moves": [
 				"Tackle",
 				"Take Down",
@@ -790,16 +637,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Flame Plate",
 			"moves": [
 				"Tackle",
@@ -821,16 +660,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Splash Plate",
 			"moves": [
 				"Tackle",
@@ -852,16 +683,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Zap Plate",
 			"moves": [
 				"Tackle",
@@ -883,16 +706,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Meadow Plate",
 			"moves": [
 				"Tackle",
@@ -914,16 +729,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Icicle Plate",
 			"moves": [
 				"Tackle",
@@ -945,16 +752,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Fist-Plate",
 			"moves": [
 				"Tackle",
@@ -976,16 +775,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Toxic Plate",
 			"moves": [
 				"Tackle",
@@ -1007,16 +798,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Earth Plate",
 			"moves": [
 				"Tackle",
@@ -1038,16 +821,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Draco Plate",
 			"moves": [
 				"Tackle",
@@ -1069,16 +844,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Dread Plate",
 			"moves": [
 				"Tackle",
@@ -1100,16 +867,8 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
-			"ability": "Defiant",
+			"ability": "Multitype",
 			"item": "Iron Plate",
 			"moves": [
 				"Tackle",
@@ -1131,17 +890,101 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
+			"nature": "Serious",
+			"ability": "Multitype",
+			"item": "Pixie Plate",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Arceus-Flying": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
 			},
 			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Pixie Plate",
+			"ability": "Multitype",
+			"item": "Sky Plate",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Arceus-Ghost": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"nature": "Serious",
+			"ability": "Multitype",
+			"item": "Spooky Plate",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Arceus-Psychic": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"nature": "Serious",
+			"ability": "Multitype",
+			"item": "Mind Plate",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Arceus-Rock": {
+		"Default": {
+			"level": 73,
+			"evs": {
+				"hp": "84",
+				"at": "84",
+				"df": "84",
+				"sa": "84",
+				"sd": "84",
+				"sp": "84"
+			},
+			"nature": "Serious",
+			"ability": "Multitype",
+			"item": "Stone Plate",
 			"moves": [
 				"Tackle",
 				"Take Down",
@@ -1161,14 +1004,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1193,14 +1028,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1223,14 +1050,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1255,14 +1074,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1285,14 +1096,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1317,14 +1120,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1344,14 +1139,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Healer",
@@ -1376,14 +1163,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1406,14 +1185,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1438,14 +1209,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1468,14 +1231,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Huge Power",
@@ -1500,14 +1255,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1527,14 +1274,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Prankster",
@@ -1559,14 +1298,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1589,14 +1320,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1621,14 +1344,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1651,14 +1366,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1683,14 +1390,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1714,14 +1413,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1741,14 +1432,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Adaptability",
@@ -1773,14 +1456,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1803,14 +1478,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1835,14 +1502,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1865,14 +1524,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1897,14 +1548,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1927,14 +1570,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -1959,14 +1594,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1986,14 +1613,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Mega Launcher",
@@ -2018,14 +1637,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2045,14 +1656,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Speed Boost",
@@ -2077,14 +1680,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2107,14 +1702,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2139,14 +1726,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2169,14 +1748,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2201,14 +1772,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2230,10 +1793,6 @@ var SETDEX_GEN7_SETS = {
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -2260,14 +1819,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2290,14 +1841,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2322,14 +1865,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2352,14 +1887,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2384,14 +1911,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2411,14 +1930,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Sheer Force",
@@ -2443,14 +1954,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2473,14 +1976,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2505,14 +2000,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2535,14 +2022,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2567,14 +2046,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2597,14 +2068,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2629,14 +2092,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2659,14 +2114,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2691,14 +2138,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2719,14 +2158,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Charizardite-X",
@@ -2746,14 +2177,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Drought",
@@ -2778,14 +2201,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2808,14 +2223,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2840,14 +2247,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2870,14 +2269,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2902,14 +2293,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2932,14 +2315,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -2964,14 +2339,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2994,14 +2361,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3026,14 +2385,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3056,14 +2407,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3088,14 +2431,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3118,14 +2453,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3150,14 +2477,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3180,14 +2499,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3212,14 +2523,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3242,14 +2545,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3274,14 +2569,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3304,14 +2591,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3336,14 +2615,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3366,14 +2637,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3398,14 +2661,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3428,14 +2683,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3460,14 +2707,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3490,14 +2729,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3522,14 +2753,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3552,14 +2775,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3584,14 +2799,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3614,14 +2821,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3646,14 +2845,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3676,14 +2867,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3708,14 +2891,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3738,14 +2913,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3770,14 +2937,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3800,14 +2959,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3832,14 +2983,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3863,14 +3006,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3890,14 +3025,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Magic Bounce",
@@ -3922,14 +3049,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3952,14 +3071,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -3984,14 +3095,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4014,14 +3117,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4046,14 +3141,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4076,14 +3163,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4108,14 +3187,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4138,14 +3209,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4170,14 +3233,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4200,14 +3255,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4232,14 +3279,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4262,14 +3301,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4294,14 +3325,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4324,14 +3347,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4356,14 +3371,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4386,14 +3393,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -4418,14 +3417,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4448,14 +3439,6 @@ var SETDEX_GEN7_SETS = {
 				"sa": "84",
 				"sd": "84",
 				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
