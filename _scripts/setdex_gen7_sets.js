@@ -106,10 +106,6 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {	
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
