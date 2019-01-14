@@ -106,11 +106,7 @@ var SETDEX_GEN7_SETS = {
 				"sd": "84",
 				"sp": "84"
 			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
+			"ivs": {	
 				"sd": "31",
 				"sp": "31"
 			},
@@ -15643,7 +15639,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
-	
+
 	"Tornadus-T": {
 		"Default": {
 			"level": 75,
@@ -15674,7 +15670,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
-	
+
 	"Torterra": {
 		"Default": {
 			"level": 81,
