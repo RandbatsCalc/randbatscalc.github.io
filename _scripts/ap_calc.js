@@ -368,13 +368,13 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			var set = setdex[pokemonName][setName];
 			if (Lv100) pokeObj.find(".level").val(100);
 			else pokeObj.find(".level").val(set.level);
-			pokeObj.find(".hp .evs").val(set.evs && typeof set.evs.hp !== "undefined" ? set.evs.hp : 0);
-			pokeObj.find(".hp .avs").val(set.avs && typeof set.avs.hp !== "undefined" ? set.avs.hp : 0);
+			pokeObj.find(".hp .evs").val(set.evs && typeof set.evs.hp !== "undefined" ? set.evs.hp : 85);
+			pokeObj.find(".hp .avs").val(set.avs && typeof set.avs.hp !== "undefined" ? set.avs.hp : 20);
 			pokeObj.find(".hp .ivs").val(set.ivs && typeof set.ivs.hp !== "undefined" ? set.ivs.hp : 31);
 			pokeObj.find(".hp .dvs").val(set.dvs && typeof set.dvs.hp !== "undefined" ? set.dvs.hp : 15);
 			for (i = 0; i < STATS.length; i++) {
-				pokeObj.find("." + STATS[i] + " .evs").val(set.evs && typeof set.evs[STATS[i]] !== "undefined" ? set.evs[STATS[i]] : 0);
-				pokeObj.find("." + STATS[i] + " .avs").val(set.avs && typeof set.avs[STATS[i]] !== "undefined" ? set.avs[STATS[i]] : 0);
+				pokeObj.find("." + STATS[i] + " .evs").val(set.evs && typeof set.evs[STATS[i]] !== "undefined" ? set.evs[STATS[i]] : 85);
+				pokeObj.find("." + STATS[i] + " .avs").val(set.avs && typeof set.avs[STATS[i]] !== "undefined" ? set.avs[STATS[i]] : 20);
 				pokeObj.find("." + STATS[i] + " .ivs").val(set.ivs && typeof set.ivs[STATS[i]] !== "undefined" ? set.ivs[STATS[i]] : 31);
 				pokeObj.find("." + STATS[i] + " .dvs").val(set.dvs && typeof set.dvs[STATS[i]] !== "undefined" ? set.dvs[STATS[i]] : 15);
 			}
@@ -389,13 +389,13 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 		} else {
 			if (Lv100) pokeObj.find(".level").val(100);
 			else pokeObj.find(".level").val(50);
-			pokeObj.find(".hp .evs").val(0);
-			pokeObj.find(".hp .avs").val(0);
+			pokeObj.find(".hp .evs").val(85);
+			pokeObj.find(".hp .avs").val(20);
 			pokeObj.find(".hp .ivs").val(31);
 			pokeObj.find(".hp .dvs").val(15);
 			for (i = 0; i < STATS.length; i++) {
-				pokeObj.find("." + STATS[i] + " .evs").val(0);
-				pokeObj.find("." + STATS[i] + " .avs").val(0);
+				pokeObj.find("." + STATS[i] + " .evs").val(85);
+				pokeObj.find("." + STATS[i] + " .avs").val(20);
 				pokeObj.find("." + STATS[i] + " .ivs").val(31);
 				pokeObj.find("." + STATS[i] + " .dvs").val(15);
 			}

@@ -92,7 +92,6 @@ Format for adding pokemon with 2 sets in:
 	}
 },
 
-
 */
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
@@ -4046,7 +4045,7 @@ var SETDEX_GEN7_SETS = {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Levitate",
-				"item": "Latiasite",
+			"item": "Latiasite",
 			"moves": [
 				"Tackle",
 				"Take Down",
@@ -7149,23 +7148,23 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Trick Room and/or Gyro Ball": {
 			"level": 77,
-				"sd": "84",
-				"sp": "0"
-			},
-			"ivs": {
-				"sd": "31",
-				"sp": "0"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"sd": "84",
+			"sp": "0"
 		},
+		"ivs": {
+			"sd": "31",
+			"sp": "0"
+		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	},
 
 	"Stantler": {
 		"Default": {
@@ -8058,17 +8057,17 @@ var SETDEX_GEN7_SETS = {
 	"Volbeat": {
 		"Default": {
 			"level": 83,
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
 		},
+		"nature": "Serious",
+		"ability": "Defiant",
+		"item": "Leftovers",
+		"moves": [
+			"Tackle",
+			"Take Down",
+			"Earthquake",
+			"Accelerock"
+		]
+	},
 
 	"Volcanion": {
 		"Default": {
