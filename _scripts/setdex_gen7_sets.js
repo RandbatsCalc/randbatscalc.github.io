@@ -1058,22 +1058,6 @@ var SETDEX_GEN7_SETS = {
 	"Blastoise": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1086,22 +1070,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Mega Launcher",
 			"item": "Blastoisinite",
@@ -1117,22 +1085,6 @@ var SETDEX_GEN7_SETS = {
 	"Blaziken": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1145,22 +1097,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Speed Boost",
 			"item": "Blazikenite",
@@ -1176,22 +1112,6 @@ var SETDEX_GEN7_SETS = {
 	"Blissey": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1207,22 +1127,6 @@ var SETDEX_GEN7_SETS = {
 	"Bouffalant": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1238,22 +1142,6 @@ var SETDEX_GEN7_SETS = {
 	"Braviary": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1269,22 +1157,6 @@ var SETDEX_GEN7_SETS = {
 	"Breloom": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1300,22 +1172,6 @@ var SETDEX_GEN7_SETS = {
 	"Bronzong": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1329,18 +1185,10 @@ var SETDEX_GEN7_SETS = {
 		"Gyro Ball": {
 			"level": 79,
 			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -1359,22 +1207,6 @@ var SETDEX_GEN7_SETS = {
 	"Bruxish": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1390,22 +1222,6 @@ var SETDEX_GEN7_SETS = {
 	"Butterfree": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1421,22 +1237,6 @@ var SETDEX_GEN7_SETS = {
 	"Buzzwole": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1452,22 +1252,6 @@ var SETDEX_GEN7_SETS = {
 	"Cacturne": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1483,22 +1267,6 @@ var SETDEX_GEN7_SETS = {
 	"Camerupt": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1511,22 +1279,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Sheer Force",
 			"item": "Cameruptite",
@@ -1542,22 +1294,6 @@ var SETDEX_GEN7_SETS = {
 	"Carbink": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1573,22 +1309,6 @@ var SETDEX_GEN7_SETS = {
 	"Carnivine": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1604,22 +1324,6 @@ var SETDEX_GEN7_SETS = {
 	"Carracosta": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1635,22 +1339,6 @@ var SETDEX_GEN7_SETS = {
 	"Castform": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1666,22 +1354,6 @@ var SETDEX_GEN7_SETS = {
 	"Celebi": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1697,22 +1369,6 @@ var SETDEX_GEN7_SETS = {
 	"Celesteela": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1728,22 +1384,6 @@ var SETDEX_GEN7_SETS = {
 	"Chandelure": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1759,22 +1399,6 @@ var SETDEX_GEN7_SETS = {
 	"Chansey": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1790,22 +1414,6 @@ var SETDEX_GEN7_SETS = {
 	"Charizard": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1818,22 +1426,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega-X": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Charizardite-X",
@@ -1846,22 +1438,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega-Y": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Drought",
 			"item": "Charizardite-Y",
@@ -1877,22 +1453,6 @@ var SETDEX_GEN7_SETS = {
 	"Chatot": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1908,22 +1468,6 @@ var SETDEX_GEN7_SETS = {
 	"Cherrim": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1939,22 +1483,6 @@ var SETDEX_GEN7_SETS = {
 	"Chesnaught": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1970,22 +1498,6 @@ var SETDEX_GEN7_SETS = {
 	"Chimecho": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2001,22 +1513,6 @@ var SETDEX_GEN7_SETS = {
 	"Cinccino": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2032,22 +1528,6 @@ var SETDEX_GEN7_SETS = {
 	"Clawitzer": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2063,22 +1543,6 @@ var SETDEX_GEN7_SETS = {
 	"Claydol": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2094,22 +1558,6 @@ var SETDEX_GEN7_SETS = {
 	"Clefable": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2125,22 +1573,6 @@ var SETDEX_GEN7_SETS = {
 	"Cloyster": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2156,22 +1588,6 @@ var SETDEX_GEN7_SETS = {
 	"Coballion": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2187,22 +1603,6 @@ var SETDEX_GEN7_SETS = {
 	"Cofagrigus": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2218,22 +1618,6 @@ var SETDEX_GEN7_SETS = {
 	"Comfey": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2249,22 +1633,6 @@ var SETDEX_GEN7_SETS = {
 	"Conkeldurr": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2280,22 +1648,6 @@ var SETDEX_GEN7_SETS = {
 	"Corsola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2311,22 +1663,6 @@ var SETDEX_GEN7_SETS = {
 	"Crabominable": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2342,22 +1678,6 @@ var SETDEX_GEN7_SETS = {
 	"Cradily": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2373,22 +1693,6 @@ var SETDEX_GEN7_SETS = {
 	"Crawdaunt": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2404,22 +1708,6 @@ var SETDEX_GEN7_SETS = {
 	"Cresselia": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2435,22 +1723,6 @@ var SETDEX_GEN7_SETS = {
 	"Crobat": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2466,22 +1738,6 @@ var SETDEX_GEN7_SETS = {
 	"Crustle": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2497,22 +1753,6 @@ var SETDEX_GEN7_SETS = {
 	"Cryogonal": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2528,22 +1768,6 @@ var SETDEX_GEN7_SETS = {
 	"Darkrai": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2559,22 +1783,6 @@ var SETDEX_GEN7_SETS = {
 	"Darmanitan": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2590,22 +1798,6 @@ var SETDEX_GEN7_SETS = {
 	"Decidueye": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2621,22 +1813,6 @@ var SETDEX_GEN7_SETS = {
 	"Dedenne": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2652,22 +1828,6 @@ var SETDEX_GEN7_SETS = {
 	"Delcatty": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2683,22 +1843,6 @@ var SETDEX_GEN7_SETS = {
 	"Delibird": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2714,22 +1858,6 @@ var SETDEX_GEN7_SETS = {
 	"Delphox": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2745,22 +1873,6 @@ var SETDEX_GEN7_SETS = {
 	"Deoxys": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2776,22 +1888,6 @@ var SETDEX_GEN7_SETS = {
 	"Deoxys-A": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2807,22 +1903,6 @@ var SETDEX_GEN7_SETS = {
 	"Deoxys-D": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2838,22 +1918,6 @@ var SETDEX_GEN7_SETS = {
 	"Deoxys-S": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2869,22 +1933,6 @@ var SETDEX_GEN7_SETS = {
 	"Dewgong": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2900,22 +1948,6 @@ var SETDEX_GEN7_SETS = {
 	"Dhelmise": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2931,22 +1963,6 @@ var SETDEX_GEN7_SETS = {
 	"Dialga": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2962,22 +1978,6 @@ var SETDEX_GEN7_SETS = {
 	"Diancie": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2990,22 +1990,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Diancite",
@@ -3021,22 +2005,6 @@ var SETDEX_GEN7_SETS = {
 	"Diggersby": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3052,22 +2020,6 @@ var SETDEX_GEN7_SETS = {
 	"Ditto": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3083,22 +2035,6 @@ var SETDEX_GEN7_SETS = {
 	"Dodrio": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3114,22 +2050,6 @@ var SETDEX_GEN7_SETS = {
 	"Donphan": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3145,22 +2065,6 @@ var SETDEX_GEN7_SETS = {
 	"Dragalge": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3176,22 +2080,6 @@ var SETDEX_GEN7_SETS = {
 	"Dragonite": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3207,22 +2095,6 @@ var SETDEX_GEN7_SETS = {
 	"Drampa": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3238,22 +2110,6 @@ var SETDEX_GEN7_SETS = {
 	"Drapion": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3269,22 +2125,6 @@ var SETDEX_GEN7_SETS = {
 	"Drifblim": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3300,22 +2140,6 @@ var SETDEX_GEN7_SETS = {
 	"Druddigon": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3331,22 +2155,6 @@ var SETDEX_GEN7_SETS = {
 	"Dugtrio": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3362,22 +2170,6 @@ var SETDEX_GEN7_SETS = {
 	"Dugtrio-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3393,22 +2185,6 @@ var SETDEX_GEN7_SETS = {
 	"Dunsparce": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3424,22 +2200,6 @@ var SETDEX_GEN7_SETS = {
 	"Durant": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3455,22 +2215,6 @@ var SETDEX_GEN7_SETS = {
 	"Dusknoir": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3486,22 +2230,6 @@ var SETDEX_GEN7_SETS = {
 	"Dustox": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3517,22 +2245,6 @@ var SETDEX_GEN7_SETS = {
 	"Eelektross": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3548,22 +2260,6 @@ var SETDEX_GEN7_SETS = {
 	"Electivire": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3579,22 +2275,6 @@ var SETDEX_GEN7_SETS = {
 	"Electrode": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3610,22 +2290,6 @@ var SETDEX_GEN7_SETS = {
 	"Emboar": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3641,22 +2305,6 @@ var SETDEX_GEN7_SETS = {
 	"Emolga": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3672,22 +2320,6 @@ var SETDEX_GEN7_SETS = {
 	"Empoleon": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3703,22 +2335,6 @@ var SETDEX_GEN7_SETS = {
 	"Entei": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3734,22 +2350,6 @@ var SETDEX_GEN7_SETS = {
 	"Escavalier": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3765,22 +2365,6 @@ var SETDEX_GEN7_SETS = {
 	"Espeon": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3796,22 +2380,6 @@ var SETDEX_GEN7_SETS = {
 	"Excadril": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3827,22 +2395,6 @@ var SETDEX_GEN7_SETS = {
 	"Exeggutor": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3858,22 +2410,6 @@ var SETDEX_GEN7_SETS = {
 	"Exeggutor-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3889,22 +2425,6 @@ var SETDEX_GEN7_SETS = {
 	"Exploud": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3920,22 +2440,6 @@ var SETDEX_GEN7_SETS = {
 	"Farfetch'd": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3951,22 +2455,6 @@ var SETDEX_GEN7_SETS = {
 	"Fearow": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3982,22 +2470,6 @@ var SETDEX_GEN7_SETS = {
 	"Feraligatr": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4013,22 +2485,6 @@ var SETDEX_GEN7_SETS = {
 	"Ferrothorn": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4042,18 +2498,10 @@ var SETDEX_GEN7_SETS = {
 		"Gyro Ball": {
 			"level": 75,
 			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -4072,22 +2520,6 @@ var SETDEX_GEN7_SETS = {
 	"Flareon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4103,22 +2535,6 @@ var SETDEX_GEN7_SETS = {
 	"Floatzel": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4134,22 +2550,6 @@ var SETDEX_GEN7_SETS = {
 	"Floette-Eternal": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4165,22 +2565,6 @@ var SETDEX_GEN7_SETS = {
 	"Florges": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4196,22 +2580,6 @@ var SETDEX_GEN7_SETS = {
 	"Flygon": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4227,22 +2595,6 @@ var SETDEX_GEN7_SETS = {
 	"Furfrou": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4258,22 +2610,6 @@ var SETDEX_GEN7_SETS = {
 	"Furret": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4289,22 +2625,6 @@ var SETDEX_GEN7_SETS = {
 	"Gallade": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4317,22 +2637,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Inner Focus",
 			"item": "Galladite",
@@ -4348,22 +2652,6 @@ var SETDEX_GEN7_SETS = {
 	"Galvantula": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4379,22 +2667,6 @@ var SETDEX_GEN7_SETS = {
 	"Garbodor": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4410,22 +2682,6 @@ var SETDEX_GEN7_SETS = {
 	"Garchomp": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4438,22 +2694,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Sand Force",
 			"item": "Garchompite",
@@ -4469,22 +2709,6 @@ var SETDEX_GEN7_SETS = {
 	"Gardevoir": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4497,22 +2721,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Pixilate",
 			"item": "Gardevoirite",
@@ -4528,22 +2736,6 @@ var SETDEX_GEN7_SETS = {
 	"Gastrodon": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4559,22 +2751,6 @@ var SETDEX_GEN7_SETS = {
 	"Genesect": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4590,22 +2766,6 @@ var SETDEX_GEN7_SETS = {
 	"Gengar": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4618,22 +2778,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Shadow Tag",
 			"item": "Gengarite",
@@ -4649,22 +2793,6 @@ var SETDEX_GEN7_SETS = {
 	"Gigalith": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4680,22 +2808,6 @@ var SETDEX_GEN7_SETS = {
 	"Girafarig": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4711,22 +2823,6 @@ var SETDEX_GEN7_SETS = {
 	"Giratina": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4739,25 +2835,9 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Giratina-Origin": {
+	"Giratina-O": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Griseous Orb",
@@ -4773,22 +2853,6 @@ var SETDEX_GEN7_SETS = {
 	"Glaceon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4804,22 +2868,6 @@ var SETDEX_GEN7_SETS = {
 	"Glalie": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4832,22 +2880,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Refrigerate",
 			"item": "Glalitite",
@@ -4863,22 +2895,6 @@ var SETDEX_GEN7_SETS = {
 	"Gligar": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4894,22 +2910,6 @@ var SETDEX_GEN7_SETS = {
 	"Gliscor": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4925,22 +2925,6 @@ var SETDEX_GEN7_SETS = {
 	"Gogoat": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4956,22 +2940,6 @@ var SETDEX_GEN7_SETS = {
 	"Golbat": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4987,22 +2955,6 @@ var SETDEX_GEN7_SETS = {
 	"Golduck": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5018,22 +2970,6 @@ var SETDEX_GEN7_SETS = {
 	"Golem": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5049,22 +2985,6 @@ var SETDEX_GEN7_SETS = {
 	"Golem-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5080,22 +3000,6 @@ var SETDEX_GEN7_SETS = {
 	"Golisopod": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5111,22 +3015,6 @@ var SETDEX_GEN7_SETS = {
 	"Golurk": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5142,22 +3030,6 @@ var SETDEX_GEN7_SETS = {
 	"Goodra": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5173,22 +3045,6 @@ var SETDEX_GEN7_SETS = {
 	"Gorebyss": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5204,22 +3060,6 @@ var SETDEX_GEN7_SETS = {
 	"Gothitelle": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5235,22 +3075,6 @@ var SETDEX_GEN7_SETS = {
 	"Gourgeist-Average": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5266,22 +3090,6 @@ var SETDEX_GEN7_SETS = {
 	"Gourgeist-Large": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5297,22 +3105,6 @@ var SETDEX_GEN7_SETS = {
 	"Gourgeist-Small": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5328,22 +3120,6 @@ var SETDEX_GEN7_SETS = {
 	"Gourgeist-Super": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5359,22 +3135,6 @@ var SETDEX_GEN7_SETS = {
 	"Granbull": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5390,22 +3150,6 @@ var SETDEX_GEN7_SETS = {
 	"Greninja": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5421,22 +3165,6 @@ var SETDEX_GEN7_SETS = {
 	"Groudon": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5449,22 +3177,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Primal": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Red Orb",
@@ -5480,22 +3192,6 @@ var SETDEX_GEN7_SETS = {
 	"Grumpig": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5511,22 +3207,6 @@ var SETDEX_GEN7_SETS = {
 	"Gumshoos": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5542,22 +3222,6 @@ var SETDEX_GEN7_SETS = {
 	"Gurdurr": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5573,22 +3237,6 @@ var SETDEX_GEN7_SETS = {
 	"Guzzlord": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5604,22 +3252,6 @@ var SETDEX_GEN7_SETS = {
 	"Gyarados": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5632,22 +3264,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Mold Breaker",
 			"item": "Gyaradosite",
@@ -5663,22 +3279,6 @@ var SETDEX_GEN7_SETS = {
 	"Hariyama": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5694,22 +3294,6 @@ var SETDEX_GEN7_SETS = {
 	"Hawlucha": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5725,22 +3309,6 @@ var SETDEX_GEN7_SETS = {
 	"Haxorus": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5756,22 +3324,6 @@ var SETDEX_GEN7_SETS = {
 	"Heatmor": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5787,22 +3339,6 @@ var SETDEX_GEN7_SETS = {
 	"Heatran": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5818,22 +3354,6 @@ var SETDEX_GEN7_SETS = {
 	"Heliolisk": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5849,22 +3369,6 @@ var SETDEX_GEN7_SETS = {
 	"Heracross": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5877,22 +3381,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Skill Link",
 			"item": "Heracronite",
@@ -5908,22 +3396,6 @@ var SETDEX_GEN7_SETS = {
 	"Hippowdon": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5939,22 +3411,6 @@ var SETDEX_GEN7_SETS = {
 	"Hitmonchan": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5970,22 +3426,6 @@ var SETDEX_GEN7_SETS = {
 	"Hitmonlee": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6001,22 +3441,6 @@ var SETDEX_GEN7_SETS = {
 	"Hitmontop": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6032,22 +3456,6 @@ var SETDEX_GEN7_SETS = {
 	"Ho-Oh": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6063,22 +3471,6 @@ var SETDEX_GEN7_SETS = {
 	"Honchkrow": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6094,22 +3486,6 @@ var SETDEX_GEN7_SETS = {
 	"Hoopa": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6125,53 +3501,6 @@ var SETDEX_GEN7_SETS = {
 	"Hoopa-Unbound": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Pokemon": {
-		"Default": {
-			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6187,22 +3516,6 @@ var SETDEX_GEN7_SETS = {
 	"Houndoom": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6215,22 +3528,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6246,22 +3543,6 @@ var SETDEX_GEN7_SETS = {
 	"Huntail": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6277,22 +3558,6 @@ var SETDEX_GEN7_SETS = {
 	"Hydreigon": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6308,22 +3573,6 @@ var SETDEX_GEN7_SETS = {
 	"Hypno": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6339,22 +3588,6 @@ var SETDEX_GEN7_SETS = {
 	"Illumise": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6370,22 +3603,6 @@ var SETDEX_GEN7_SETS = {
 	"Incineroar": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6401,22 +3618,6 @@ var SETDEX_GEN7_SETS = {
 	"Infernape": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6432,22 +3633,6 @@ var SETDEX_GEN7_SETS = {
 	"Jellicent": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6463,22 +3648,6 @@ var SETDEX_GEN7_SETS = {
 	"Jirachi": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6494,22 +3663,6 @@ var SETDEX_GEN7_SETS = {
 	"Jolteon": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6525,22 +3678,6 @@ var SETDEX_GEN7_SETS = {
 	"Jumpluff": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6556,22 +3693,6 @@ var SETDEX_GEN7_SETS = {
 	"Jynx": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6587,22 +3708,6 @@ var SETDEX_GEN7_SETS = {
 	"Kabutops": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6618,22 +3723,6 @@ var SETDEX_GEN7_SETS = {
 	"Kangaskhan": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6646,22 +3735,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Parental Bond",
 			"item": "Kangaskhanite",
@@ -6677,22 +3750,6 @@ var SETDEX_GEN7_SETS = {
 	"Kartana": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6708,22 +3765,6 @@ var SETDEX_GEN7_SETS = {
 	"Kecleon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6739,22 +3780,6 @@ var SETDEX_GEN7_SETS = {
 	"Keldeo": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6770,22 +3795,6 @@ var SETDEX_GEN7_SETS = {
 	"Kingdra": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6801,22 +3810,6 @@ var SETDEX_GEN7_SETS = {
 	"Klefki": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6832,22 +3825,6 @@ var SETDEX_GEN7_SETS = {
 	"Klinklang": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6863,22 +3840,6 @@ var SETDEX_GEN7_SETS = {
 	"Komala": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6894,22 +3855,6 @@ var SETDEX_GEN7_SETS = {
 	"Kommo-O": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6925,22 +3870,6 @@ var SETDEX_GEN7_SETS = {
 	"Kricketune": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6956,22 +3885,6 @@ var SETDEX_GEN7_SETS = {
 	"Krookodile": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6987,22 +3900,6 @@ var SETDEX_GEN7_SETS = {
 	"Kyogre": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7015,22 +3912,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Primal": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Primordial Sea",
 			"item": "Blue Orb",
@@ -7046,22 +3927,6 @@ var SETDEX_GEN7_SETS = {
 	"Kyurem": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7077,22 +3942,6 @@ var SETDEX_GEN7_SETS = {
 	"Kyurem-Black": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7108,22 +3957,6 @@ var SETDEX_GEN7_SETS = {
 	"Kyurem-White": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7139,22 +3972,6 @@ var SETDEX_GEN7_SETS = {
 	"Landorus": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7170,22 +3987,6 @@ var SETDEX_GEN7_SETS = {
 	"Landorus-T": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7201,22 +4002,6 @@ var SETDEX_GEN7_SETS = {
 	"Lanturn": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7232,22 +4017,6 @@ var SETDEX_GEN7_SETS = {
 	"Lapras": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7263,22 +4032,6 @@ var SETDEX_GEN7_SETS = {
 	"Latias": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7291,22 +4044,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Levitate",
 				"item": "Latiasite",
@@ -7322,22 +4059,6 @@ var SETDEX_GEN7_SETS = {
 	"Latios": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7350,22 +4071,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Levitate",
 			"item": "Latiosite",
@@ -7381,22 +4086,6 @@ var SETDEX_GEN7_SETS = {
 	"Leafeon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7412,22 +4101,6 @@ var SETDEX_GEN7_SETS = {
 	"Leavanny": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7443,22 +4116,6 @@ var SETDEX_GEN7_SETS = {
 	"Ledian": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7474,22 +4131,6 @@ var SETDEX_GEN7_SETS = {
 	"Lickilicky": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7505,22 +4146,6 @@ var SETDEX_GEN7_SETS = {
 	"Liepard": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7536,22 +4161,6 @@ var SETDEX_GEN7_SETS = {
 	"Lilligant": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7567,22 +4176,6 @@ var SETDEX_GEN7_SETS = {
 	"Linoone": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7598,22 +4191,6 @@ var SETDEX_GEN7_SETS = {
 	"Lopunny": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7626,22 +4203,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7657,22 +4218,6 @@ var SETDEX_GEN7_SETS = {
 	"Lucario": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7685,22 +4230,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Adaptability",
 			"item": "Lucarionite",
@@ -7716,22 +4245,6 @@ var SETDEX_GEN7_SETS = {
 	"Ludicolo": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7747,22 +4260,6 @@ var SETDEX_GEN7_SETS = {
 	"Lugia": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7778,22 +4275,6 @@ var SETDEX_GEN7_SETS = {
 	"Lumineon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7809,22 +4290,6 @@ var SETDEX_GEN7_SETS = {
 	"Lunala": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7840,22 +4305,6 @@ var SETDEX_GEN7_SETS = {
 	"Lunatone": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7871,22 +4320,6 @@ var SETDEX_GEN7_SETS = {
 	"Lurantis": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7902,22 +4335,6 @@ var SETDEX_GEN7_SETS = {
 	"Luvdisc": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7933,22 +4350,6 @@ var SETDEX_GEN7_SETS = {
 	"Luxray": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7964,22 +4365,6 @@ var SETDEX_GEN7_SETS = {
 	"Lycanroc-Day": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7995,22 +4380,6 @@ var SETDEX_GEN7_SETS = {
 	"Lycanroc-Dusk": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Leftovers",
@@ -8026,22 +4395,6 @@ var SETDEX_GEN7_SETS = {
 	"Lycanroc-Night": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8057,22 +4410,6 @@ var SETDEX_GEN7_SETS = {
 	"Machamp": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8088,22 +4425,6 @@ var SETDEX_GEN7_SETS = {
 	"Magcargo": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8119,22 +4440,6 @@ var SETDEX_GEN7_SETS = {
 	"Magearna": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8150,22 +4455,6 @@ var SETDEX_GEN7_SETS = {
 	"Magmortar": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8181,22 +4470,6 @@ var SETDEX_GEN7_SETS = {
 	"Magnezone": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8212,22 +4485,6 @@ var SETDEX_GEN7_SETS = {
 	"Malamar": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8243,22 +4500,6 @@ var SETDEX_GEN7_SETS = {
 	"Mamoswine": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8274,22 +4515,6 @@ var SETDEX_GEN7_SETS = {
 	"Manaphy": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8305,22 +4530,6 @@ var SETDEX_GEN7_SETS = {
 	"Mandibuzz": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8336,22 +4545,6 @@ var SETDEX_GEN7_SETS = {
 	"Manectric": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8364,22 +4557,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Intimidate",
 			"item": "Manectite",
@@ -8395,22 +4572,6 @@ var SETDEX_GEN7_SETS = {
 	"Mantine": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8426,22 +4587,6 @@ var SETDEX_GEN7_SETS = {
 	"Maractus": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8457,22 +4602,6 @@ var SETDEX_GEN7_SETS = {
 	"Marowak": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8488,22 +4617,6 @@ var SETDEX_GEN7_SETS = {
 	"Marowak-Alola": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8519,22 +4632,6 @@ var SETDEX_GEN7_SETS = {
 	"Marshadow": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8550,22 +4647,6 @@ var SETDEX_GEN7_SETS = {
 	"Masquerain": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8581,22 +4662,6 @@ var SETDEX_GEN7_SETS = {
 	"Mawile": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8609,22 +4674,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Huge Power",
 			"item": "Mawilite",
@@ -8640,22 +4689,6 @@ var SETDEX_GEN7_SETS = {
 	"Medicham": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8668,22 +4701,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Pure Power",
 			"item": "Medichamite",
@@ -8699,22 +4716,6 @@ var SETDEX_GEN7_SETS = {
 	"Meganium": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8730,22 +4731,6 @@ var SETDEX_GEN7_SETS = {
 	"Meloetta": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8761,22 +4746,6 @@ var SETDEX_GEN7_SETS = {
 	"Meowstic": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8789,22 +4758,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Meowstic-F": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8820,22 +4773,6 @@ var SETDEX_GEN7_SETS = {
 	"Mesprit": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8851,22 +4788,6 @@ var SETDEX_GEN7_SETS = {
 	"Metagross": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8879,22 +4800,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Metagrossite",
@@ -8910,22 +4815,6 @@ var SETDEX_GEN7_SETS = {
 	"Mew": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8941,22 +4830,6 @@ var SETDEX_GEN7_SETS = {
 	"Mewtwo": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8969,22 +4842,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega-X": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Steadfast",
 			"item": "Mewtwonite-X",
@@ -8997,22 +4854,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega-Y": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Insomnia",
 			"item": "Mewtwonite-Y",
@@ -9028,22 +4869,6 @@ var SETDEX_GEN7_SETS = {
 	"Mienshao": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9059,22 +4884,6 @@ var SETDEX_GEN7_SETS = {
 	"Mightyena": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9090,22 +4899,6 @@ var SETDEX_GEN7_SETS = {
 	"Milotic": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9121,22 +4914,6 @@ var SETDEX_GEN7_SETS = {
 	"Miltank": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9152,22 +4929,6 @@ var SETDEX_GEN7_SETS = {
 	"Mimikyu": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9183,22 +4944,6 @@ var SETDEX_GEN7_SETS = {
 	"Minior": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9214,22 +4959,6 @@ var SETDEX_GEN7_SETS = {
 	"Minun": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9245,22 +4974,6 @@ var SETDEX_GEN7_SETS = {
 	"Mismagius": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9276,22 +4989,6 @@ var SETDEX_GEN7_SETS = {
 	"Moltres": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9307,22 +5004,6 @@ var SETDEX_GEN7_SETS = {
 	"Mothim": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9338,22 +5019,6 @@ var SETDEX_GEN7_SETS = {
 	"Mudsdale": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9369,22 +5034,6 @@ var SETDEX_GEN7_SETS = {
 	"Muk": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9400,22 +5049,6 @@ var SETDEX_GEN7_SETS = {
 	"Muk-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9431,22 +5064,6 @@ var SETDEX_GEN7_SETS = {
 	"Musharna": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9462,22 +5079,6 @@ var SETDEX_GEN7_SETS = {
 	"Naganadel": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9493,22 +5094,6 @@ var SETDEX_GEN7_SETS = {
 	"Necrozma": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9524,22 +5109,6 @@ var SETDEX_GEN7_SETS = {
 	"Necrozma-Dusk Mane": {
 		"Solganium-Z": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Solganium-Z",
@@ -9552,22 +5121,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Ultranecrozium-Z": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Neuroforce",
 			"item": "Ultranecrozium-Z",
@@ -9583,22 +5136,6 @@ var SETDEX_GEN7_SETS = {
 	"Necrozma-Dawn Wings": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9612,18 +5149,10 @@ var SETDEX_GEN7_SETS = {
 		"Trick Room": {
 			"level": 73,
 			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -9639,22 +5168,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Ultranecrozium-Z": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Ultranecrozium-Z",
@@ -9670,22 +5183,6 @@ var SETDEX_GEN7_SETS = {
 	"Nidoking": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9701,22 +5198,6 @@ var SETDEX_GEN7_SETS = {
 	"Nidoqueen": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9732,22 +5213,6 @@ var SETDEX_GEN7_SETS = {
 	"Nihilego": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9763,22 +5228,6 @@ var SETDEX_GEN7_SETS = {
 	"Ninetales": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9794,22 +5243,6 @@ var SETDEX_GEN7_SETS = {
 	"Ninetales-Alola": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9825,22 +5258,6 @@ var SETDEX_GEN7_SETS = {
 	"Ninjask": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9856,22 +5273,6 @@ var SETDEX_GEN7_SETS = {
 	"Noctowl": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9887,22 +5288,6 @@ var SETDEX_GEN7_SETS = {
 	"Noivern": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9918,22 +5303,6 @@ var SETDEX_GEN7_SETS = {
 	"Octillery": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9949,22 +5318,6 @@ var SETDEX_GEN7_SETS = {
 	"Omastar": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -9980,22 +5333,6 @@ var SETDEX_GEN7_SETS = {
 	"Oranguru": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10011,22 +5348,6 @@ var SETDEX_GEN7_SETS = {
 	"Oricorio-Electric": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10042,22 +5363,6 @@ var SETDEX_GEN7_SETS = {
 	"Oricorio-Fire": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10073,22 +5378,6 @@ var SETDEX_GEN7_SETS = {
 	"Oricorio-Ghost": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10104,22 +5393,6 @@ var SETDEX_GEN7_SETS = {
 	"Oricorio-Psychic": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10135,22 +5408,6 @@ var SETDEX_GEN7_SETS = {
 	"Pachirisu": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10166,22 +5423,6 @@ var SETDEX_GEN7_SETS = {
 	"Palkia": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10197,22 +5438,6 @@ var SETDEX_GEN7_SETS = {
 	"Palossand": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10228,22 +5453,6 @@ var SETDEX_GEN7_SETS = {
 	"Pangoro": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10259,22 +5468,6 @@ var SETDEX_GEN7_SETS = {
 	"Parasect": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10290,22 +5483,6 @@ var SETDEX_GEN7_SETS = {
 	"Passimian": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10321,22 +5498,6 @@ var SETDEX_GEN7_SETS = {
 	"Pelipper": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10352,22 +5513,6 @@ var SETDEX_GEN7_SETS = {
 	"Persian": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10383,22 +5528,6 @@ var SETDEX_GEN7_SETS = {
 	"Persian-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10414,22 +5543,6 @@ var SETDEX_GEN7_SETS = {
 	"Pheromosa": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10445,22 +5558,6 @@ var SETDEX_GEN7_SETS = {
 	"Phione": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10476,22 +5573,6 @@ var SETDEX_GEN7_SETS = {
 	"Pidgeot": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10504,22 +5585,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "No Guard",
 			"item": "Pidgeotite",
@@ -10535,22 +5600,6 @@ var SETDEX_GEN7_SETS = {
 	"Pinsir": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10563,22 +5612,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Aerilate",
 			"item": "Pinsirite",
@@ -10594,22 +5627,6 @@ var SETDEX_GEN7_SETS = {
 	"Plusle": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10625,22 +5642,6 @@ var SETDEX_GEN7_SETS = {
 	"Politoed": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10656,22 +5657,6 @@ var SETDEX_GEN7_SETS = {
 	"Poliwrath": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10687,22 +5672,6 @@ var SETDEX_GEN7_SETS = {
 	"Porygon-Z": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10718,22 +5687,6 @@ var SETDEX_GEN7_SETS = {
 	"Porygon2": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10749,22 +5702,6 @@ var SETDEX_GEN7_SETS = {
 	"Primarina": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10780,22 +5717,6 @@ var SETDEX_GEN7_SETS = {
 	"Primeape": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10811,22 +5732,6 @@ var SETDEX_GEN7_SETS = {
 	"Probopass": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10842,22 +5747,6 @@ var SETDEX_GEN7_SETS = {
 	"Purugly": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10873,22 +5762,6 @@ var SETDEX_GEN7_SETS = {
 	"Pyroar": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10904,22 +5777,6 @@ var SETDEX_GEN7_SETS = {
 	"Pyukumuku": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10935,22 +5792,6 @@ var SETDEX_GEN7_SETS = {
 	"Quagsire": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10966,22 +5807,6 @@ var SETDEX_GEN7_SETS = {
 	"Qwilfish": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -10997,22 +5822,6 @@ var SETDEX_GEN7_SETS = {
 	"Raichu": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11028,22 +5837,6 @@ var SETDEX_GEN7_SETS = {
 	"Raichu-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11059,22 +5852,6 @@ var SETDEX_GEN7_SETS = {
 	"Raikou": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11090,22 +5867,6 @@ var SETDEX_GEN7_SETS = {
 	"Rampardos": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11121,22 +5882,6 @@ var SETDEX_GEN7_SETS = {
 	"Rapidash": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11152,22 +5897,6 @@ var SETDEX_GEN7_SETS = {
 	"Raticate": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11183,22 +5912,6 @@ var SETDEX_GEN7_SETS = {
 	"Raticate-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11214,22 +5927,6 @@ var SETDEX_GEN7_SETS = {
 	"Rayquaza": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11245,22 +5942,6 @@ var SETDEX_GEN7_SETS = {
 	"Regice": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11276,22 +5957,6 @@ var SETDEX_GEN7_SETS = {
 	"Regigigas": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11307,22 +5972,6 @@ var SETDEX_GEN7_SETS = {
 	"Regirock": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11338,22 +5987,6 @@ var SETDEX_GEN7_SETS = {
 	"Registeel": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11369,22 +6002,6 @@ var SETDEX_GEN7_SETS = {
 	"Relicanth": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11400,22 +6017,6 @@ var SETDEX_GEN7_SETS = {
 	"Reshiram": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11431,22 +6032,6 @@ var SETDEX_GEN7_SETS = {
 	"Reuniclus": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11462,22 +6047,6 @@ var SETDEX_GEN7_SETS = {
 	"Rhyperior": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11493,22 +6062,6 @@ var SETDEX_GEN7_SETS = {
 	"Ribombee": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11524,22 +6077,6 @@ var SETDEX_GEN7_SETS = {
 	"Roserade": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11555,22 +6092,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11586,22 +6107,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom-C": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11617,22 +6122,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom-F": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11648,22 +6137,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom-H": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11679,22 +6152,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom-S": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11710,22 +6167,6 @@ var SETDEX_GEN7_SETS = {
 	"Rotom-W": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11741,22 +6182,6 @@ var SETDEX_GEN7_SETS = {
 	"Sableye": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11769,22 +6194,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Sablenite",
@@ -11800,22 +6209,6 @@ var SETDEX_GEN7_SETS = {
 	"Salamence": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11828,22 +6221,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Aerilate",
 			"item": "Salamencite",
@@ -11859,22 +6236,6 @@ var SETDEX_GEN7_SETS = {
 	"Salazzle": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11890,22 +6251,6 @@ var SETDEX_GEN7_SETS = {
 	"Samurott": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11921,22 +6266,6 @@ var SETDEX_GEN7_SETS = {
 	"Sandslash": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11952,22 +6281,6 @@ var SETDEX_GEN7_SETS = {
 	"Sandslash-Alola": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -11983,22 +6296,6 @@ var SETDEX_GEN7_SETS = {
 	"Sawk": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12014,22 +6311,6 @@ var SETDEX_GEN7_SETS = {
 	"Sawsbuck": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12045,22 +6326,6 @@ var SETDEX_GEN7_SETS = {
 	"Sceptile": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12073,22 +6338,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Lightning Rod",
 			"item": "Sceptilite",
@@ -12104,22 +6353,6 @@ var SETDEX_GEN7_SETS = {
 	"Scizor": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12132,22 +6365,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Technician",
 			"item": "Scizorite",
@@ -12163,22 +6380,6 @@ var SETDEX_GEN7_SETS = {
 	"Scolipede": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12194,22 +6395,6 @@ var SETDEX_GEN7_SETS = {
 	"Scrafty": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12225,22 +6410,6 @@ var SETDEX_GEN7_SETS = {
 	"Scyther": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12256,22 +6425,6 @@ var SETDEX_GEN7_SETS = {
 	"Seaking": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12287,22 +6440,6 @@ var SETDEX_GEN7_SETS = {
 	"Seismitoad": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12318,22 +6455,6 @@ var SETDEX_GEN7_SETS = {
 	"Serperior": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12349,22 +6470,6 @@ var SETDEX_GEN7_SETS = {
 	"Seviper": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12380,22 +6485,6 @@ var SETDEX_GEN7_SETS = {
 	"Sharpedo": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12408,22 +6497,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Strong Jaw",
 			"item": "Sharpedonite",
@@ -12439,22 +6512,6 @@ var SETDEX_GEN7_SETS = {
 	"Shaymin": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12470,22 +6527,6 @@ var SETDEX_GEN7_SETS = {
 	"Shaymin-S": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12501,22 +6542,6 @@ var SETDEX_GEN7_SETS = {
 	"Shedinja": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12532,22 +6557,6 @@ var SETDEX_GEN7_SETS = {
 	"Shiftry": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12563,22 +6572,6 @@ var SETDEX_GEN7_SETS = {
 	"Shiinotic": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12594,22 +6587,6 @@ var SETDEX_GEN7_SETS = {
 	"Shuckle": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12625,22 +6602,6 @@ var SETDEX_GEN7_SETS = {
 	"Sigilyph": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12656,22 +6617,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12687,22 +6632,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Fire": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12718,22 +6647,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Water": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12749,22 +6662,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Electric": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12780,22 +6677,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Grass": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12811,22 +6692,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Ice": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12842,22 +6707,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Fighting": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12873,22 +6722,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Poison": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12904,22 +6737,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Ground": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12935,22 +6752,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Flying": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12966,22 +6767,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Psychic": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -12997,22 +6782,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Bug": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13028,22 +6797,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Rock": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13059,22 +6812,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Ghost": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13090,22 +6827,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Dragon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13121,22 +6842,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Dark": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13152,22 +6857,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Steel": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13183,22 +6872,6 @@ var SETDEX_GEN7_SETS = {
 	"Silvally-Fairy": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13214,22 +6887,6 @@ var SETDEX_GEN7_SETS = {
 	"Simipour": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13245,22 +6902,6 @@ var SETDEX_GEN7_SETS = {
 	"Simisage": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13276,22 +6917,6 @@ var SETDEX_GEN7_SETS = {
 	"Simisear": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13307,22 +6932,6 @@ var SETDEX_GEN7_SETS = {
 	"Skarmory": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13338,22 +6947,6 @@ var SETDEX_GEN7_SETS = {
 	"Skuntank": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13369,22 +6962,6 @@ var SETDEX_GEN7_SETS = {
 	"Slaking": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13400,81 +6977,6 @@ var SETDEX_GEN7_SETS = {
 	"Slowking": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
-			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Shell Armor",
-			"item": "Slobronite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Slowking": {
-		"Default": {
-			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13488,18 +6990,10 @@ var SETDEX_GEN7_SETS = {
 		"Trick Room": {
 			"level": 81,
 			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -13518,22 +7012,6 @@ var SETDEX_GEN7_SETS = {
 	"Slurpuff": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13549,22 +7027,6 @@ var SETDEX_GEN7_SETS = {
 	"Smeargle": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13580,22 +7042,6 @@ var SETDEX_GEN7_SETS = {
 	"Snorlax": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13611,22 +7057,6 @@ var SETDEX_GEN7_SETS = {
 	"Solgaleo": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13642,22 +7072,6 @@ var SETDEX_GEN7_SETS = {
 	"Solrock": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13673,22 +7087,6 @@ var SETDEX_GEN7_SETS = {
 	"Spinda": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13702,20 +7100,12 @@ var SETDEX_GEN7_SETS = {
 		"Trick Room": {
 			"level": 83,
 			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
-				"sp": "84"
+				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
-				"sp": "31"
+				"sp": "0"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -13732,22 +7122,6 @@ var SETDEX_GEN7_SETS = {
 	"Spiritomb": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13763,22 +7137,6 @@ var SETDEX_GEN7_SETS = {
 	"Stakataka": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13791,19 +7149,10 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Trick Room and/or Gyro Ball": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
 				"sd": "84",
 				"sp": "0"
 			},
 			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
 				"sd": "31",
 				"sp": "0"
 			},
@@ -13816,28 +7165,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		}
-	},
+		},
 
 	"Stantler": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13853,22 +7185,6 @@ var SETDEX_GEN7_SETS = {
 	"Staraptor": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13884,22 +7200,6 @@ var SETDEX_GEN7_SETS = {
 	"Starmie": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13915,22 +7215,6 @@ var SETDEX_GEN7_SETS = {
 	"Steelix": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -13943,22 +7227,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Sand Force",
 			"item": "Steelixite",
@@ -13974,22 +7242,6 @@ var SETDEX_GEN7_SETS = {
 	"Stoutland": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14005,22 +7257,6 @@ var SETDEX_GEN7_SETS = {
 	"Stunfisk": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14036,22 +7272,6 @@ var SETDEX_GEN7_SETS = {
 	"Sudowoodo": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14067,22 +7287,6 @@ var SETDEX_GEN7_SETS = {
 	"Suicune": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14098,22 +7302,6 @@ var SETDEX_GEN7_SETS = {
 	"Sunflora": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14129,22 +7317,6 @@ var SETDEX_GEN7_SETS = {
 	"Swalot": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14160,22 +7332,6 @@ var SETDEX_GEN7_SETS = {
 	"Swampert": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14188,22 +7344,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Swift Swim",
 			"item": "Swampertite",
@@ -14219,22 +7359,6 @@ var SETDEX_GEN7_SETS = {
 	"Swanna": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14250,22 +7374,6 @@ var SETDEX_GEN7_SETS = {
 	"Swellow": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14281,22 +7389,6 @@ var SETDEX_GEN7_SETS = {
 	"Swoobat": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14312,22 +7404,6 @@ var SETDEX_GEN7_SETS = {
 	"Sylveon": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14343,22 +7419,6 @@ var SETDEX_GEN7_SETS = {
 	"Talonflame": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14374,22 +7434,6 @@ var SETDEX_GEN7_SETS = {
 	"Tangrowth": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14405,22 +7449,6 @@ var SETDEX_GEN7_SETS = {
 	"Tapu Bulu": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14436,22 +7464,6 @@ var SETDEX_GEN7_SETS = {
 	"Tapu Fini": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14467,22 +7479,6 @@ var SETDEX_GEN7_SETS = {
 	"Tapu Koko": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14498,22 +7494,6 @@ var SETDEX_GEN7_SETS = {
 	"Tapu Lele": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14529,22 +7509,6 @@ var SETDEX_GEN7_SETS = {
 	"Tauros": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14560,22 +7524,6 @@ var SETDEX_GEN7_SETS = {
 	"Tentacruel": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14591,22 +7539,6 @@ var SETDEX_GEN7_SETS = {
 	"Terrakion": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14622,22 +7554,6 @@ var SETDEX_GEN7_SETS = {
 	"Throh": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14653,22 +7569,6 @@ var SETDEX_GEN7_SETS = {
 	"Thundurus": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14684,22 +7584,6 @@ var SETDEX_GEN7_SETS = {
 	"Thundurus-T": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14715,22 +7599,6 @@ var SETDEX_GEN7_SETS = {
 	"Tornadus": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14746,22 +7614,6 @@ var SETDEX_GEN7_SETS = {
 	"Tornadus-T": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14777,22 +7629,6 @@ var SETDEX_GEN7_SETS = {
 	"Torterra": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14808,22 +7644,6 @@ var SETDEX_GEN7_SETS = {
 	"Toucannon": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14839,22 +7659,6 @@ var SETDEX_GEN7_SETS = {
 	"Toxapex": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14870,22 +7674,6 @@ var SETDEX_GEN7_SETS = {
 	"Toxicroak": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14901,22 +7689,6 @@ var SETDEX_GEN7_SETS = {
 	"Trevenant": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14932,22 +7704,6 @@ var SETDEX_GEN7_SETS = {
 	"Tropius": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14963,22 +7719,6 @@ var SETDEX_GEN7_SETS = {
 	"Tsareena": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -14994,53 +7734,6 @@ var SETDEX_GEN7_SETS = {
 	"Turtonator": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Type: Null": {
-		"Default": {
-			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15056,22 +7749,6 @@ var SETDEX_GEN7_SETS = {
 	"Typhlosion": {
 		"Default": {
 			"level": 82,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15087,22 +7764,6 @@ var SETDEX_GEN7_SETS = {
 	"Tyranitar": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15115,22 +7776,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Sand Stream",
 			"item": "Tyranitarite",
@@ -15146,22 +7791,6 @@ var SETDEX_GEN7_SETS = {
 	"Tyrantrum": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15177,22 +7806,6 @@ var SETDEX_GEN7_SETS = {
 	"Umbreon": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15208,22 +7821,6 @@ var SETDEX_GEN7_SETS = {
 	"Unfezant": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15239,22 +7836,6 @@ var SETDEX_GEN7_SETS = {
 	"Unown": {
 		"Default": {
 			"level": 100,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15270,22 +7851,6 @@ var SETDEX_GEN7_SETS = {
 	"Ursaring": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15301,22 +7866,6 @@ var SETDEX_GEN7_SETS = {
 	"Uxie": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15332,22 +7881,6 @@ var SETDEX_GEN7_SETS = {
 	"Vanilluxe": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15363,22 +7896,6 @@ var SETDEX_GEN7_SETS = {
 	"Vaporeon": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15394,22 +7911,6 @@ var SETDEX_GEN7_SETS = {
 	"Venomoth": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15425,22 +7926,6 @@ var SETDEX_GEN7_SETS = {
 	"Venusaur": {
 		"Default": {
 			"level": 80,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15453,22 +7938,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Mega": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Thick Fat",
 			"item": "Venusaurite",
@@ -15484,22 +7953,6 @@ var SETDEX_GEN7_SETS = {
 	"Vespiquen": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15515,22 +7968,6 @@ var SETDEX_GEN7_SETS = {
 	"Victini": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15546,22 +7983,6 @@ var SETDEX_GEN7_SETS = {
 	"Victreebel": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15577,22 +7998,6 @@ var SETDEX_GEN7_SETS = {
 	"Vikavolt": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15608,22 +8013,6 @@ var SETDEX_GEN7_SETS = {
 	"Vileplume": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15639,22 +8028,6 @@ var SETDEX_GEN7_SETS = {
 	"Virizion": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15670,22 +8043,6 @@ var SETDEX_GEN7_SETS = {
 	"Vivillon": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15701,21 +8058,6 @@ var SETDEX_GEN7_SETS = {
 	"Volbeat": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
 			},
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -15726,28 +8068,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		}
-	},
+		},
 
 	"Volcanion": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15763,22 +8088,6 @@ var SETDEX_GEN7_SETS = {
 	"Volcarona": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15794,22 +8103,6 @@ var SETDEX_GEN7_SETS = {
 	"Wailord": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15825,22 +8118,6 @@ var SETDEX_GEN7_SETS = {
 	"Walrein": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15856,22 +8133,6 @@ var SETDEX_GEN7_SETS = {
 	"Watchog": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15887,22 +8148,6 @@ var SETDEX_GEN7_SETS = {
 	"Weavile": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15918,22 +8163,6 @@ var SETDEX_GEN7_SETS = {
 	"Weezing": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15949,22 +8178,6 @@ var SETDEX_GEN7_SETS = {
 	"Whimsicott": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -15980,22 +8193,6 @@ var SETDEX_GEN7_SETS = {
 	"Whiscash": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16011,22 +8208,6 @@ var SETDEX_GEN7_SETS = {
 	"Wigglytuff": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16042,22 +8223,6 @@ var SETDEX_GEN7_SETS = {
 	"Wishiwashi": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Schooling",
 			"item": "Leftovers",
@@ -16073,22 +8238,6 @@ var SETDEX_GEN7_SETS = {
 	"Wobbuffet": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16104,22 +8253,6 @@ var SETDEX_GEN7_SETS = {
 	"Wormadam": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16135,22 +8268,6 @@ var SETDEX_GEN7_SETS = {
 	"Wormadam-G": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16166,22 +8283,6 @@ var SETDEX_GEN7_SETS = {
 	"Wormadam-S": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16194,22 +8295,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Gyro Ball": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "0"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "0"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16225,22 +8310,6 @@ var SETDEX_GEN7_SETS = {
 	"Xatu": {
 		"Default": {
 			"level": 81,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16256,22 +8325,6 @@ var SETDEX_GEN7_SETS = {
 	"Xerneas": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16287,22 +8340,6 @@ var SETDEX_GEN7_SETS = {
 	"Xurkitree": {
 		"Default": {
 			"level": 76,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16318,22 +8355,6 @@ var SETDEX_GEN7_SETS = {
 	"Yanmega": {
 		"Default": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16349,22 +8370,6 @@ var SETDEX_GEN7_SETS = {
 	"Yveltal": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16380,22 +8385,6 @@ var SETDEX_GEN7_SETS = {
 	"Zangoose": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16411,22 +8400,6 @@ var SETDEX_GEN7_SETS = {
 	"Zapdos": {
 		"Default": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16442,22 +8415,6 @@ var SETDEX_GEN7_SETS = {
 	"Zebstrika": {
 		"Default": {
 			"level": 83,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16473,22 +8430,6 @@ var SETDEX_GEN7_SETS = {
 	"Zekrom": {
 		"Default": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16504,22 +8445,6 @@ var SETDEX_GEN7_SETS = {
 	"Zeraora": {
 		"Default": {
 			"level": 77,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16535,22 +8460,6 @@ var SETDEX_GEN7_SETS = {
 	"Zoroark": {
 		"Default": {
 			"level": 78,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16566,22 +8475,6 @@ var SETDEX_GEN7_SETS = {
 	"Zygarde": {
 		"50%": {
 			"level": 75,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16594,22 +8487,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"10%": {
 			"level": 79,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -16622,22 +8499,6 @@ var SETDEX_GEN7_SETS = {
 		},
 		"Complete": {
 			"level": 73,
-			"evs": {
-				"hp": "84",
-				"at": "84",
-				"df": "84",
-				"sa": "84",
-				"sd": "84",
-				"sp": "84"
-			},
-			"ivs": {
-				"hp": "31",
-				"at": "31",
-				"df": "31",
-				"sa": "31",
-				"sd": "31",
-				"sp": "31"
-			},
 			"nature": "Serious",
 			"ability": "Power Construct",
 			"item": "Leftovers",
