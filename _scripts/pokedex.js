@@ -10958,6 +10958,9 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 	//alakazam buff because he's a special snowflake
 	"Mega Alakazam": {"bs": {"sd": 105}},
 
+	//ADD RANDBATS MOVES HERE
+	"Abomasnow": {"randomBattleMoves": ["Wood Hammer", "Ice Shard", "Blizzard", "Giga Drain", "Leech Seed", "Substitute", "Focus Punch", "Earthquake"]},
+
 	//and here's the dex!
 	"Ash-Greninja": {
 		"t1": "Water",
@@ -12953,4 +12956,3 @@ var POKEDEX_LG = $.extend(true, {}, POKEDEX_INTERMEDIATE, {
 		"w": 800,
 	},
 });
-

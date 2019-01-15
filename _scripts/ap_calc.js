@@ -796,7 +796,7 @@ function Pokemon(pokeInfo) {
 				this.maxHP = ~~((pokemon.bs.hp * 2 + HPIVs + ~~(this.HPEVs / 4)) * this.level / 100) + this.level + 10;
 			}
 			this.curHP = this.maxHP;
-			this.nature = set.nature;
+			this.nature = "Serious" || set.nature;
 			for (var i = 0; i < STATS.length; i++) {
 				var stat = STATS[i];
 				this.boosts[stat] = 0;
@@ -820,7 +820,8 @@ function Pokemon(pokeInfo) {
 				this.maxHP = Math.floor((base * 2 + ivs) * level / 100) + level + 10 + this.HPAVs;
 			}
 			this.curHP = this.maxHP;
-			this.nature = set.nature;
+			this.nature = "Serious" || set.nature;
+
 			for (var i = 0; i < STATS.length; i++) {
 				var stat = STATS[i];
 				this.boosts[stat] = 0;
@@ -835,6 +836,7 @@ function Pokemon(pokeInfo) {
 			pokemon.ab && typeof pokemon.ab !== "undefined" ? pokemon.ab : "";
 		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || set.item.indexOf("ite") < 0) ? set.item : "";
 		this.status = "Healthy";
+		this.randomBattleMoves = pokemon.randomBattleMoves;
 		this.toxicCounter = 0;
 		this.moves = [];
 		for (var i = 0; i < 4; i++) {
@@ -884,6 +886,7 @@ function Pokemon(pokeInfo) {
 		this.ability = pokeInfo.find(".ability").val();
 		this.item = pokeInfo.find(".item").val();
 		this.status = pokeInfo.find(".status").val();
+		this.randomBattleMoves = pokedex[pokemonName].randomBattleMoves;
 		this.toxicCounter = this.status === "Badly Poisoned" ? ~~pokeInfo.find(".toxic-counter").val() : 0;
 		this.moves = [
 			getMoveDetails(pokeInfo.find(".move1"), this.item),
