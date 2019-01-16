@@ -12896,7 +12896,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Absol": {
-	  "randomBattleItems": ["Life orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -12911,7 +12911,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Aegislash": {
-	  "randomBattleItems": ["Life orb", "Air Balloon"],
+	  "randomBattleItems": ["Life Orb", "Air Balloon"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -12936,7 +12936,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Alakazam": {
-	  "randomBattleItems": ["Life orb"],
+	  "randomBattleItems": ["Life Orb"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -12971,7 +12971,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Ampharos": {
-	  "randomBattleItems": ["Life orb", "Air Balloon", "Light Clay"],
+	  "randomBattleItems": ["Life Orb", "Air Balloon", "Light Clay"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -12986,12 +12986,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Arbok": {
-	  "randomBattleItems": ["Black Sludge", "Life orb", "Chesto Berry"],
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Chesto Berry"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
 	"Arcanine": {
-	  "randomBattleItems": ["Leftovers", "Life orb", "Choice Band"],
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -15365,22 +15365,22 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
-	"TapuBulu": {
+	"Tapu Bulu": {
 	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
-	"TapuFini": {
+	"Tapu Fini": {
 	  "randomBattleItems": ["Leftovers", "Choice Specs"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
-	"TapuKoko": {
+	"Tapu Koko": {
 	  "randomBattleItems": ["Expert Belt"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
-	"TapuLele": {
+	"Tapu Lele": {
 	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
