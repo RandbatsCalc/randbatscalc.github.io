@@ -10958,9 +10958,6 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 	//alakazam buff because he's a special snowflake
 	"Mega Alakazam": {"bs": {"sd": 105}},
 
-	//ADD RANDBATS MOVES HERE
-	"Abomasnow": {"randomBattleMoves": ["Wood Hammer", "Ice Shard", "Blizzard", "Giga Drain", "Leech Seed", "Substitute", "Focus Punch", "Earthquake"]},
-
 	//and here's the dex!
 	"Ash-Greninja": {
 		"t1": "Water",
@@ -12884,6 +12881,2860 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"isAlternateForme": true
 	},
 
+});
+
+var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
+	//ADD RANDBATS INFO HERE
+	"Abomasnow ": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Abomasnow": {
+	  "randomBattleItems": ["Abomasite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Absol": {
+	  "randomBattleItems": ["Life orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Absol": {
+	  "randomBattleItems": ["Absolite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Accelgor": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Aegislash": {
+	  "randomBattleItems": ["Life orb", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Aerodactyl": {
+	  "randomBattleItems": ["Aerodactylite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Aerodactyl": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Aggron": {
+	  "randomBattleItems": ["Air balloon", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Aggron": {
+	  "randomBattleItems": ["Aggronite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Alakazam": {
+	  "randomBattleItems": ["Life orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Alakazam": {
+	  "randomBattleItems": ["Alakazite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Alomomola": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Altaria": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Altaria": {
+	  "randomBattleItems": ["Altarianite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ambipom": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Amoonguss": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ampharos": {
+	  "randomBattleItems": ["Life orb", "Air Balloon", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Ampharos": {
+	  "randomBattleItems": ["Ampharosite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Araquanid": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arbok": {
+	  "randomBattleItems": ["Black Sludge", "Life orb", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arcanine": {
+	  "randomBattleItems": ["Leftovers", "Life orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Fire": {
+	  "randomBattleItems": ["Flame Plate", "Firium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Water": {
+	  "randomBattleItems": ["Splash Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Electric": {
+	  "randomBattleItems": ["Zap Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Grass": {
+	  "randomBattleItems": ["Meadow Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Ice": {
+	  "randomBattleItems": ["Icicle Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Fighting": {
+	  "randomBattleItems": ["Fist Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Poison": {
+	  "randomBattleItems": ["Toxic Plate", "Poisonium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Ground": {
+	  "randomBattleItems": ["Earth Plate", "Groundium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Flying": {
+	  "randomBattleItems": ["Sky Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Psychic": {
+	  "randomBattleItems": ["Mind Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Bug": {
+	  "randomBattleItems": ["Insect Plate", "Bugium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Rock": {
+	  "randomBattleItems": ["Stone Plate", "Rockium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Ghost": {
+	  "randomBattleItems": ["Spooky Plate", "Ghostium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Dragon": {
+	  "randomBattleItems": ["Draco Plate", "Dragonium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Dark": {
+	  "randomBattleItems": ["Dread Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Steel": {
+	  "randomBattleItems": ["Iron Plate", "Steelium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Arceus-Fairy": {
+	  "randomBattleItems": ["Pixie Plate"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Archeops": {
+	  "randomBattleItems": ["No Item", "Choice Band", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ariados": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Armaldo": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Aromatisse": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Articuno": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Audino": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Audino": {
+	  "randomBattleItems": ["Audinite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Aurorus": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Avalugg": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Azelf": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Azumarill": {
+	  "randomBattleItems": ["Sitrus Berry", "Choice Band", "Normalium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Banette": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Banette": {
+	  "randomBattleItems": ["Banettite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Barbaracle": {
+	  "randomBattleItems": ["Life Orb", "White Herb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Basculin": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bastiodon": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Beartic": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Beautifly": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Beedrill": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Focus Sash"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Beedrill": {
+	  "randomBattleItems": ["Beedrillite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Beheeyem": {
+	  "randomBattleItems": ["Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bellossom": {
+	  "randomBattleItems": ["Life Orb", "Grassium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bewear": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bibarel": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bisharp": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Blacephalon": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs", "Firium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Blastoise": {
+	  "randomBattleItems": ["Leftovers", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Blastoise": {
+	  "randomBattleItems": ["Blastoisinite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Blaziken": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Blaziken": {
+	  "randomBattleItems": ["Blazikenite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Blissey": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bouffalant": {
+	  "randomBattleItems": ["Leftovers", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Braviary": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Breloom": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bronzong": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Bruxish": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Butterfree": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Buzzwole": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cacturne": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Camerupt": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Camerupt": {
+	  "randomBattleItems": ["Cameruptite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Carbink": {
+	  "randomBattleItems": ["Air Balloon", "Light Clay", "Custap Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Carnivine": {
+	  "randomBattleItems": ["Leftovers", "Grassium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Carracosta": {
+	  "randomBattleItems": ["Life Orb", "White Herb", "Weakness Policy"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Castform": {
+	  "randomBattleItems": ["Heat Rock", "Damp Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Celebi": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Celesteela": {
+	  "randomBattleItems": ["Leftovers", "Weakness Policy"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Chandelure": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Chansey": {
+	  "randomBattleItems": ["Eviolite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Charizard": {
+	  "randomBattleItems": ["No Item", "Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Charizard X": {
+	  "randomBattleItems": ["Charizardite X"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Charizard Y": {
+	  "randomBattleItems": ["Charizardite Y", "Charizardite Z gimme it gamefreak"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Chatot": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cherrim": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Heat Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Chesnaught": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Chimecho": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cinccino": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Clawitzer": {
+	  "randomBattleItems": ["Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Claydol": {
+	  "randomBattleItems": ["Leftovers", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Clefable": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cloyster": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cobalion": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cofagrigus": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Comfey": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Conkeldurr": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Corsola": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Crabominable": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cradily": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Crawdaunt": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cresselia": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Crobat": {
+	  "randomBattleItems": ["Black Sludge"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Crustle": {
+	  "randomBattleItems": ["Leftovers", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Cryogonal": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Darkrai": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Darmanitan": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Decidueye": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Decidium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dedenne": {
+	  "randomBattleItems": ["Petaya Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Delcatty": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Delibird": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Delphox": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Deoxys": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Deoxys-Attack": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Deoxys-Defense": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Deoxys-Speed": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dewgong": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dhelmise": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dialga": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Diancie": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Diancie": {
+	  "randomBattleItems": ["Diancite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Diggersby": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ditto": {
+	  "randomBattleItems": ["Choice Scarf"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dodrio": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Donphan": {
+	  "randomBattleItems": ["Leftovers", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Doublade": {
+	  "randomBattleItems": ["Eviolite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dragalge": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dragonite": {
+	  "randomBattleItems": ["Lum Berry", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Drampa": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Drapion": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Drifblim": {
+	  "randomBattleItems": ["Leftovers", "Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Druddigon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dugtrio": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Focus Sash", "Fightinium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dugtrio-Alola": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Focus Sash", "Fightinium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dunsparce": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Durant": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dusknoir": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Dustox": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Eelektross": {
+	  "randomBattleItems": ["Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Electivire": {
+	  "randomBattleItems": ["Expert Belt", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Electrode": {
+	  "randomBattleItems": ["Life Orb", "Expert Belt", "Air Balloon", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Emboar": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Emolga": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Empoleon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Air Balloon", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Entei": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Escavalier": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Espeon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Excadrill": {
+	  "randomBattleItems": ["Life Orb", "Air Balloon", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Exeggutor": {
+	  "randomBattleItems": ["Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Exeggutor-Alola": {
+	  "randomBattleItems": ["Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Exploud": {
+	  "randomBattleItems": ["Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Farfetch'd": {
+	  "randomBattleItems": ["Stick"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Fearow": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Feraligatr": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ferrothorn": {
+	  "randomBattleItems": ["Leftovers", "Rocky Helmet"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Flareon": {
+	  "randomBattleItems": ["Toxic Orb", "Assault Vest", "*"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Floatzel": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Floette-Eternal": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Florges": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Flygon": {
+	  "randomBattleItems": ["Lum Berry", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Forretress": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Froslass": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Furfrou": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Furret": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gallade": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Gallade": {
+	  "randomBattleItems": ["Galladite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Galvantula": {
+	  "randomBattleItems": ["Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Garbodor": {
+	  "randomBattleItems": ["Black Sludge"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Garchomp": {
+	  "randomBattleItems": ["Lum Berry", "*"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Garchomp": {
+	  "randomBattleItems": ["Garchompite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gardevoir": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Gardevoir": {
+	  "randomBattleItems": ["Gardevoirite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gastrodon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Genesect": {
+	  "randomBattleItems": ["Douse Drive", "Shock Drive", "Burn Drive", "Chill Drive", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gengar": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Gengar": {
+	  "randomBattleItems": ["Gengarite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gigalith": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Girafarig": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Giratina": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Giratina-Origin": {
+	  "randomBattleItems": ["Griseous Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Glaceon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Glalie": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Glalie": {
+	  "randomBattleItems": ["Glalitite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gligar": {
+	  "randomBattleItems": ["Eviolite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gliscor": {
+	  "randomBattleItems": ["Toxic Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gogoat": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Golduck": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Golem": {
+	  "randomBattleItems": ["Air Balloon", "Assault Vest", "Custap Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Golem-Alola": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Golisopod": {
+	  "randomBattleItems": ["Leftovers", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Golurk": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Goodra": {
+	  "randomBattleItems": ["Choice Scarf", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gorebyss": {
+	  "randomBattleItems": ["Leftovers", "White herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gothitelle": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gourgeist": {
+	  "randomBattleItems": ["Leftoves"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Granbull": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Greninja": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ash-Greninja": {
+	  "randomBattleItems": ["Choice Specs", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Groudon": {
+	  "randomBattleItems": ["Leftovers", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Groudon-Primal": {
+	  "randomBattleItems": ["Red Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Grumpig": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gumshoos": {
+	  "randomBattleItems": ["Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Guzzlord": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Gyarados": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Flyinium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Gyarados": {
+	  "randomBattleItems": ["Gyaradosite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hariyama": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hawlucha": {
+	  "randomBattleItems": ["Leftovers", "Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Haxorus": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Lum Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Heatmor": {
+	  "randomBattleItems": ["Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Heatran": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Heliolisk": {
+	  "randomBattleItems": ["Choice Specs", "Damp Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Heracross": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band", "Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Heracross": {
+	  "randomBattleItems": ["Heracrossite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hippowdon": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hitmonchan": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hitmonlee": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hitmontop": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ho-Oh": {
+	  "randomBattleItems": ["Leftovers", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Honchkrow": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hoopa": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hoopa-Unbound": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Houndoom": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Houndoom": {
+	  "randomBattleItems": ["Houndoominite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Huntail": {
+	  "randomBattleItems": ["Leftovers", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hydreigon": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Hypno": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Illumise": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Incineroar": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Infernape": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Choice Scarf", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Jellicent": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Jirachi": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Jolteon": {
+	  "randomBattleItems": ["Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Jumpluff": {
+	  "randomBattleItems": ["No Item", "Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Jynx": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kabutops": {
+	  "randomBattleItems": ["Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kangaskhan": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Kangaskhan": {
+	  "randomBattleItems": ["Kangaskhanite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kartana": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kecleon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Keldeo": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kingdra": {
+	  "randomBattleItems": ["Leftovers", "Lum Berry", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kingler": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Klefki": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Klinklang": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Komala": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kommo-o": {
+	  "randomBattleItems": ["Lum Berry", "Dragonium Z", "Kommonium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kricketune": {
+	  "randomBattleItems": ["Leftovers", "Focus Sash"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Krookodile": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kyogre": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kyogre-Primal": {
+	  "randomBattleItems": ["Blue Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kyurem": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kyurem-White": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Kyurem-Black": {
+	  "randomBattleItems": ["Leftovers", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Landorus": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Landorus-Therian": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Flyinium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lanturn": {
+	  "randomBattleItems": ["Life Orb", "Air Balloon", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lapras": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Latias": {
+	  "randomBattleItems": ["Leftovers", "Soul Dew", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Latias": {
+	  "randomBattleItems": ["Latiasite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Latios": {
+	  "randomBattleItems": ["Leftovers", "Soul Dew", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Latios": {
+	  "randomBattleItems": ["Latiosite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Leafeon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Leavanny": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ledian": {
+	  "randomBattleItems": ["Leftovers", "Light Clat"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lickilicky": {
+	  "randomBattleItems": ["Leftovers", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Liepard": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lilligant": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Linoone": {
+	  "randomBattleItems": ["Figy Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lopunny": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Lopunny": {
+	  "randomBattleItems": ["Lopunnite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lucario": {
+	  "randomBattleItems": ["Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Lucario": {
+	  "randomBattleItems": ["Lucarionite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ludicolo": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lugia": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lumineon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lunala": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lunatone": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lurantis": {
+	  "randomBattleItems": ["Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Luvdisc": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Luxray": {
+	  "randomBattleItems": ["Flame Orb", "Choice Band", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lycanroc": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Lycanrium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lycanroc-Dusk": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Lycanroc-Midnight": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Machamp": {
+	  "randomBattleItems": ["Leftovers", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Magcargo": {
+	  "randomBattleItems": ["Air Balloon", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Magearna": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Magmortar": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Magnezone": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Malamar": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Normalium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mamoswine": {
+	  "randomBattleItems": ["Focus Sash", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Manaphy": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mandibuzz": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Manectric": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Manectric": {
+	  "randomBattleItems": ["Manectite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mantine": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Maractus": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Marowak": {
+	  "randomBattleItems": ["Thick Club"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Marowak-Alola": {
+	  "randomBattleItems": ["Thick Club"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Marshadow": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Marshadium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Masquerain": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mawile": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Mawile": {
+	  "randomBattleItems": ["Mawilite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Medicham": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Medicham": {
+	  "randomBattleItems": ["Medichamite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Meganium": {
+	  "randomBattleItems": ["Leftovers", "Light Clay", "Meganium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Meloetta": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Meloetta-Pirouette": {
+	  "randomBattleItems": ["Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Meowstic": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Meowstic-F": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mesprit": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Metagross": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Band", "Assault Vest", "Weakness Policy"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Metagross": {
+	  "randomBattleItems": ["Metagrossite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mew": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mewtwo": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Mewtwo X": {
+	  "randomBattleItems": ["Mewtwonite X"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Mewtwo Y": {
+	  "randomBattleItems": ["Mewtwonite Y"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mienshao": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mightyena": {
+	  "randomBattleItems": ["Expert Belt", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Milotic": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Miltank": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mimikyu": {
+	  "randomBattleItems": ["Mimikium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Minior": {
+	  "randomBattleItems": ["White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Minior-Meteor": {
+	  "randomBattleItems": ["White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Minun": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mismagius": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Moltres": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mothim": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mr.Mime": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mudsdale": {
+	  "randomBattleItems": ["Leftovers", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Muk": {
+	  "randomBattleItems": ["Black Sludge", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Muk-Alola": {
+	  "randomBattleItems": ["Black Sludge", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Musharna": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Naganadel": {
+	  "randomBattleItems": ["Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Necrozma": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Necrozma-Dusk-Mane": {
+	  "randomBattleItems": ["Ultranecronium Z", "Solganium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Necrozma-Dawn-Wings": {
+	  "randomBattleItems": ["Ultranecronium Z", "Lunalium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Necrozma-Ultra": {
+	  "randomBattleItems": ["Ultranecronium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Nidoking": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Nidoqueen": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Nihilego": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ninetales": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ninetails-Alola": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ninjask": {
+	  "randomBattleItems": ["Life Orb", "Choice Band", "Groundium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Noctowl": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Noivern": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Octillery": {
+	  "randomBattleItems": ["Expert Belt", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Omastar": {
+	  "randomBattleItems": ["Life Orb", "White Herb", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Oranguru": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Oricorio-Baile": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Oricorio-Pom-Pom": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Oricorio-Pa'u": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Oricorio-Sensu": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pachirisu": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Palkia": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs", "Choice Scarf", "Assault Vest", "Lustrous Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Palossand": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pangoro": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Parasect": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Passimian": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pelipper": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Persian": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Persian-Alola": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pheromosa": {
+	  "randomBattleItems": ["Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Phione": {
+	  "randomBattleItems": ["Damp Rock", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pidgeot": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Pidgeot": {
+	  "randomBattleItems": ["Pidgeotite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pinsir": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Pinsir": {
+	  "randomBattleItems": ["Pinsirite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Plusle": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Politoed": {
+	  "randomBattleItems": ["Leftovers", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Poliwrath": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Porygon-Z": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs", "Normalium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Porygon2": {
+	  "randomBattleItems": ["Eviolite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Primarina": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Primeape": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Probopass": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Purugly": {
+	  "randomBattleItems": ["Life Orb ", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pyroar": {
+	  "randomBattleItems": ["Life Orb", "Heat Rock", "Grassium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Pyukumuku": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Quagsire": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Qwilfish": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Raichu": {
+	  "randomBattleItems": ["Life Orb", "Choice Specs", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Raichu-Alola": {
+	  "randomBattleItems": ["Life Orb", "Choice Specs", "Aloraichuim Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Raikou": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rampardos": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rapidash": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Raticate": {
+	  "randomBattleItems": ["Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Raticate-Alola": {
+	  "randomBattleItems": ["Lif Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rayquaza": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Regice": {
+	  "randomBattleItems": ["Leftovers", "Weakness Policy "],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Regigigas": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Regirock": {
+	  "randomBattleItems": ["Air Balloon", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Registeel": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Chesto berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Relicanth": {
+	  "randomBattleItems": ["Leftovers", "Air Balloon", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Reshiram": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Reuniclus": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rhyperior": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Weakness Policy"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ribombee": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Roserade": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom-Mow": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom-Wash": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom-Heat": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom-Fan": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Rotom-Frost": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sableye": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Sableye": {
+	  "randomBattleItems": ["Sablenite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Salamence": {
+	  "randomBattleItems": ["Life Orb", "Lum Berry", "Choice Band", "Assault Vest", "Flyinium Z", "*"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Salamence": {
+	  "randomBattleItems": ["Salamencite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Salazzle": {
+	  "randomBattleItems": ["Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Samurott": {
+	  "randomBattleItems": ["Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sandslash": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sandslash-Alola": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sawk": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sawsbuck": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sceptile": {
+	  "randomBattleItems": ["Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Sceptile": {
+	  "randomBattleItems": ["Sceptilite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Scizor": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Scizor": {
+	  "randomBattleItems": ["Scizorite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Scolipede": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Scrafty": {
+	  "randomBattleItems": ["Leftovers", "Chesto Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Scyther": {
+	  "randomBattleItems": ["Eviolite", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Seaking": {
+	  "randomBattleItems": ["Expert Belt", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Seismitoad": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Damp Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Serperior": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Seviper": {
+	  "randomBattleItems": ["Life Orb", "Expert Belt", "Choice Scarf"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sharpedo": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Sharpedo": {
+	  "randomBattleItems": ["Sharpedonite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shaymin": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shaymin-S": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shedinja": {
+	  "randomBattleItems": ["Focus Sash"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shiftry": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shiinotic": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Shuckle": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sigilyph": {
+	  "randomBattleItems": ["Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Normal": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Fire": {
+	  "randomBattleItems": ["Fire Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Water": {
+	  "randomBattleItems": ["Water Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Electric": {
+	  "randomBattleItems": ["Electric Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Grass": {
+	  "randomBattleItems": ["Grass Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Ice": {
+	  "randomBattleItems": ["Ice Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Fighting": {
+	  "randomBattleItems": ["Fighting Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Poison": {
+	  "randomBattleItems": ["Poison Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Ground": {
+	  "randomBattleItems": ["Ground Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Flying": {
+	  "randomBattleItems": ["Flying Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Psychic": {
+	  "randomBattleItems": ["Psychic Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Bug": {
+	  "randomBattleItems": ["Bug Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Rock": {
+	  "randomBattleItems": ["Rock Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Ghost": {
+	  "randomBattleItems": ["Ghost Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Dragon": {
+	  "randomBattleItems": ["Dragon Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Dark": {
+	  "randomBattleItems": ["Dark Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Steel": {
+	  "randomBattleItems": ["Steel Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Silvally-Fairy": {
+	  "randomBattleItems": ["Fairy Memory"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Simipour": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Simisage": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Simisear": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Skarmory": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Skuntank": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Slaking": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Slowbro": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Slowbro": {
+	  "randomBattleItems": ["Slowbronite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Slowking": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Slurpuff": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Smeargle": {
+	  "randomBattleItems": ["Focus Sash"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Snorlax": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Solgaleo": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Solrock": {
+	  "randomBattleItems": ["Leftovers", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Spinda": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Spiritomb": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Stakataka": {
+	  "randomBattleItems": ["Choice Band", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Stantler": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Staraptor": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Starmie": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Steelix": {
+	  "randomBattleItems": ["Life Orb", "Air Balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Steelix": {
+	  "randomBattleItems": ["Steelixite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Stoutland": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Stunfisk": {
+	  "randomBattleItems": ["Cheri Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sudowoodo": {
+	  "randomBattleItems": ["Life Orb", "Air Balloon", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Suicune": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sunflora": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Swalot": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Swampert": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Swampert": {
+	  "randomBattleItems": ["Swampertite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Swanna": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Damp Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Swellow": {
+	  "randomBattleItems": ["Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Swoobat": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Sylveon": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Talonflame": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Flyinium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tangrowth": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"TapuBulu": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"TapuFini": {
+	  "randomBattleItems": ["Leftovers", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"TapuKoko": {
+	  "randomBattleItems": ["Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"TapuLele": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tauros": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tentacruel": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Terrakion": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Air balloon"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Throh": {
+	  "randomBattleItems": ["Leftovers", "Flame Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Thundurus": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Thundurus-Therian": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Togedemaru": {
+	  "randomBattleItems": ["Air Balloon", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Togekiss": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Torkoal": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tornadus": {
+	  "randomBattleItems": ["No Item", "Leftovers", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tornadus-Therian": {
+	  "randomBattleItems": ["Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Torterra": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Toucannon": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Toxapex": {
+	  "randomBattleItems": ["Black Sludge"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Toxicroak": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Trevenant": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tropius": {
+	  "randomBattleItems": ["Sitrus Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tsareena": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Turtonator": {
+	  "randomBattleItems": ["Assault Vest", "White Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Typhlosion": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tyranitar": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Tyranitar": {
+	  "randomBattleItems": ["Tyranitarite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Tyrantrum": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band", "Lum Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Umbreon": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Unfezant": {
+	  "randomBattleItems": ["Scope Lens"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Unown": {
+	  "randomBattleItems": ["Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Ursaring": {
+	  "randomBattleItems": ["Flame Orb", "Toxic Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Uxie": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vanilluxe": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vaporeon": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Venomoth": {
+	  "randomBattleItems": ["Black Sludge"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Venusaur": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Heat Rock"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Mega Venusaur": {
+	  "randomBattleItems": ["Venusaurite"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vespiquen": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Victini": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Victreebel": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb", "Grassium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vikavolt": {
+	  "randomBattleItems": ["Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vileplume": {
+	  "randomBattleItems": ["Black Sludge", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Virizion": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Vivillon": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Volbeat": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Volcanion": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Volcarona": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wailord": {
+	  "randomBattleItems": ["Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Walrein": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Watchog": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Weavile": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Weezing": {
+	  "randomBattleItems": ["Black Sludge"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Whimsicott": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Whiscash": {
+	  "randomBattleItems": ["Life Orb", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wigglytuff": {
+	  "randomBattleItems": ["Leftovers", "Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wishiwashi-School": {
+	  "randomBattleItems": ["Expert Belt", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wobbuffet": {
+	  "randomBattleItems": ["Leftovers", "Custap Berry"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wormadam": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wormadam-Sandy": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Wormadam-Trash": {
+	  "randomBattleItems": ["Leftovers"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Xatu": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Light Clay"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Xerneas": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs", "Assault Vest", "Power Herb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Xurkitree": {
+	  "randomBattleItems": ["Choice Scarf", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Yanmega": {
+	  "randomBattleItems": ["Life Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Yveltal": {
+	  "randomBattleItems": ["Leftovers", "Choice Scarf", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zangoose": {
+	  "randomBattleItems": ["Toxic Orb"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zapdos": {
+	  "randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zebstrika": {
+	  "randomBattleItems": ["Expert Belt", "Choice Specs"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zekrom": {
+	  "randomBattleItems": ["Leftovers", "Lum Berry", "Air Balloon", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zeraora": {
+	  "randomBattleItems": ["Life Orb", "Assault Vest"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zoroark": {
+	  "randomBattleItems": ["Life Orb", "Choice Scarf", "Expert Belt"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zygarde": {
+	  "randomBattleItems": ["Lum Berry", "Choice Band"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zygarde-Complete": {
+	  "randomBattleItems": ["Lum Berry", "Choice Band", "Dragonium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
+	"Zygarde-10%": {
+	  "randomBattleItems": ["Lum Berry", "Choice Band", "Dragonium Z"],
+	  "randomBattleMoves": [],
+	  "randomBattleAb": [],
+	},
 });
 
 var POKEDEX_INTERMEDIATE = JSON.parse(JSON.stringify(POKEDEX_SM));

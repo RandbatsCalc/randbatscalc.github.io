@@ -837,6 +837,8 @@ function Pokemon(pokeInfo) {
 		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || set.item.indexOf("ite") < 0) ? set.item : "";
 		this.status = "Healthy";
 		this.randomBattleMoves = pokemon.randomBattleMoves;
+		this.randomBattleItems = pokemon.randomBattleItems;
+		this.randomBattleAb = pokemon.randomBattleAb;
 		this.toxicCounter = 0;
 		this.moves = [];
 		for (var i = 0; i < 4; i++) {
@@ -887,6 +889,8 @@ function Pokemon(pokeInfo) {
 		this.item = pokeInfo.find(".item").val();
 		this.status = pokeInfo.find(".status").val();
 		this.randomBattleMoves = pokedex[pokemonName].randomBattleMoves;
+		this.randomBattleItems = pokedex[pokemonName].randomBattleItems;
+		this.randomBattleAb = pokedex[pokemonName].randomBattleAb;
 		this.toxicCounter = this.status === "Badly Poisoned" ? ~~pokeInfo.find(".toxic-counter").val() : 0;
 		this.moves = [
 			getMoveDetails(pokeInfo.find(".move1"), this.item),
@@ -1081,7 +1085,7 @@ $(".gen").change(function () {
 		calcStat = CALC_STAT_ADV;
 		break;
 	case 7:
-		pokedex = POKEDEX_SM;
+		pokedex = POKEDEX_RANDBATS;
 		setdex = SETDEX_GEN7;
 		typeChart = TYPE_CHART_XY;
 		moves = MOVES_SM;
@@ -1105,7 +1109,7 @@ $(".gen").change(function () {
 		calcStat = CALC_STAT_ADV;
 		break;
 	case 21:
-		pokedex = POKEDEX_SM;
+		pokedex = POKEDEX_RANDBATS;
 		setdex = SETDEX_GEN7;
 		typeChart = TYPE_CHART_INVERSE;
 		moves = MOVES_SM;
