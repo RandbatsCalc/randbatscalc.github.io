@@ -12885,7 +12885,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 
 var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	//ADD RANDBATS INFO HERE
-	"Abomasnow ": {
+	"Abomasnow": {
 	  "randomBattleItems": ["Leftovers", "Life Orb"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],

@@ -348,6 +348,8 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			stickyMoves.clearStickyMove();
 		}
 
+		pokeObj.find(".randItems").html(pokemon.randomBattleItems.join(", "));
+
 		pokeObj.find(".type1").val(pokemon.t1);
 		pokeObj.find(".type2").val(pokemon.t2);
 		pokeObj.find(".hp .base").val(pokemon.bs.hp);
@@ -399,7 +401,7 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 				pokeObj.find("." + STATS[i] + " .ivs").val(31);
 				pokeObj.find("." + STATS[i] + " .dvs").val(15);
 			}
-			pokeObj.find(".nature").val("Hardy");
+			pokeObj.find(".nature").val("Serious");
 			setSelectValueIfValid(abilityObj, pokemon.ab, "");
 			itemObj.val("");
 			for (i = 0; i < 4; i++) {
