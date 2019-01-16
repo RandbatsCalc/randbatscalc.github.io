@@ -258,8 +258,8 @@ function autosetWeather(ability, i) {
 	}
 
 	if (newWeather === "Strong Winds" || primalWeather.indexOf(newWeather) > -1) {
-		//$("input:radio[name='weather']").prop("disabled", true);
-		//edited out by squirrelboy1225 for doubles!
+		// $("input:radio[name='weather']").prop("disabled", true);
+		// edited out by squirrelboy1225 for doubles!
 		$("input:radio[name='weather'][value='" + newWeather + "']").prop("disabled", false);
 	} else if (typeof newWeather != "undefined") {
 		for (var k = 0; k < $("input:radio[name='weather']").length; k++) {
@@ -267,8 +267,8 @@ function autosetWeather(ability, i) {
 			if (primalWeather.indexOf(val) === -1 && val !== "Strong Winds") {
 				$("input:radio[name='weather']")[k].disabled = false;
 			} else {
-				//$("input:radio[name='weather']")[k].disabled = true;
-				//edited out by squirrelboy1225 for doubles!
+				// $("input:radio[name='weather']")[k].disabled = true;
+				// edited out by squirrelboy1225 for doubles!
 			}
 		}
 	}
@@ -495,8 +495,8 @@ $(".forme").change(function () {
 
 	if ($(this).val().indexOf("Mega") === 0 && $(this).val() !== "Mega Rayquaza") {
 		container.find(".item").val("").keyup();
-		//container.find(".item").prop("disabled", true);
-		//edited out by squirrelboy1225 for doubles!
+		// container.find(".item").prop("disabled", true);
+		// edited out by squirrelboy1225 for doubles!
 	} else {
 		container.find(".item").prop("disabled", false);
 	}
@@ -507,7 +507,7 @@ $(".forme").change(function () {
 	// This is where we would make Zygarde's Forme change @50% HP, need to define var formeName
 	// if (pokemonName === "Zygarde" && (formeName === "Zygarde-10%" || formeName === "Zygarde")) {
 	//    container.find(".percent-hp").val($(this).val() === "Zygarde-Complete" ? "50" : "100").keyup();
-	//}
+	// }
 });
 
 function getTerrainEffects() {
@@ -580,7 +580,7 @@ function calculate() {
 		result.koChanceText = p1.moves[i].bp === 0 ? "nice move" :
 			getKOChanceText(result.damage, p1.moves[i], p2, field.getSide(1), p1.ability === "Bad Dreams");
 		if (p1.moves[i].isMLG && p1.level >= p2.level) {
-			result.koChanceText = "<a href = 'https://www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>"; //dank memes
+			result.koChanceText = "<a href = 'https:// www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>"; // dank memes
 		}
 		var recoveryText = "";
 		if (p1.moves[i].givesHealth) {
@@ -648,7 +648,7 @@ function calculate() {
 		result.koChanceText = p2.moves[i].bp === 0 ? "nice move" :
 			getKOChanceText(result.damage, p2.moves[i], p1, field.getSide(0), p2.ability === "Bad Dreams");
 		if (p2.moves[i].isMLG) {
-			result.koChanceText = "<a href = 'https://www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>";
+			result.koChanceText = "<a href = 'https:// www.youtube.com/watch?v=iD92h-M474g'>it's a one-hit KO!</a>";
 		}
 		if (p2.moves[i].givesHealth) {
 			var minHealthRecovered = "%" === "%" ? Math.floor(minDamage * p2.moves[i].percentHealed * 1000 / p2.maxHP) /
@@ -1187,7 +1187,7 @@ function clearField() {
 
 function makeItem(px, item) {
 	$("#" + px).find(".item").val(item);
-	$(".level").change(); // Force the damage to recalculate
+	$(".level").change(); // Hacky way to force the damage to recalculate - doesn't change move selections based on damage though
 }
 
 function getSetOptions() {
@@ -1201,13 +1201,13 @@ function getSetOptions() {
 	}
 	pokeNames.sort();
 	index = pokeNames.length;
-	while (index--) { //forcing alolan forms to show first
+	while (index--) { // forcing alolan forms to show first
 		if (pokeNames[index].includes("-Alola")) {
 			var temp = pokeNames[index];
-			pokeNames.splice(index, 1); //deleting alolan entry
+			pokeNames.splice(index, 1); // deleting alolan entry
 			var regularForm = temp.substring(0, temp.indexOf("-Alola"));
 			var regularIndex = pokeNames.indexOf(regularForm);
-			pokeNames.splice(regularIndex, 0, temp); //re-inserting it right before non-alolan entry
+			pokeNames.splice(regularIndex, 0, temp); // re-inserting it right before non-alolan entry
 		}
 	}
 	var setOptions = [];
