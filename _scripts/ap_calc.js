@@ -348,7 +348,16 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			stickyMoves.clearStickyMove();
 		}
 
-		pokeObj.find(".randItems").html(pokemon.randomBattleItems.join(", "));
+		pokeObj.find(".randItems").html(""); // Reset the Random Battle Items list
+		for (var u = 0; u < pokemon.randomBattleItems.length; u++) {
+			if (u !== 0) {
+				pokeObj.find(".randItems").append(", ");
+			}
+
+			if (pokeObj.find(".randItems").html().indexOf(pokemon.randomBattleItems[u]) === -1) {
+				pokeObj.find(".randItems").append("<span class=\"assignableItem\" style=\"cursor: pointer;\" onClick=\"makeItem(\'" + $(this).parent().parent()[0].id + "\', \'" + pokemon.randomBattleItems[u] + "\')\">" + pokemon.randomBattleItems[u] + "</span>");
+			}
+		}
 
 		pokeObj.find(".type1").val(pokemon.t1);
 		pokeObj.find(".type2").val(pokemon.t2);
@@ -1174,6 +1183,11 @@ function clearField() {
 	$("#helpingHandR").prop("checked", false);
 	$("#friendGuardL").prop("checked", false);
 	$("#friendGuardR").prop("checked", false);
+}
+
+function makeItem(px, item) {
+	$("#" + px).find(".item").val(item);
+	$(".level").change(); // Force the damage to recalculate
 }
 
 function getSetOptions() {
