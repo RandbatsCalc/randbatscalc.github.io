@@ -13701,7 +13701,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Flareon": {
-	  "randomBattleItems": ["Toxic Orb", "Assault Vest", "*"],
+	  "randomBattleItems": ["Toxic Orb", "Assault Vest"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -13766,7 +13766,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Garchomp": {
-	  "randomBattleItems": ["Lum Berry", "*"],
+	  "randomBattleItems": ["Lum Berry", "Leftovers", "Rocky Helmet"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
@@ -14956,7 +14956,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	  "randomBattleAb": [],
 	},
 	"Salamence": {
-	  "randomBattleItems": ["Life Orb", "Lum Berry", "Choice Band", "Assault Vest", "Flyinium Z", "*"],
+	  "randomBattleItems": ["Life Orb", "Lum Berry", "Choice Band", "Assault Vest", "Flyinium Z"],
 	  "randomBattleMoves": [],
 	  "randomBattleAb": [],
 	},
