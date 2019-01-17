@@ -359,6 +359,17 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			}
 		}
 
+		pokeObj.find(".randAbility").html(""); // Reset the Random Battle Ability list
+		for (var v = 0; u < pokemon.randomBattleAb.length; v++) {
+			if (v !== 0) {
+				pokeObj.find(".randAbility").append(", ");
+			}
+
+			if (pokeObj.find(".randAbility").html().indexOf(pokemon.randomBattleAb[v]) === -1) {
+				pokeObj.find(".randAbility").append("<span class=\"assignableAbility\" style=\"cursor: pointer;\" onClick=\"makeAbility(\'" + $(this).parent().parent()[0].id + "\', \'" + pokemon.randomBattleAb[v] + "\')\">" + pokemon.randomBattleAb[v] + "</span>");
+			}
+		}
+
 		pokeObj.find(".type1").val(pokemon.t1);
 		pokeObj.find(".type2").val(pokemon.t2);
 		pokeObj.find(".hp .base").val(pokemon.bs.hp);
@@ -1188,6 +1199,11 @@ function clearField() {
 function makeItem(px, item) {
 	$("#" + px).find(".item").val(item);
 	$("#" + px).find(".item").change(); // Force the damage to recalculate - doesn't change move selections based on damage though
+}
+
+function makeAbility(px, ab) {
+	$("#" + px).find(".ability").val(ab);
+	$("#" + px).find(".ability").change(); // Force the damage to recalculate - doesn't change move selections based on damage though
 }
 
 function getSetOptions() {
