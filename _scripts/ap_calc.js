@@ -1187,7 +1187,7 @@ function clearField() {
 
 function makeItem(px, item) {
 	$("#" + px).find(".item").val(item);
-	$(".level").change(); // Hacky way to force the damage to recalculate - doesn't change move selections based on damage though
+	$("#" + px).find(".item").change(); // Force the damage to recalculate - doesn't change move selections based on damage though
 }
 
 function getSetOptions() {
