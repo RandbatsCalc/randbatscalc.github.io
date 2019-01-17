@@ -15757,17 +15757,11 @@ for (var i = 0; i != delFrom.length; i++) {
 
 delete POKEDEX_INTERMEDIATE["Meganium"];
 
-var RAND_DELFROM = Object.keys(POKEDEX_SM);
-vat RAND_DELSTUFF = Object.keys(POKEDEX_RANDBATS);
-
-for (var x of RAND_DELFROM) {
-	if (RAND_DELSTUFF.indexOf(RAND_DELFROM[i]) === -1 {
-	    delete POKEDEX_RANDBATS[RAND_DELFROM[x]];
+for (var key in POKEDEX_RANDBATS) {
+	if (POKEDEX_RANDBATS[key].randomBattleMoves === undefined) {
+		delete POKEDEX_RANDBATS[key];
 	}
-	
-	}
-	
-	
+}
 
 var POKEDEX_LG = $.extend(true, {}, POKEDEX_INTERMEDIATE, {
 	"Eevee-Starter": {
