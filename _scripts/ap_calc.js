@@ -360,7 +360,7 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 		}
 
 		pokeObj.find(".randAbility").html(""); // Reset the Random Battle Ability list
-		for (var v = 0; u < pokemon.randomBattleAb.length; v++) {
+		for (var v = 0; v < pokemon.randomBattleAb.length; v++) {
 			if (v !== 0) {
 				pokeObj.find(".randAbility").append(", ");
 			}
