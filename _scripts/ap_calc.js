@@ -370,6 +370,17 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			}
 		}
 
+		pokeObj.find(".randMoves").html(""); // Reset the Random Battle Moves list
+		for (var c = 0; c < pokemon.randomBattleMoves.length; c++) {
+			if (c !== 0) {
+				pokeObj.find(".randMoves").append(", ");
+			}
+
+			if (pokeObj.find(".randMoves").html().indexOf(pokemon.randomBattleMoves[c]) === -1) {
+				pokeObj.find(".randMoves").append("<li class=\"assignableMove\">" + pokemon.randomBattleMoves[c] + "</li>");
+			}
+		}
+
 		pokeObj.find(".type1").val(pokemon.t1);
 		pokeObj.find(".type2").val(pokemon.t2);
 		pokeObj.find(".hp .base").val(pokemon.bs.hp);
