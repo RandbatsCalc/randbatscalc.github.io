@@ -12897,7 +12897,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Absol": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Knock Off", "Play Rough", "Pursuit", "Sucker Punch", "Super Power"],
+		"randomBattleMoves": ["Knock Off", "Play Rough", "Pursuit", "Sucker Punch", "Superpower"],
 		"randomBattleAb": ["Justified", "Pressure", "*"],
 	},
 	"Mega Absol": {
