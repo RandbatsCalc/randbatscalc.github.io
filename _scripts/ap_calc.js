@@ -319,6 +319,7 @@ $(".move-selector").change(function () {
 	var moveName = $(this).val();
 	var move = moves[moveName] || moves["(No Move)"];
 	var moveGroupObj = $(this).parent();
+
 	moveGroupObj.children(".move-bp").val(move.bp);
 	moveGroupObj.children(".move-type").val(move.type);
 	moveGroupObj.children(".move-cat").val(move.category);
@@ -330,6 +331,7 @@ $(".move-selector").change(function () {
 		moveGroupObj.children(".move-hits").hide();
 	}
 	moveGroupObj.children(".move-z").prop("checked", false);
+	recalcEvIv();
 });
 
 // auto-update set details on select
@@ -428,10 +430,19 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 			setSelectValueIfValid(pokeObj.find(".nature"), set.nature, "Hardy");
 			setSelectValueIfValid(abilityObj, pokemon.ab ? pokemon.ab : pokemon.randomBattleAb[0], "");
 			setSelectValueIfValid(itemObj, pokemon.randomBattleItems[0], "");
+
+			var moveCatArr = [];
 			for (i = 0; i < 4; i++) {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				setSelectValueIfValid(moveObj, randMovesArr[i][1], "(No Move)");
+				moveCatArr.push(randMovesArr[i][2]);
 				moveObj.change();
+			}
+			if (moveCatArr.indexOf("Physical") === -1) {
+				pokeObj.find(".at .ivs").val(0);
+				pokeObj.find(".at .evs").val(0);
+				pokeObj.find(".at .avs").val(0);
+				pokeObj.find(".at .dvs").val(0);
 			}
 		} else {
 			if (Lv100) pokeObj.find(".level").val(100);
@@ -1195,6 +1206,36 @@ $(".gen").change(function () {
 	$(".set-selector").val(getSetOptions()[gen > 3 ? 1 : gen === 1 ? 5 : 3].id);
 	$(".set-selector").change();
 });
+
+function recalcEvIv() {
+	var p1Arr = [[], [], [], []];
+	var p2Arr = [[], [], [], []];
+	var thisSubPart = [];
+	for (var i = 0; i < 4; i++) {
+		thisSubPart = [];
+		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-cat").val());
+		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-bp").val());
+		p1Arr[i].push(thisSubPart);
+		thisSubPart = [];
+		thisSubPart.push($("#p2").find(".move" + (i + 1) + " .move-cat").val());
+		thisSubPart.push($("#p2").find(".move" + (i + 1) + " .move-bp").val());
+		p2Arr[i].push(thisSubPart);
+	}
+	if ((p1Arr[0][0].indexOf("Physical") === -1 || p1Arr[0][0].indexOf("0") !== -1) && (p1Arr[1][0].indexOf("Physical") === -1 || p1Arr[1][0].indexOf("0") !== -1) && (p1Arr[2][0].indexOf("Physical") === -1 || p1Arr[2][0].indexOf("0") !== -1) && (p1Arr[3][0].indexOf("Physical") === -1 || p1Arr[3][0].indexOf("0") !== -1)) {
+		$("#p1").find(".at .ivs").val(0);
+		$("#p1").find(".at .evs").val(0);
+	} else {
+		$("#p1").find(".at .ivs").val(31);
+		$("#p1").find(".at .evs").val(85);
+	}
+	if ((p2Arr[0][0].indexOf("Physical") === -1 || p2Arr[0][0].indexOf("0") !== -1) && (p2Arr[1][0].indexOf("Physical") === -1 || p2Arr[1][0].indexOf("0") !== -1) && (p2Arr[2][0].indexOf("Physical") === -1 || p2Arr[2][0].indexOf("0") !== -1) && (p2Arr[3][0].indexOf("Physical") === -1 || p2Arr[3][0].indexOf("0") !== -1)) {
+		$("#p2").find(".at .ivs").val(0);
+		$("#p2").find(".at .evs").val(0);
+	} else {
+		$("#p2").find(".at .ivs").val(31);
+		$("#p2").find(".at .evs").val(85);
+	}
+}
 
 function clearField() {
 	$("#singles").prop("checked", true);
