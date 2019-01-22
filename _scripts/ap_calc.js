@@ -413,7 +413,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				pokeObj.find("." + STATS[i] + " .dvs").val(set.dvs && typeof set.dvs[STATS[i]] !== "undefined" ? set.dvs[STATS[i]] : 15);
 			}
 			setSelectValueIfValid(pokeObj.find(".nature"), set.nature, "Hardy");
-			setSelectValueIfValid(abilityObj, pokemon.ab ? pokemon.ab : pokemon.randomBattleAb[0], "");
+			setSelectValueIfValid(abilityObj, pokemon.randomBattleAb[0], "");
 			setSelectValueIfValid(itemObj, pokemon.randomBattleItems[0], "");
 
 			var moveCatArr = [];
@@ -441,9 +441,9 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				pokeObj.find("." + STATS[i] + " .ivs").val(31);
 				pokeObj.find("." + STATS[i] + " .dvs").val(15);
 			}
-			pokeObj.find(".nature").val("Serious");
+			pokeObj.find(".nature").val("Hardy");
 			setSelectValueIfValid(abilityObj, pokemon.randomBattleAb[0], "");
-			setSelectValueIfValid(itemObj, pokemon.randomBattleAb[0], "");
+			setSelectValueIfValid(itemObj, pokemon.randomBattleItems[0], "");
 			for (i = 0; i < 4; i++) {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				moveObj.val("(No Move)");
@@ -518,7 +518,7 @@ $(".forme").change(function () {
 	if (abilities.indexOf(altForme.ab) > -1) {
 		container.find(".ability").val(altForme.ab);
 	} else if (setName !== "Blank Set" && abilities.indexOf(setdex[pokemonName][setName].ability) > -1) {
-		container.find(".ability").val(setdex[pokemonName][setName].ability);
+		setSelectValueIfValid(container.find(".ability"), pokedex[pokemonName].randomBattleAb[0], "");
 	} else {
 		container.find(".ability").val("");
 	}
@@ -874,13 +874,13 @@ function Pokemon(pokeInfo) {
 				this.rawStats[stat] = ~~((~~((pokemon.bs[stat] * 2 + ivs) * this.level / 100) + 5) * nature + this.avs[stat]);
 			}
 		}
-		this.ability = set.ability && typeof set.ability !== "undefined" ? set.ability :
-			pokemon.ab && typeof pokemon.ab !== "undefined" ? pokemon.ab : "";
-		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || set.item.indexOf("ite") < 0) ? set.item : "";
-		this.status = "Healthy";
 		this.randomBattleMoves = pokemon.randomBattleMoves;
 		this.randomBattleItems = pokemon.randomBattleItems;
 		this.randomBattleAb = pokemon.randomBattleAb;
+		this.ability = pokemon.randomBattleAb[0] && typeof pokemon.randomBattleAb[0] !== "undefined" ? pokemon.randomBattleAb[0] :
+			pokemon.ab && typeof pokemon.ab !== "undefined" ? pokemon.ab : "";
+		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || set.item.indexOf("ite") < 0) ? set.item : "";
+		this.status = "Healthy";
 		this.toxicCounter = 0;
 		this.moves = [];
 		for (var i = 0; i < 4; i++) {

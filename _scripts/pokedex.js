@@ -12915,6 +12915,21 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Flash Cannon", "Hidden Power Ice", "Iron Head", "Sacred Sword", "Shadow Ball", "Shadow Claw", "Shadow Sneak"],
 		"randomBattleAb": ["Stance Change"],
 	},
+	"Aegislash-Shield": {
+		"randomBattleItems": ["Life Orb", "Air Balloon"],
+		"randomBattleMoves": ["Flash Cannon", "Hidden Power Ice", "Iron Head", "Sacred Sword", "Shadow Ball", "Shadow Claw", "Shadow Sneak"],
+		"randomBattleAb": ["Stance Change"],
+	},
+	"Aegislash-Blade": {
+		"randomBattleItems": ["Life Orb", "Air Balloon"],
+		"randomBattleMoves": ["Flash Cannon", "Hidden Power Ice", "Iron Head", "Sacred Sword", "Shadow Ball", "Shadow Claw", "Shadow Sneak"],
+		"randomBattleAb": ["Stance Change"],
+	},
+	"Aegislash-Both": {
+		"randomBattleItems": ["Life Orb", "Air Balloon"],
+		"randomBattleMoves": ["Flash Cannon", "Hidden Power Ice", "Iron Head", "Sacred Sword", "Shadow Ball", "Shadow Claw", "Shadow Sneak"],
+		"randomBattleAb": ["Stance Change"],
+	},
 	"Mega Aerodactyl": {
 		"randomBattleItems": ["Aerodactylite"],
 		"randomBattleMoves": ["Aerial Ace", "Aqua Tail", "Fire Fang", "Pursuit", "Stone Edge"],
