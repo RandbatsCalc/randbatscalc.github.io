@@ -421,6 +421,12 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				setSelectValueIfValid(moveObj, randMovesArr[i][1], "(No Move)");
 				moveCatArr.push(randMovesArr[i][2]);
+				if (randMovesArr[i][1] === "Gyro Ball") {
+					pokeObj.find(".sp .ivs").val(0);
+					pokeObj.find(".sp .evs").val(0);
+					pokeObj.find(".sp .avs").val(0);
+					pokeObj.find(".sp .dvs").val(0);
+				}
 				moveObj.change();
 			}
 			if (moveCatArr.indexOf("Physical") === -1) {
