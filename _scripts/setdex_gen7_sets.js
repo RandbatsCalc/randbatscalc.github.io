@@ -2023,14 +2023,10 @@ var SETDEX_GEN7_SETS = {
 			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
+				"(No Move)"
 			]
 		}
 	},
-
 	"Dodrio": {
 		"Default": {
 			"level": 83,
@@ -2493,26 +2489,6 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Gyro Ball": {
-			"level": 75,
-			"evs": {
-				"sd": "84",
-				"sp": "0"
-			},
-			"ivs": {
-				"sd": "31",
-				"sp": "0"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
 		}
 	},
 
@@ -2546,7 +2522,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Floette-Eternal": {
+	"Floette-E": {
 		"Default": {
 			"level": 75,
 			"nature": "Serious",

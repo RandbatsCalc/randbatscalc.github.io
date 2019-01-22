@@ -12937,7 +12937,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Aerodactyl": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Double Edge", "Earthquake", "Stone Edge"],
+		"randomBattleMoves": ["Double-Edge", "Earthquake", "Stone Edge"],
 		"randomBattleAb": ["Rock Head", "Pressure", "Unnerve"],
 	},
 	"Aggron": {
@@ -12977,7 +12977,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Ambipom": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Fake Out", "Knock Off", "Low Kick", "Seed Bomb", "Tail Slap", "U-Turn"],
+		"randomBattleMoves": ["Fake Out", "Knock Off", "Low Kick", "Seed Bomb", "Tail Slap", "U-turn"],
 		"randomBattleAb": ["Skill Link", "Technician"],
 	},
 	"Amoonguss": {
@@ -12997,7 +12997,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Araquanid": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Leech Life", "Liquidation", "Lunge "],
+		"randomBattleMoves": ["Leech Life", "Liquidation", "Lunge"],
 		"randomBattleAb": ["Water Bubble"],
 	},
 	"Arbok": {
@@ -13102,7 +13102,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Archeops": {
 		"randomBattleItems": ["No Item", "Choice Band", "Expert Belt"],
-		"randomBattleMoves": ["Acrobatics", "Aqua Tail", "Earthquake", "Head Smash", "Stone Edge", "U-Turn"],
+		"randomBattleMoves": ["Acrobatics", "Aqua Tail", "Earthquake", "Head Smash", "Stone Edge", "U-turn"],
 		"randomBattleAb": ["Defeatist"],
 	},
 	"Ariados": {
@@ -13147,7 +13147,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Azelf": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Dazzling Gleam", "Explosion", "Fire Blast", "Knock Off", "Psyshock", "U-Turn"],
+		"randomBattleMoves": ["Dazzling Gleam", "Explosion", "Fire Blast", "Knock Off", "Psyshock", "U-turn"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Azumarill": {
@@ -13192,12 +13192,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Beedrill": {
 		"randomBattleItems": ["Black Sludge", "Life Orb", "Focus Sash"],
-		"randomBattleMoves": ["Knock Off", "Poison Jab", "U-Turn"],
+		"randomBattleMoves": ["Knock Off", "Poison Jab", "U-turn"],
 		"randomBattleAb": ["Swarm"],
 	},
 	"Mega Beedrill": {
 		"randomBattleItems": ["Beedrillite"],
-		"randomBattleMoves": ["Drill Run", "Knock Off", "Poison Jab", "U-Turn", "X-Scissor"],
+		"randomBattleMoves": ["Drill Run", "Knock Off", "Poison Jab", "U-turn", "X-Scissor"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Beheeyem": {
@@ -13262,7 +13262,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Braviary": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice band"],
-		"randomBattleMoves": ["Brave Bird", "Return", "Rock Slide", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Brave Bird", "Return", "Rock Slide", "Superpower", "U-turn"],
 		"randomBattleAb": ["Sheer Force", "Defiant"],
 	},
 	"Breloom": {
@@ -13322,412 +13322,412 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Castform": {
 		"randomBattleItems": ["Heat Rock", "Damp Rock"],
-		"randomBattleMoves": ["Ice Beam", "Solar Beam", "Weather Ball"],
+		"randomBattleMoves": ["Hurricane", "Thunder", "Ice Beam", "Solar Beam", "Weather Ball"],
 		"randomBattleAb": ["Forecast"],
 	},
 	"Celebi": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf"],
-		"randomBattleMoves": ["Hurricane", "Thunder", "Weather Ball"],
+		"randomBattleMoves": ["Earth Power", "Giga Drain", "Hidden Power Fire", "Leaf Storm", "Psychic", "U-turn"],
 		"randomBattleAb": ["Natural Cure"],
 	},
 	"Celesteela": {
 		"randomBattleItems": ["Leftovers", "Weakness Policy"],
-		"randomBattleMoves": ["Earth Power", "Giga Drain", "Hidden Power Fire", "Leaf Storm", "Psychic", "U-Turn"],
+		"randomBattleMoves": ["Air Slash", "Earthquake", "Fire Blast", "Heavy Slam"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Chandelure": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Earthquake", "Fire Blast", "Heavy Slam"],
+		"randomBattleMoves": ["Energy Ball", "Fire Blast", "Hidden Power Ground", "Shadow Ball"],
 		"randomBattleAb": ["Infiltrator"],
 	},
 	"Chansey": {
 		"randomBattleItems": ["Eviolite"],
-		"randomBattleMoves": ["Energy Ball", "Fire Blast", "Hidden Power Ground", "Shadow Ball"],
+		"randomBattleMoves": ["Counter", "Seismic Toss"],
 		"randomBattleAb": ["Natural Cure"],
 	},
 	"Charizard": {
 		"randomBattleItems": ["No Item", "Leftovers"],
-		"randomBattleMoves": ["Counter", "Seismic Toss"],
+		"randomBattleMoves": ["Acrobatics", "Air Slash", "Earthquake", "Fire Blast", "Flame Charge", "Focus Blast"],
 		"randomBattleAb": ["Blaze"],
 	},
 	"Mega Charizard X": {
 		"randomBattleItems": ["Charizardite X"],
-		"randomBattleMoves": ["Acrobatics", "Air Slash", "Earthquake", "Fire Blast", "Flame Charge", "Focus Blast"],
+		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Flare Blitz"],
 		"randomBattleAb": ["Tough Claws"],
 	},
 	"Mega Charizard Y": {
-		"randomBattleItems": ["Charizardite Y", "Charizardite Z gimme it gamefreak"],
-		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Flare Blitz"],
+		"randomBattleItems": ["Charizardite Y"],
+		"randomBattleMoves": ["Air Slash", "Dragon Pulse", "Fire Blast", "Focus Blast", "Solar Beam"],
 		"randomBattleAb": ["Drought"],
 	},
 	"Chatot": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Dragon Pulse", "Fire last", "Focus Blast", "Solar Beam"],
+		"randomBattleMoves": ["Boomburst", "Chatter", "Heat Wave", "Hidden Power Ground", "U-turn"],
 		"randomBattleAb": ["Tangled Feet", "Keen Eye"],
 	},
 	"Cherrim": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Heat Rock"],
-		"randomBattleMoves": ["Boomburst", "Chatter", "Heat Wave", "Hidden Power Ground", "U-Turn"],
+		"randomBattleMoves": ["Dazzling Gleam", "Energy Ball", "Hidden Power Fire"],
 		"randomBattleAb": ["Flower Gift"],
 	},
 	"Chesnaught": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Dazzling Gleam", "Energy Ball", "Hidden Power Fire"],
+		"randomBattleMoves": ["Drain Punch", "Wood Hammer"],
 		"randomBattleAb": ["Bulletproof"],
 	},
 	"Chimecho": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Drain Punch", "Wood Hammer"],
+		"randomBattleMoves": ["Psychic", "Shadow Ball"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Cinccino": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Pyschic", "Shadow Ball"],
+		"randomBattleMoves": ["Aqua Tail", "Bullet Seed", "Knock Off", "Rock Blast", "Tail Slap", "U-turn"],
 		"randomBattleAb": ["Skill Link"],
 	},
 	"Clawitzer": {
 		"randomBattleItems": ["Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Aqua Tail", "Bullet Seed", "Knock Off", "Rock Blast", "Tail Slap", "U-Turn"],
+		"randomBattleMoves": ["Aura Sphere", "Dark Pulse", "Ice Beam", "Scald", "U-turn", "Water Pulse"],
 		"randomBattleAb": ["Mega Launcher"],
 	},
 	"Claydol": {
 		"randomBattleItems": ["Leftovers", "Assault Vest"],
-		"randomBattleMoves": ["Aura Sphere", "Dark Pulse", "Ice Beam", "Scald", "U-Turn", "Water Pulse"],
+		"randomBattleMoves": ["Earthquake", "Ice Beam", "Psychic", "Rapid Spin"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Clefable": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Earthquake", "Ice Beam", "Psychic", "Rapid Spin"],
+		"randomBattleMoves": ["Fire Blast", "Moonblast"],
 		"randomBattleAb": ["Magic Guard"],
 	},
 	"Cloyster": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "White Herb"],
-		"randomBattleMoves": ["Fire Blast", "Moonblast"],
+		"randomBattleMoves": ["Hydro Pump", "Ice Shard", "Icicle Spear", "Rapid Spin", "Rock Blast"],
 		"randomBattleAb": ["Skill Link"],
 	},
 	"Cobalion": {
 		"randomBattleItems": ["Leftovers", "Air Balloon", "Assault Vest"],
-		"randomBattleMoves": ["Hydro Pump", "Ice Shard", "Icicle Spear", "Rapid Spin", "Rock Blast"],
+		"randomBattleMoves": ["Close Combat", "Hidden Power Ice", "Iron Head", "Stone Edge", "Volt Switch"],
 		"randomBattleAb": ["Justified"],
 	},
 	"Cofagrigus": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Close Combat", "Hidden Power Ice", "Iron Head", "Stone Edge", "Volt Switch"],
+		"randomBattleMoves": ["Hidden Power Fighting", "Shadow Ball"],
 		"randomBattleAb": ["Mummy"],
 	},
 	"Comfey": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Hidden Power Fighting", "Shadow Ball"],
+		"randomBattleMoves": ["Draining Kiss"],
 		"randomBattleAb": ["Triage"],
 	},
 	"Conkeldurr": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Flame Orb"],
-		"randomBattleMoves": ["Draining Kiss"],
+		"randomBattleMoves": ["Drain Punch", "Ice Punch", "Knock Off", "Mach Punch"],
 		"randomBattleAb": ["Sheer Force", "Iron Fist", "Guts"],
 	},
 	"Corsola": {
 		"randomBattleItems": ["Air Balloon"],
-		"randomBattleMoves": ["Drain Punch", "Ice Punch", "Knock Off", "Mach Punch"],
+		"randomBattleMoves": ["Power Gem", "Scald"],
 		"randomBattleAb": ["Regenerator", "Natural Cure"],
 	},
 	"Crabominable": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Power Gem", "Scald"],
+		"randomBattleMoves": ["Close Combat", "Earthquake", "Ice Hammer", "Stone Edge"],
 		"randomBattleAb": ["Iron Fist"],
 	},
 	"Cradily": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Close Combat", "Earthquake", "Ice Hammer", "Stone Edge"],
+		"randomBattleMoves": ["Giga Drain", "Rock Slide", "Seed Bomb"],
 		"randomBattleAb": ["Storm Drain"],
 	},
 	"Crawdaunt": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Giga Drain", "Rock Slide", "Seed Bomb"],
+		"randomBattleMoves": ["Aqua Jet", "Crabhammer", "Knock Off", "Superpower"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Cresselia": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Aqua Jet", "Crabhammer", "Knock Off", "Superpower"],
+		"randomBattleMoves": ["Ice Beam", "Moonblast", "Psychic", "Psyshock"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Crobat": {
 		"randomBattleItems": ["Black Sludge"],
-		"randomBattleMoves": ["Ice Beam", "Moonblast", "Psychic", "Psyshock"],
+		"randomBattleMoves": ["Brave Bird", "Super Fang"],
 		"randomBattleAb": ["Infiltrator"],
 	},
 	"Crustle": {
 		"randomBattleItems": ["Leftovers", "White Herb"],
-		"randomBattleMoves": ["Brave Bird", "Super Fang"],
+		"randomBattleMoves": ["Earthquake", "Rock Blast", "Stone Edge", "X-Scissor"],
 		"randomBattleAb": ["Sturdy"],
 	},
 	"Cryogonal": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Earthquake", "Rock Blast", "Stone Edge", "X-Scissor"],
+		"randomBattleMoves": ["Freeze-Dry", "Hidden Power Ground", "Ice Beam", "Rapid Spin"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Darkrai": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Freeze-Dry", "Hidden Power Ground", "Ice Beam", "Rapid Spin"],
+		"randomBattleMoves": ["Dark Pulse", "Focus Blast", "Sludge Bomb"],
 		"randomBattleAb": ["Bad Dreams"],
 	},
 	"Darmanitan": {
 		"randomBattleItems": ["Life Orb"],
-		"randomBattleMoves": ["Dark Pulse", "Focus Blast", "Sludge Bomb"],
+		"randomBattleMoves": ["Earthquake", "Flare Blitz", "Rock Slide", "Superpower", "U-turn"],
 		"randomBattleAb": ["Sheer Force"],
 	},
 	"Decidueye": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Decidium Z"],
-		"randomBattleMoves": ["Earthquake", "Flare Blitz", "Rock Slide", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Leaf Blade", "Spirit Shackle", "Swords Dance", "Sucker Punch"],
 		"randomBattleAb": ["Overgrow", "Long Reach"],
 	},
 	"Dedenne": {
 		"randomBattleItems": ["Petaya Berry"],
-		"randomBattleMoves": ["Leaf Blade", "Spirit Shackle", "Swords Dance", "Sucker Punch"],
+		"randomBattleMoves": ["Hidden Power Ice", "Grass Knot", "Thunderbolt", "Nuzzle"],
 		"randomBattleAb": ["Cheek Pouch"],
 	},
 	"Delcatty": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Hidden Power Ice", "Grass Knot", "Thunderbolt", "Nuzzle"],
+		"randomBattleMoves": ["Double-Edge", "Fake Out", "Sucker Punch", "Wild Charge"],
 		"randomBattleAb": ["Wonder Skin"],
 	},
 	"Delibird": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Double-Edge", "Fake out", "Sucker Punch", "Wild Charge"],
+		"randomBattleMoves": ["Aerial Ace", "Ice Punch", "Ice Shard"],
 		"randomBattleAb": ["Hustle"],
 	},
 	"Delphox": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Aerial Ace", "Ice Punch", "Ice Shard"],
+		"randomBattleMoves": ["Fire Blast", "Grass Knot", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Blaze", "Magician"],
 	},
 	"Deoxys": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Fire Blast", "Grass Knot", "Psyshock", "Shadow Ball"],
+		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Deoxys-Attack": {
 		"randomBattleItems": ["Life Orb"],
-		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Knock Off", "Psycho Boost", "Superpower"],
+		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Ice Beam", "Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Deoxys-Defense": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Ice Beam", "Knock Off", "Psycho Boost", "Superpower"],
+		"randomBattleMoves": ["Knock Off", "Seismic Toss"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Deoxys-Speed": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Knock Off", "Seismic Toss"],
+		"randomBattleMoves": ["Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Dewgong": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Knock Off", "Psycho Boost", "Superpower"],
+		"randomBattleMoves": ["Ice Beam", "Surf"],
 		"randomBattleAb": ["Thick Fat"],
 	},
 	"Dhelmise": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Ice Beam", "Surf"],
+		"randomBattleMoves": ["Anchor Shot", "Earthquake", "Knock Off", "Power Whip", "Rapid Spin"],
 		"randomBattleAb": ["Steelworker"],
 	},
 	"Dialga": {
 		"randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Anchor Shot", "Earthquake", "Knock Off", "Power Whip", "Rapid Spin"],
+		"randomBattleMoves": ["Draco Meteor", "Fire Blast", "Flash Cannon", "Thunderbolt"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Diancie": {
 		"randomBattleItems": ["Leftovers", "Air Balloon", "Light Clay"],
-		"randomBattleMoves": ["Draco Meteor", "Fire Blast", "Flash Cannon", "Thunderbolt"],
+		"randomBattleMoves": ["Diamond Storm", "Hidden Power Fire", "Moonblast"],
 		"randomBattleAb": ["Clear Body"],
 	},
 	"Mega Diancie": {
 		"randomBattleItems": ["Diancite"],
-		"randomBattleMoves": ["Diamond Storm", "Hidden Power Fire", "Moonblast"],
+		"randomBattleMoves": ["Diamond Storm", "Earth Power", "Hidden Power Fire", "Moonblast", "Psyshock"],
 		"randomBattleAb": ["Magic Bounce"],
 	},
 	"Diggersby": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Diamond Storm", "Earth Power", "Hidden Power Fire", "Moonblast", "Psyshock"],
+		"randomBattleMoves": ["Agility", "Earthquake", "Knock Off", "Quick Attack", "Return", "U-turn", "Wild Charge"],
 		"randomBattleAb": ["Huge Power"],
 	},
 	"Ditto": {
 		"randomBattleItems": ["Choice Scarf"],
-		"randomBattleMoves": ["Agility", "Earthquake", "Knock Off", "Quick Attack", "Return", "U-Turn ", "Wild Charge"],
+		"randomBattleMoves": [],
 		"randomBattleAb": ["Imposter"],
 	},
 	"Dodrio": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Transform"],
+		"randomBattleMoves": ["Brave Bird", "Jump Kick", "Knock Off", "Quick Attack", "Return"],
 		"randomBattleAb": ["Early Bird", "Run Away"],
 	},
 	"Donphan": {
 		"randomBattleItems": ["Leftovers", "Choice Band"],
-		"randomBattleMoves": ["Brave Bird", "Jump Kick", "Knock Off", "Quick Attack", "Return"],
+		"randomBattleMoves": ["Earthquake", "Ice Shard", "Knock Off", "Rapid Spin", "Stone Edge"],
 		"randomBattleAb": ["Sturdy"],
 	},
 	"Doublade": {
 		"randomBattleItems": ["Eviolite"],
-		"randomBattleMoves": ["Earthquake", "Ice Shard", "Knock Off", "Rapid Spin", "Stone Edge"],
+		"randomBattleMoves": ["Iron Head", "Sacred Sword", "Shadow Claw", "Shadow Sneak"],
 		"randomBattleAb": ["No Guard"],
 	},
 	"Dragalge": {
 		"randomBattleItems": ["Black Sludge", "Life Orb", "Choice Specs"],
-		"randomBattleMoves": ["Iron Head", "Sacred Sword", "Shadow Claw", "Shadow Sneak"],
+		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Focus Blast", "Hidden Power Fire", "Scald", "Sludge Wave"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Dragonite": {
 		"randomBattleItems": ["Lum Berry", "Choice Band"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Focus Blast", "Hidden Power Fire", "Scald", "Sludge Wave"],
+		"randomBattleMoves": ["Earthquake", "Extreme Speed", "Fire Punch", "Outrage"],
 		"randomBattleAb": ["Multiscale"],
 	},
 	"Drampa": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
-		"randomBattleMoves": ["Earthquake", "Extreme Speed", "Fire Punch", "Outrage"],
+		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Fire Blast", "Hyper Voice", "Thunderbolt"],
 		"randomBattleAb": ["Sap Sipper"],
 	},
 	"Drapion": {
 		"randomBattleItems": ["Black Sludge", "Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Fire Blast", "Hyper Voice", "Thunderbolt"],
+		"randomBattleMoves": ["Aqua Tail", "Earthquake", "Knock Off", "Poison Jab"],
 		"randomBattleAb": ["Sniper", "Battle Armor"],
 	},
 	"Drifblim": {
 		"randomBattleItems": ["Leftovers", "Sitrus Berry"],
-		"randomBattleMoves": ["Aqua Tail", "Earthquake", "Knock Off", "Poison Jab"],
+		"randomBattleMoves": ["Acrobatics", "Hex", "Shadow Ball"],
 		"randomBattleAb": ["Unburden", "Aftermath"],
 	},
 	"Druddigon": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Acrobatics", "Hex", "Shadow Ball"],
+		"randomBattleMoves": ["Dragon Claw", "Dragon Tail", "Earthquake", "Fire Punch", "Gunk Shot", "Outrage", "Sucker Punch"],
 		"randomBattleAb": ["Sheer Force", "Mold Breaker"],
 	},
 	"Dugtrio": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Focus Sash", "Fightinium Z"],
-		"randomBattleMoves": ["Dragon Claw", "Dragon Tail", "Earthquake", "Fire Punch", "Gunk Shot", "Outrage", "Sucker Punch"],
+		"randomBattleMoves": ["Earthquake", "Reversal", "Stone Edge", "Sucker Punch"],
 		"randomBattleAb": ["Arena Trap"],
 	},
 	"Dugtrio-Alola": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Focus Sash", "Fightinium Z"],
-		"randomBattleMoves": ["Earthquake", "Reversal", "Stone Edge", "Sucker Punch"],
+		"randomBattleMoves": ["Earthquake", "Iron Head", "Reversal", "Stone Edge", "Sucker Punch"],
 		"randomBattleAb": ["Tangling Hair", "Sand Force"],
 	},
 	"Dunsparce": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Earthquake", "Iron Head", "Reversal", "Stone Edge", "Sucker Punch"],
+		"randomBattleMoves": ["Bite", "Body Slam", "Headbutt", "Rock Slide"],
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Durant": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Bite ", "Body Slam", "Headbutt", "Rock Slide"],
+		"randomBattleMoves": ["Iron Head", "Stone Edge", "Superpower", "X-Scissor"],
 		"randomBattleAb": ["Hustle"],
 	},
 	"Dusknoir": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Iron Head", "Stone Edge", "Superpower", "X-Scissor"],
+		"randomBattleMoves": ["Earthquake", "Focus Punch", "Ice Punch", "Shadow Sneak"],
 		"randomBattleAb": ["Pressure", "Frisk"],
 	},
 	"Dustox": {
 		"randomBattleItems": ["Black Sludge", "Life Orb"],
-		"randomBattleMoves": ["Earthquake", "Focus Punch", "Ice Punch", "Shadow Sneak"],
+		"randomBattleMoves": ["Bug Buzz", "Shadow Ball", "Sludge Bomb", "U-turn"],
 		"randomBattleAb": ["Shield Dust"],
 	},
 	"Eelektross": {
 		"randomBattleItems": ["Assault Vest"],
-		"randomBattleMoves": ["Bug Buzz", "Shadow Ball", "Sludge Bomb", "U-Turn"],
+		"randomBattleMoves": ["Acid Spray", "Aqua Tail", "Flamethrower", "Giga Drain", "Knock Off", "Superpower", "Thunderbolt", "U-turn", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Electivire": {
 		"randomBattleItems": ["Expert Belt", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Acid Spray", "Aqua Tail", "Flamethrower", "Giga Drain", "Knock Off", "Superpower", "Thunderbolt", "U-Turn", "Volt Switch"],
+		"randomBattleMoves": ["Cross Chop", "Earthquake", "Flamethrower", "Ice Punch", "Volt Switch", "Wild Charge"],
 		"randomBattleAb": ["Motor Drive"],
 	},
 	"Electrode": {
 		"randomBattleItems": ["Life Orb", "Expert Belt", "Air Balloon", "Choice Specs"],
-		"randomBattleMoves": ["Cross Chop", "Earthquake", "Flamethrower", "Ice Punch", "Volt Switch", "Wild Charge"],
+		"randomBattleMoves": ["Foul Play", "Hidden Power Grass", "Signal Beam", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Static", "Aftermath"],
 	},
 	"Emboar": {
 		"randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Foul Play", "Hidden Power Grass", "Signal Beam", "Thunderbolt", "Volt Switch"],
+		"randomBattleMoves": ["Fire Blast", "Flare Blitz", "Grass Knot", "Head Smash", "Sucker Punch", "Superpower", "Wild Charge"],
 		"randomBattleAb": ["Reckless"],
 	},
 	"Emolga": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Fire Blast", "Flare Blitz", "Grass Knot", "Head Smash", "Sucker Punch", "Superpower", "Wild Charge"],
+		"randomBattleMoves": ["Air Slash", "Charge Beam", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Motor Drive"],
 	},
 	"Empoleon": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Air Balloon", "Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Charge Beam", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Flash Cannon", "Grass Knot", "Hydro Pump", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Torrent"],
 	},
 	"Entei": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Flash Cannon", "Grass Knot", "Hydro Pump", "Ice Beam", "Scald"],
+		"randomBattleMoves": ["Extreme Speed", "Flare Blitz", "Sacred Fire", "Stomping Tantrum", "Stone Edge"],
 		"randomBattleAb": ["Inner Focus"],
 	},
 	"Escavalier": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Extreme Speed", "Flare Blitz", "Sacred Fire", "Stomping Tantrum", "Stone Edge"],
+		"randomBattleMoves": ["Drill Run", "Iron Head", "Knock Off", "Megahorn", "Pursuit"],
 		"randomBattleAb": ["Overcoat", "Swarm"],
 	},
 	"Espeon": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Drill Run", "Iron Head", "Knock Off", "Megahorn", "Pursuit"],
+		"randomBattleMoves": ["Dazzling Gleam", "Psychic", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Bounce"],
 	},
 	"Excadrill": {
 		"randomBattleItems": ["Life Orb", "Air Balloon", "Assault Vest"],
-		"randomBattleMoves": ["Dazzling Gleam", "Psychic", "Psyshock", "Shadow Ball"],
+		"randomBattleMoves": ["Earthquake", "Iron Head", "Rapid Spin", "Rock Slide"],
 		"randomBattleAb": ["Mold Breaker"],
 	},
 	"Exeggutor": {
 		"randomBattleItems": ["Sitrus Berry"],
-		"randomBattleMoves": ["Earthquake", "Iron Head", "Rapid Spin", "Rock Slide"],
+		"randomBattleMoves": ["Giga Drain", "Hidden Power Fire", "Psychic"],
 		"randomBattleAb": ["Harvest"],
 	},
 	"Exeggutor-Alola": {
 		"randomBattleItems": ["Sitrus Berry"],
-		"randomBattleMoves": ["Giga Drain", "Hidden Power Fire", "Psychic"],
+		"randomBattleMoves": ["Draco Meteor", "Dragon Hammer", "Earthquake", "Flamethrower", "Giga Drain", "Knock Off", "Leaf Storm", "Wood Hammer"],
 		"randomBattleAb": ["Harvest"],
 	},
 	"Exploud": {
 		"randomBattleItems": ["Choice Specs"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Hammer", "Earthquake", "Flamethrower", "Giga Drain", "Knock Off", "Leaf Storm", "Wood Hammer"],
+		"randomBattleMoves": ["Boomburst", "Fire Blast", "Focus Blast", "Ice Beam", "Surf"],
 		"randomBattleAb": ["Scrappy"],
 	},
 	"Farfetch'd": {
 		"randomBattleItems": ["Stick"],
-		"randomBattleMoves": ["Boomburst", "Fire Blast", "Focus Blast", "Ice Beam ", "Surf"],
+		"randomBattleMoves": ["Brave Bird", "Knock Off", "Leaf Blade", "Return"],
 		"randomBattleAb": ["Defiant"],
 	},
 	"Fearow": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Brave Bird", "Knock Off", "Leaf Blade", "Return"],
+		"randomBattleMoves": ["Double-Edge", "Drill Peck", "Drill Run", "Pursuit", "Return", "U-turn"],
 		"randomBattleAb": ["Sniper"],
 	},
 	"Feraligatr": {
 		"randomBattleItems": ["Life Orb"],
-		"randomBattleMoves": ["Double-Edge", "Drill Peck", "Drill Run", "Pursuit", "Return", "U-Turn"],
+		"randomBattleMoves": ["Aqua Jet", "Crunch", "Earthquake", "Ice Punch", "Liquidation"],
 		"randomBattleAb": ["Sheer Force"],
 	},
 	"Ferrothorn": {
 		"randomBattleItems": ["Leftovers", "Rocky Helmet"],
-		"randomBattleMoves": ["Aqua Jet", "Crunch", "Earthquake", "Ice Punch", "Liquidation"],
+		"randomBattleMoves": ["Gyro Ball", "Knock Off", "Leech Seed", "Power Whip"],
 		"randomBattleAb": ["Iron Barbs"],
 	},
 	"Flareon": {
 		"randomBattleItems": ["Toxic Orb", "Assault Vest"],
-		"randomBattleMoves": ["Gyro Ball", "Knock Off", "Leech Seed", "Power Whip"],
+		"randomBattleMoves": ["Facade", "Flame Charge", "Flare Blitz", "Quick Attack", "Superpower"],
 		"randomBattleAb": ["Guts", "Flash Fire"],
 	},
 	"Floatzel": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Facade", "Flame Charge", "Flare Blitz", "Quick Attack", "Superpower"],
+		"randomBattleMoves": ["Aqua Jet", "Brick Break", "Ice Punch", "Liquidation"],
 		"randomBattleAb": ["Water Veil"],
 	},
-	"Floette-Eternal": {
+	"Floette-E": {
 		"randomBattleItems": ["Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Aqua Jet", "Brick Break", "Ice Punch", "Liquidation"],
+		"randomBattleMoves": ["Hidden Power Fire", "Hidden Power Ground", "Light of Ruin", "Moonblast", "Psychic"],
 		"randomBattleAb": ["Flower Veil"],
 	},
 	"Florges": {
@@ -13737,7 +13737,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Flygon": {
 		"randomBattleItems": ["Lum Berry", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Earthquake", "Fire Punch", "Outrage", "U-Turn"],
+		"randomBattleMoves": ["Earthquake", "Fire Punch", "Outrage", "U-turn"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Forretress": {
@@ -13752,12 +13752,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Furfrou": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Chesto Berry"],
-		"randomBattleMoves": ["Return", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Return", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Fur Coat"],
 	},
 	"Furret": {
 		"randomBattleItems": ["Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Aqua Tail", "Double-Edge", "Fire Punch", "Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Aqua Tail", "Double-Edge", "Fire Punch", "Knock Off", "U-turn"],
 		"randomBattleAb": ["Frisk"],
 	},
 	"Gallade": {
@@ -13807,7 +13807,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Genesect": {
 		"randomBattleItems": ["Douse Drive", "Shock Drive", "Burn Drive", "Chill Drive", "Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Blaze Kick", "Bug Buzz", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Blaze Kick", "Bug Buzz", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Download"],
 	},
 	"Gengar": {
@@ -13822,7 +13822,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gigalith": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Earthquake", "Explosion", "Rock BLast", "Stone Edge", "Superpower"],
+		"randomBattleMoves": ["Earthquake", "Explosion", "Rock Blast", "Stone Edge", "Superpower"],
 		"randomBattleAb": ["Sand Stream"],
 	},
 	"Girafarig": {
@@ -13857,12 +13857,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gligar": {
 		"randomBattleItems": ["Eviolite"],
-		"randomBattleMoves": ["Earthquake", "Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Earthquake", "Knock Off", "U-turn"],
 		"randomBattleAb": ["Immunity", "Hyper Cutter"],
 	},
 	"Gliscor": {
 		"randomBattleItems": ["Toxic Orb"],
-		"randomBattleMoves": ["Earthquake", "Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Earthquake", "Knock Off", "U-turn"],
 		"randomBattleAb": ["Poison Heal"],
 	},
 	"Gogoat": {
@@ -13922,12 +13922,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Greninja": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
-		"randomBattleMoves": ["Dark Pulse", "Gunk Shot", "Hydro Pump", "Ice Beam", "U-Turn"],
+		"randomBattleMoves": ["Dark Pulse", "Gunk Shot", "Hydro Pump", "Ice Beam", "U-turn"],
 		"randomBattleAb": ["Protean"],
 	},
 	"Ash-Greninja": {
 		"randomBattleItems": ["Choice Specs", "Expert Belt"],
-		"randomBattleMoves": ["Dark Pulse", "Hydro Pump", "Ice Beam", "U-Turn", "Water Shuriken"],
+		"randomBattleMoves": ["Dark Pulse", "Hydro Pump", "Ice Beam", "U-turn", "Water Shuriken"],
 		"randomBattleAb": ["Battle Bond"],
 	},
 	"Groudon": {
@@ -13947,7 +13947,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gumshoos": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-Turn"],
+		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-turn"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Guzzlord": {
@@ -13992,7 +13992,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Heliolisk": {
 		"randomBattleItems": ["Choice Specs", "Damp Rock"],
-		"randomBattleMoves": ["Dark Pulse", "Hidden Power Ice", "Hyper Voice", "Surf ", "Thunder", "Thunderbolt", "Volt Switch"],
+		"randomBattleMoves": ["Dark Pulse", "Hidden Power Ice", "Hyper Voice", "Surf", "Thunder", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Dry Skin"],
 	},
 	"Heracross": {
@@ -14062,7 +14062,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Hydreigon": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Dark Pulse", "Draco Meteor", "Dragon Pulse", "Earth Power", "Fire Blast", "Flash Cannon", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Dark Pulse", "Draco Meteor", "Dragon Pulse", "Earth Power", "Fire Blast", "Flash Cannon", "Superpower", "U-turn"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Hypno": {
@@ -14072,17 +14072,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Illumise": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Bug Buzz", "U-Turn"],
+		"randomBattleMoves": ["Bug Buzz", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Incineroar": {
 		"randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Darkest Lariat", "Earthquake", "Fake Out", "Flare Blitz", "Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Darkest Lariat", "Earthquake", "Fake Out", "Flare Blitz", "Knock Off", "U-turn"],
 		"randomBattleAb": ["Intimidate"],
 	},
 	"Infernape": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Choice Scarf", "Expert Belt"],
-		"randomBattleMoves": ["Close Combat", "Earthquake", "Fire Blast", "Flare Blitz", "Grass Knot", "Hidden Power Ice", "Mach Punch", "Stone Edge", "U-Turn", "Vacuum Wave"],
+		"randomBattleMoves": ["Close Combat", "Earthquake", "Fire Blast", "Flare Blitz", "Grass Knot", "Hidden Power Ice", "Mach Punch", "Stone Edge", "U-turn", "Vacuum Wave"],
 		"randomBattleAb": ["Blaze", "Iron fist"],
 	},
 	"Jellicent": {
@@ -14092,7 +14092,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Jirachi": {
 		"randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Body Slam", "Fire Punch", "Ice Punch", "Iron Head", "U-Turn"],
+		"randomBattleMoves": ["Body Slam", "Fire Punch", "Ice Punch", "Iron Head", "U-turn"],
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Jolteon": {
@@ -14102,7 +14102,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Jumpluff": {
 		"randomBattleItems": ["No Item", "Leftovers"],
-		"randomBattleMoves": ["Acrobatics", "Seed Bomb", "U-Turn"],
+		"randomBattleMoves": ["Acrobatics", "Seed Bomb", "U-turn"],
 		"randomBattleAb": ["Infiltrator"],
 	},
 	"Jynx": {
@@ -14162,7 +14162,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Komala": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Earthquake", "Play Rough", "Return", "Sucker Punch", "U-Turn", "Wood Hammer"],
+		"randomBattleMoves": ["Earthquake", "Play Rough", "Return", "Sucker Punch", "U-turn", "Wood Hammer"],
 		"randomBattleAb": ["Comatose"],
 	},
 	"Kommo-o": {
@@ -14187,7 +14187,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Kyogre-Primal": {
 		"randomBattleItems": ["Blue Orb"],
-		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder ", "Water Spout"],
+		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Primodial Sea"],
 	},
 	"Kyurem": {
@@ -14212,7 +14212,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Landorus-Therian": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Flyinium Z"],
-		"randomBattleMoves": ["Earthquake", "Fly", "Stone Edge", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Earthquake", "Fly", "Stone Edge", "Superpower", "U-turn"],
 		"randomBattleAb": ["Intimidate"],
 	},
 	"Lanturn": {
@@ -14257,7 +14257,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Ledian": {
 		"randomBattleItems": ["Leftovers", "Light Clat"],
-		"randomBattleMoves": ["Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Knock Off", "U-turn"],
 		"randomBattleAb": ["Swarm", "Early Bird"],
 	},
 	"Lickilicky": {
@@ -14267,7 +14267,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Liepard": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Dark Pulse", "Knock Off", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Dark Pulse", "Knock Off", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Lilligant": {
@@ -14312,7 +14312,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Lumineon": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Ice Beam", "Scald", "U-Turn"],
+		"randomBattleMoves": ["Ice Beam", "Scald", "U-turn"],
 		"randomBattleAb": ["Storm Drain"],
 	},
 	"Lunala": {
@@ -14397,7 +14397,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mandibuzz": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf"],
-		"randomBattleMoves": ["Brave Bird", "Foul Play", "Knock Off", "U-Turn"],
+		"randomBattleMoves": ["Brave Bird", "Foul Play", "Knock Off", "U-turn"],
 		"randomBattleAb": ["Overcoat"],
 	},
 	"Manectric": {
@@ -14432,7 +14432,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Marshadow": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Marshadium Z"],
-		"randomBattleMoves": ["Close Combat", "Ice Punch", "Rock Tom", "Shadow Sneak", "Spectral Thief"],
+		"randomBattleMoves": ["Close Combat", "Ice Punch", "Rock Tomb", "Shadow Sneak", "Spectral Thief"],
 		"randomBattleAb": ["Technician"],
 	},
 	"Masquerain": {
@@ -14467,7 +14467,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Meloetta": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Focus Blast", "Hyper Voice", "Psyshock", "Shadow Ball", "U-Turn"],
+		"randomBattleMoves": ["Focus Blast", "Hyper Voice", "Psyshock", "Shadow Ball", "U-turn"],
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Meloetta-Pirouette": {
@@ -14487,7 +14487,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mesprit": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Energy Ball", "Hidden Power Fire", "Ice Beam", "Psychic", "Psyshock", "Signal Beam", "U-Turn"],
+		"randomBattleMoves": ["Energy Ball", "Hidden Power Fire", "Ice Beam", "Psychic", "Psyshock", "Signal Beam", "U-turn"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Metagross": {
@@ -14522,7 +14522,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mienshao": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Fake Out", "High Jump Kick", "Knock Off", "Poison Jab", "Stone Edge", "U-Turn"],
+		"randomBattleMoves": ["Fake Out", "High Jump Kick", "Knock Off", "Poison Jab", "Stone Edge", "U-turn"],
 		"randomBattleAb": ["Regenerator"],
 	},
 	"Mightyena": {
@@ -14572,7 +14572,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mothim": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Bug BUzz", "Giga Drain", "Hidden Power Ground", "U-Turn"],
+		"randomBattleMoves": ["Air Slash", "Bug Buzz", "Giga Drain", "Hidden Power Ground", "U-turn"],
 		"randomBattleAb": ["Tinted Lens"],
 	},
 	"Mr.Mime": {
@@ -14602,7 +14602,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Naganadel": {
 		"randomBattleItems": ["Life Orb", "Expert Belt"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Fire Blast", "Sludge Wave", "U-Turn"],
+		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Fire Blast", "Sludge Wave", "U-turn"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Necrozma": {
@@ -14622,7 +14622,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Necrozma-Ultra": {
 		"randomBattleItems": ["Ultranecronium Z"],
-		"randomBattleMoves": [""],
+		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike", "Heat Wave", "Moongeist Beam", "Power Gem"],
 		"randomBattleAb": ["Neuroforce"],
 	},
 	"Nidoking": {
@@ -14652,7 +14652,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Ninjask": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Groundium Z"],
-		"randomBattleMoves": ["Aerial Ace", "Dig ", "Leech Life", "Night Slash", "U-Turn"],
+		"randomBattleMoves": ["Aerial Ace", "Dig", "Leech Life", "Night Slash", "U-turn"],
 		"randomBattleAb": ["Speed Boost"],
 	},
 	"Noctowl": {
@@ -14662,7 +14662,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Noivern": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Air Slash", "Boomburst", "Draco Meteor", "Flamethrower", "Hurricane", "U-Turn"],
+		"randomBattleMoves": ["Air Slash", "Boomburst", "Draco Meteor", "Flamethrower", "Hurricane", "U-turn"],
 		"randomBattleAb": ["Infiltrator"],
 	},
 	"Octillery": {
@@ -14682,27 +14682,27 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Oricorio-Baile": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-Turn"],
+		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
 	"Oricorio-Pom-Pom": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-Turn"],
+		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
 	"Oricorio-Pa'u": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-Turn"],
+		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
 	"Oricorio-Sensu": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-Turn"],
+		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
 	"Pachirisu": {
 		"randomBattleItems": ["Air Balloon"],
-		"randomBattleMoves": ["Nuzzle", "Super Fang", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Nuzzle", "Super Fang", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Volt Absorb"],
 	},
 	"Palkia": {
@@ -14727,17 +14727,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Passimian": {
 		"randomBattleItems": ["Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Close Combat", "Earthquake", "Iron HEad", "Knock Off", "Rock Slide", "U-Turn"],
+		"randomBattleMoves": ["Close Combat", "Earthquake", "Iron Head", "Knock Off", "Rock Slide", "U-turn"],
 		"randomBattleAb": ["Defiant"],
 	},
 	"Pelipper": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
-		"randomBattleMoves": ["Hurricane", "Knock Off", "Scald", "U-Turn"],
+		"randomBattleMoves": ["Hurricane", "Knock Off", "Scald", "U-turn"],
 		"randomBattleAb": ["Drizzle"],
 	},
 	"Persian": {
 		"randomBattleItems": ["Life Orb"],
-		"randomBattleMoves": ["Fake Out", "Knock Off", "Return", "U-Turn"],
+		"randomBattleMoves": ["Fake Out", "Knock Off", "Return", "U-turn"],
 		"randomBattleAb": ["Technician", "Unnerve"],
 	},
 	"Persian-Alola": {
@@ -14747,22 +14747,22 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Pheromosa": {
 		"randomBattleItems": ["Expert Belt"],
-		"randomBattleMoves": ["Bug Buzz", "High Jump Kick", "Ice Beam", "Poison Jab", "U-Turn"],
+		"randomBattleMoves": ["Bug Buzz", "High Jump Kick", "Ice Beam", "Poison Jab", "U-turn"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Phione": {
 		"randomBattleItems": ["Damp Rock", "Chesto Berry"],
-		"randomBattleMoves": ["Ice Beam", "Scald", "U-Turn"],
+		"randomBattleMoves": ["Ice Beam", "Scald", "U-turn"],
 		"randomBattleAb": ["Hydration"],
 	},
 	"Pidgeot": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Brave Bird", "Double-Edge", "Heat Wave", "Hurricane", "Return", "U-Turn"],
+		"randomBattleMoves": ["Brave Bird", "Double-Edge", "Heat Wave", "Hurricane", "Return", "U-turn"],
 		"randomBattleAb": ["Tangled Feet", "Keen Eye"],
 	},
 	"Mega Pidgeot": {
 		"randomBattleItems": ["Pidgeotite"],
-		"randomBattleMoves": ["Heat Wave", "Hurricane", "U-Turn"],
+		"randomBattleMoves": ["Heat Wave", "Hurricane", "U-turn"],
 		"randomBattleAb": ["No Guard"],
 	},
 	"Pinsir": {
@@ -14787,7 +14787,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Poliwrath": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Circle Throw ", "Focus Blast", "Hydro Pump", "Ice Beam", "Scald"],
+		"randomBattleMoves": ["Circle Throw", "Focus Blast", "Hydro Pump", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Swift Swim", "Water Absorb"],
 	},
 	"Porygon-Z": {
@@ -14807,7 +14807,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Primeape": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band", "Expert Belt"],
-		"randomBattleMoves": ["Close Combat", "Earthquake", "Gunk Shot", "Ice Punch", "Stone Edge", "U-Turn"],
+		"randomBattleMoves": ["Close Combat", "Earthquake", "Gunk Shot", "Ice Punch", "Stone Edge", "U-turn"],
 		"randomBattleAb": ["Defiant", "Vital Spirit"],
 	},
 	"Probopass": {
@@ -14817,7 +14817,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Purugly": {
 		"randomBattleItems": ["Life Orb ", "Choice Band"],
-		"randomBattleMoves": ["Fake Out", "Knock Off", "Quick Attack", "Return", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Fake Out", "Knock Off", "Quick Attack", "Return", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Thick Fat"],
 	},
 	"Pyroar": {
@@ -14837,7 +14837,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Qwilfish": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Liquidation", "Pain Split"],
+		"randomBattleMoves": ["Liquidation"],
 		"randomBattleAb": ["Intimidate"],
 	},
 	"Raichu": {
@@ -14867,7 +14867,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Raticate": {
 		"randomBattleItems": ["Flame Orb"],
-		"randomBattleMoves": ["Facade", "Stomping Tantrum", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Facade", "Stomping Tantrum", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Guts"],
 	},
 	"Raticate-Alola": {
@@ -14877,7 +14877,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Rayquaza": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Claw", "Earthquake", "Extreme Speed", "Outrage", "V-Create"],
+		"randomBattleMoves": ["Draco Meteor", "Dragon Claw", "Earthquake", "Extreme Speed", "Outrage", "V-create"],
 		"randomBattleAb": ["Air Lock"],
 	},
 	"Regice": {
@@ -14892,7 +14892,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Regirock": {
 		"randomBattleItems": ["Air Balloon", "Chesto Berry"],
-		"randomBattleMoves": ["Drain Punch", "Rock Slide", "Sonte Edge"],
+		"randomBattleMoves": ["Drain Punch", "Rock Slide", "Stone Edge"],
 		"randomBattleAb": ["Sturdy"],
 	},
 	"Registeel": {
@@ -14912,7 +14912,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Reuniclus": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Focus Blast", "Psychic ", "Psyshock", "Shadow Ball"],
+		"randomBattleMoves": ["Focus Blast", "Psychic", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Guard"],
 	},
 	"Rhyperior": {
@@ -15022,12 +15022,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Scizor": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Pursuit", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Pursuit", "Superpower", "U-turn"],
 		"randomBattleAb": ["Technician"],
 	},
 	"Mega Scizor": {
 		"randomBattleItems": ["Scizorite"],
-		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Technician"],
 	},
 	"Scolipede": {
@@ -15037,12 +15037,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Scrafty": {
 		"randomBattleItems": ["Leftovers", "Chesto Berry"],
-		"randomBattleMoves": ["Drain Punch", "Hice Jump Kick", "Ice Punch", "Knock Off"],
+		"randomBattleMoves": ["Drain Punch", "High Jump Kick", "Ice Punch", "Knock Off"],
 		"randomBattleAb": ["Shed Skin", "Moxie", "Intimidate"],
 	},
 	"Scyther": {
 		"randomBattleItems": ["Eviolite", "Choice Band"],
-		"randomBattleMoves": ["Aerial Ace", "Brick Break", "Bug Bite", "Knock Off", "Quick Attack", "U-Turn"],
+		"randomBattleMoves": ["Aerial Ace", "Brick Break", "Bug Bite", "Knock Off", "Quick Attack", "U-turn"],
 		"randomBattleAb": ["Technician"],
 	},
 	"Seaking": {
@@ -15072,7 +15072,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mega Sharpedo": {
 		"randomBattleItems": ["Sharpedonite"],
-		"randomBattleMoves": ["Crunch", "Ice Fang", "Psychic Fangs", "Water Fall"],
+		"randomBattleMoves": ["Crunch", "Ice Fang", "Psychic Fangs", "Waterfall"],
 		"randomBattleAb": ["Strong Jaws"],
 	},
 	"Shaymin": {
@@ -15112,12 +15112,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Silvally-Normal": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Crunch", "Double-Edge", "Flame Charge", "Flamethrower", "Ice Beam", "Iron Head", "Return", "U-Turn"],
+		"randomBattleMoves": ["Crunch", "Double-Edge", "Flame Charge", "Flamethrower", "Ice Beam", "Iron Head", "Return", "U-turn"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Fire": {
 		"randomBattleItems": ["Fire Memory"],
-		"randomBattleMoves": ["Ice Beam", "Multi-Attack", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Ice Beam", "Multi-Attack", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Water": {
@@ -15137,7 +15137,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Silvally-Ice": {
 		"randomBattleItems": ["Ice Memory"],
-		"randomBattleMoves": ["Flamethrower", "Multi-Attack", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Flamethrower", "Multi-Attack", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Fighting": {
@@ -15161,13 +15161,13 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Psychic": {
-		"randomBattleItems": ["Psychic Memory"],
+		"randomBattleItems": ["PsychicMemory"],
 		"randomBattleMoves": ["Flamethrower", "Multi-Attack", "Rock Slide"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Bug": {
 		"randomBattleItems": ["Bug Memory"],
-		"randomBattleMoves": ["Flamethrower", "Ice Beam", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Flamethrower", "Ice Beam", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Rock": {
@@ -15182,7 +15182,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Silvally-Dragon": {
 		"randomBattleItems": ["Dragon Memory"],
-		"randomBattleMoves": ["Draco Meteor", "Flame Charge", "Flamethrower", "Ice Beam", "Iron Head", "Multi-Attack", "U-Turn"],
+		"randomBattleMoves": ["Draco Meteor", "Flame Charge", "Flamethrower", "Ice Beam", "Iron Head", "Multi-Attack", "U-turn"],
 		"randomBattleAb": ["RKS System"],
 	},
 	"Silvally-Dark": {
@@ -15247,7 +15247,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Slurpuff": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Sitrus Berry"],
-		"randomBattleMoves": ["Dazzling Gleam", "Drain Punch", "Drainin Kiss", "Flamethrower", "Play Rough", "Return", "Surf"],
+		"randomBattleMoves": ["Dazzling Gleam", "Drain Punch", "Draining Kiss", "Flamethrower", "Play Rough", "Return", "Surf"],
 		"randomBattleAb": ["Unburden"],
 	},
 	"Smeargle": {
@@ -15292,7 +15292,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Staraptor": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["Brave Bird", "Close Combat", "Double-Edge", "Quick Attack", "U-Turn"],
+		"randomBattleMoves": ["Brave Bird", "Close Combat", "Double-Edge", "Quick Attack", "U-turn"],
 		"randomBattleAb": ["Intimidate", "Reckless"],
 	},
 	"Starmie": {
@@ -15357,7 +15357,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Swellow": {
 		"randomBattleItems": ["Flame Orb"],
-		"randomBattleMoves": ["Facade", "Brave Bird", "Quick Attack", "U-Turn"],
+		"randomBattleMoves": ["Facade", "Brave Bird", "Quick Attack", "U-turn"],
 		"randomBattleAb": ["Guts"],
 	},
 	"Swoobat": {
@@ -15372,7 +15372,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Talonflame": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Flyinium Z"],
-		"randomBattleMoves": ["Brave Bird", "Flare Blitz", "U-Turn"],
+		"randomBattleMoves": ["Brave Bird", "Flare Blitz", "U-turn"],
 		"randomBattleAb": ["Gale Wings"],
 	},
 	"Tangrowth": {
@@ -15392,7 +15392,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tapu Koko": {
 		"randomBattleItems": ["Expert Belt"],
-		"randomBattleMoves": ["Brave Bird", "Dazzling Gleam", "Nature's Madness", "U-Turn", "Volt Switch", "Wild Charge"],
+		"randomBattleMoves": ["Brave Bird", "Dazzling Gleam", "Nature's Madness", "U-turn", "Volt Switch", "Wild Charge"],
 		"randomBattleAb": ["Electric Surge"],
 	},
 	"Tapu Lele": {
@@ -15417,7 +15417,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Throh": {
 		"randomBattleItems": ["Leftovers", "Flame Orb"],
-		"randomBattleMoves": ["Circle Throw ", "Ice Punch", "Knock Off", "Storm Throw"],
+		"randomBattleMoves": ["Circle Throw", "Ice Punch", "Knock Off", "Storm Throw"],
 		"randomBattleAb": ["Mold Breaker", "Guts"],
 	},
 	"Thundurus": {
@@ -15432,7 +15432,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Togedemaru": {
 		"randomBattleItems": ["Air Balloon", "Choice Band"],
-		"randomBattleMoves": ["Iron Head", "Nuzzle", "U-Turn", "Zing Zap"],
+		"randomBattleMoves": ["Iron Head", "Nuzzle", "U-turn", "Zing Zap"],
 		"randomBattleAb": ["Lightning Rod", "Iron Barbs", "Sturdy"],
 	},
 	"Togekiss": {
@@ -15447,12 +15447,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tornadus": {
 		"randomBattleItems": ["No Item", "Leftovers", "Expert Belt"],
-		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Tornadus-Therian": {
 		"randomBattleItems": ["Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Air Slash", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-Turn"],
+		"randomBattleMoves": ["Air Slash", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Regenerator"],
 	},
 	"Torterra": {
@@ -15487,7 +15487,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tsareena": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band"],
-		"randomBattleMoves": ["High Jump Kick", "Knock Off", "Power Whip", "Rapid Spin", "U-Turn"],
+		"randomBattleMoves": ["High Jump Kick", "Knock Off", "Power Whip", "Rapid Spin", "U-turn"],
 		"randomBattleAb": ["Queenly Majesty"],
 	},
 	"Turtonator": {
@@ -15522,7 +15522,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Unfezant": {
 		"randomBattleItems": ["Scope Lens"],
-		"randomBattleMoves": ["Night Slash", "Pluck", "Return", "U-Turn"],
+		"randomBattleMoves": ["Night Slash", "Pluck", "Return", "U-turn"],
 		"randomBattleAb": ["Super Luck"],
 	},
 	"Unown": {
@@ -15537,7 +15537,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Uxie": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Knock Off", "Psychic", "U-Turn"],
+		"randomBattleMoves": ["Knock Off", "Psychic", "U-turn"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Vanilluxe": {
@@ -15572,7 +15572,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Victini": {
 		"randomBattleItems": ["Choice Scarf", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Blue Flare", "Bolt Strike", "Focus Blast", "Grass Knot", "U-Turn", "V-Create", "Zen Headbutt"],
+		"randomBattleMoves": ["Blue Flare", "Bolt Strike", "Focus Blast", "Grass Knot", "U-turn", "V-create", "Zen Headbutt"],
 		"randomBattleAb": ["Victory Star"],
 	},
 	"Victreebel": {
@@ -15602,7 +15602,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Volbeat": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["U-Turn"],
+		"randomBattleMoves": ["U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Volcanion": {
@@ -15642,7 +15642,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Whimsicott": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Moonblast", "U-Turn"],
+		"randomBattleMoves": ["Moonblast", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Whiscash": {
@@ -15682,7 +15682,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Xatu": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Light Clay"],
-		"randomBattleMoves": ["Heat Wave", "Night Shade", "Psychic", "U-Turn"],
+		"randomBattleMoves": ["Heat Wave", "Night Shade", "Psychic", "U-turn"],
 		"randomBattleAb": ["Magic Bounce"],
 	},
 	"Xerneas": {
@@ -15692,17 +15692,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Xurkitree": {
 		"randomBattleItems": ["Choice Scarf", "Choice Specs"],
-		"randomBattleMoves": ["Dazzling Gleam", "Energy Ball ", "Hidden Power Ice", "Thunderbolt", "Volt Switch"],
+		"randomBattleMoves": ["Dazzling Gleam", "Energy Ball", "Hidden Power Ice", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Yanmega": {
 		"randomBattleItems": ["Life Orb"],
-		"randomBattleMoves": ["Air Slash", "Ancient Power", "Bug Buzz", "Giga Drain", "U-Turn"],
+		"randomBattleMoves": ["Air Slash", "Ancient Power", "Bug Buzz", "Giga Drain", "U-turn"],
 		"randomBattleAb": ["Speed Boost"],
 	},
 	"Yveltal": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Assault Vest"],
-		"randomBattleMoves": ["Dark Pulse", "Focus Blast", "Foul Play", "Oblivion Wing", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Dark Pulse", "Focus Blast", "Foul Play", "Oblivion Wing", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Dark Aura"],
 	},
 	"Zangoose": {
@@ -15712,12 +15712,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Zapdos": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Heat Wave", "Hidden Power Ice", "Thunderbolt", "U-Turn"],
+		"randomBattleMoves": ["Heat Wave", "Hidden Power Ice", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Static", "Pressure"],
 	},
 	"Zebstrika": {
 		"randomBattleItems": ["Expert Belt", "Choice Specs"],
-		"randomBattleMoves": ["Hidden Power Gass", "Overheat", "Thunderbolt", "Volt Switch", "Wild Charge"],
+		"randomBattleMoves": ["Hidden Power Grass", "Overheat", "Thunderbolt", "Volt Switch", "Wild Charge"],
 		"randomBattleAb": ["Sap Sipper", "Lightning Rod"],
 	},
 	"Zekrom": {
@@ -15732,7 +15732,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Zoroark": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Expert Belt"],
-		"randomBattleMoves": ["Dark Pulse", "Flamethrower", "Focus Blast", "Knock Off", "Sludge Bomb", "Sucker Punch", "U-Turn"],
+		"randomBattleMoves": ["Dark Pulse", "Flamethrower", "Focus Blast", "Knock Off", "Sludge Bomb", "Sucker Punch", "U-turn"],
 		"randomBattleAb": ["Illusion"],
 	},
 	"Zygarde": {
@@ -15742,12 +15742,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Zygarde-Complete": {
 		"randomBattleItems": ["Lum Berry", "Choice Band", "Dragonium Z"],
-		"randomBattleMoves": [""],
+		"randomBattleMoves": ["Extreme Speed", "Iron Tail", "Outrage", "Thousand Arrows"],
 		"randomBattleAb": ["Power Construct"],
 	},
 	"Zygarde-10%": {
 		"randomBattleItems": ["Lum Berry", "Choice Band", "Dragonium Z"],
-		"randomBattleMoves": ["Extreme Speeed", "Iron Tail", "Outrage", "Thousand Arrows"],
+		"randomBattleMoves": ["Extreme Speed", "Iron Tail", "Outrage", "Thousand Arrows"],
 		"randomBattleAb": ["Aura Break", "Power Construct"],
 	},
 });

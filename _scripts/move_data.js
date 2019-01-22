@@ -3536,7 +3536,25 @@ var MOVES_SM = $.extend(true, {}, MOVES_XY, {
 		hasSecondaryEffect: true,
 		makesContact: true,
 		zp: 160
-	}
+	},
+	"Counter": {
+		bp: 0,
+		type: "Fighting",
+		category: "Physical",
+		zp: 100
+	},
+	"Mirror Coat": {
+		bp: 0,
+		type: "Psychic",
+		category: "Special",
+		zp: 100
+	},
+	"Metal Burst": {
+		bp: 0,
+		type: "Steel",
+		category: "Physical",
+		zp: 100
+	},
 });
 
 var MOVES_LG = $.extend(true, {}, MOVES_SM, {
@@ -3633,4 +3651,3 @@ var MOVES_LG = $.extend(true, {}, MOVES_SM, {
 		alwaysCrit: true
 	},
 });
-
