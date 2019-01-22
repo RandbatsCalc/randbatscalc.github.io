@@ -1215,25 +1215,49 @@ function recalcEvIv() {
 		thisSubPart = [];
 		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-cat").val());
 		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-bp").val());
+		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-type").val());
 		p1Arr[i].push(thisSubPart);
 		thisSubPart = [];
 		thisSubPart.push($("#p2").find(".move" + (i + 1) + " .move-cat").val());
 		thisSubPart.push($("#p2").find(".move" + (i + 1) + " .move-bp").val());
+		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-type").val());
 		p2Arr[i].push(thisSubPart);
 	}
 	if ((p1Arr[0][0].indexOf("Physical") === -1 || p1Arr[0][0].indexOf("0") !== -1) && (p1Arr[1][0].indexOf("Physical") === -1 || p1Arr[1][0].indexOf("0") !== -1) && (p1Arr[2][0].indexOf("Physical") === -1 || p1Arr[2][0].indexOf("0") !== -1) && (p1Arr[3][0].indexOf("Physical") === -1 || p1Arr[3][0].indexOf("0") !== -1)) {
 		$("#p1").find(".at .ivs").val(0);
 		$("#p1").find(".at .evs").val(0);
+		$("#p1").find(".at .ivs").change();
 	} else {
 		$("#p1").find(".at .ivs").val(31);
 		$("#p1").find(".at .evs").val(85);
+		$("#p1").find(".at .ivs").change();
 	}
 	if ((p2Arr[0][0].indexOf("Physical") === -1 || p2Arr[0][0].indexOf("0") !== -1) && (p2Arr[1][0].indexOf("Physical") === -1 || p2Arr[1][0].indexOf("0") !== -1) && (p2Arr[2][0].indexOf("Physical") === -1 || p2Arr[2][0].indexOf("0") !== -1) && (p2Arr[3][0].indexOf("Physical") === -1 || p2Arr[3][0].indexOf("0") !== -1)) {
 		$("#p2").find(".at .ivs").val(0);
 		$("#p2").find(".at .evs").val(0);
+		$("#p2").find(".at .ivs").change();
 	} else {
 		$("#p2").find(".at .ivs").val(31);
 		$("#p2").find(".at .evs").val(85);
+		$("#p2").find(".at .ivs").change();
+	}
+	if ((p1Arr[0][0].indexOf("Physical") !== -1 && p1Arr[0][0].indexOf("1") !== -1 && p1Arr[0][0].indexOf("Steel") !== -1) || (p1Arr[1][0].indexOf("Physical") !== -1 && p1Arr[1][0].indexOf("1") !== -1 && p1Arr[1][0].indexOf("Steel") !== -1) || (p1Arr[2][0].indexOf("Physical") !== -1 && p1Arr[2][0].indexOf("1") !== -1 && p1Arr[2][0].indexOf("Steel") !== -1) || (p1Arr[3][0].indexOf("Physical") !== -1 && p1Arr[3][0].indexOf("1") !== -1 && p1Arr[3][0].indexOf("Steel") !== -1)) {
+		$("#p1").find(".sp .ivs").val(0);
+		$("#p1").find(".sp .evs").val(0);
+		$("#p1").find(".sp .ivs").change();
+	} else {
+		$("#p1").find(".sp .ivs").val(31);
+		$("#p1").find(".sp .evs").val(85);
+		$("#p1").find(".sp .ivs").change();
+	}
+	if ((p2Arr[0][0].indexOf("Physical") !== -1 && p2Arr[0][0].indexOf("1") !== -1 && p2Arr[0][0].indexOf("Steel") !== -1) || (p2Arr[1][0].indexOf("Physical") !== -1 && p2Arr[1][0].indexOf("1") !== -1 && p2Arr[1][0].indexOf("Steel") !== -1) || (p2Arr[2][0].indexOf("Physical") !== -1 && p2Arr[2][0].indexOf("1") !== -1 && p2Arr[2][0].indexOf("Steel") !== -1) || (p2Arr[3][0].indexOf("Physical") !== -1 && p2Arr[3][0].indexOf("1") !== -1 && p2Arr[3][0].indexOf("Steel") !== -1)) {
+		$("#p2").find(".sp .ivs").val(0);
+		$("#p2").find(".sp .evs").val(0);
+		$("#p2").find(".sp .ivs").change();
+	} else {
+		$("#p2").find(".sp .ivs").val(31);
+		$("#p2").find(".sp .evs").val(85);
+		$("#p2").find(".sp .ivs").change();
 	}
 }
 
