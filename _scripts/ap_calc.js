@@ -29,19 +29,6 @@ function clampIntRange(num, min, max) {
 	return num;
 }
 
-// auto-calc stats and current HP on change
-$("#levelswitch").change(function () {
-	if (this.checked) {
-		$("#p1").find(".level").val(50);
-		$("#p2").find(".level").val(50);
-		$(".level").change();
-	} else {
-		$("#p1").find(".level").val(100);
-		$("#p2").find(".level").val(100);
-		$(".level").change();
-	}
-});
-
 $(".level").bind("keyup change", function () {
 	var poke = $(this).closest(".poke-info");
 	calcHP(poke);
@@ -335,10 +322,9 @@ $(".move-selector").change(function () {
 });
 
 // auto-update set details on select
-$(".set-selector, #levelswitch").bind("change click keyup keydown", function () {
+$(".set-selector").bind("change click keyup keydown", function () {
 	var fullSetName = $(this).val();
 	var pokemonName, setName;
-	var Lv100 = !$("#levelswitch").is(":checked");
 	pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
 	setName = fullSetName.substring(fullSetName.indexOf("(") + 1, fullSetName.lastIndexOf(")"));
 	var randMovesArr = [[], [], [], []];
@@ -415,8 +401,7 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 		var itemObj = pokeObj.find(".item");
 		if (pokemonName in setdex && setName in setdex[pokemonName]) {
 			var set = setdex[pokemonName][setName];
-			if (Lv100) pokeObj.find(".level").val(100);
-			else pokeObj.find(".level").val(set.level);
+			pokeObj.find(".level").val(set.level);
 			pokeObj.find(".hp .evs").val(set.evs && typeof set.evs.hp !== "undefined" ? set.evs.hp : 85);
 			pokeObj.find(".hp .avs").val(set.avs && typeof set.avs.hp !== "undefined" ? set.avs.hp : 20);
 			pokeObj.find(".hp .ivs").val(set.ivs && typeof set.ivs.hp !== "undefined" ? set.ivs.hp : 31);
@@ -445,8 +430,7 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 				pokeObj.find(".at .dvs").val(0);
 			}
 		} else {
-			if (Lv100) pokeObj.find(".level").val(100);
-			else pokeObj.find(".level").val(50);
+			pokeObj.find(".level").val(50);
 			pokeObj.find(".hp .evs").val(85);
 			pokeObj.find(".hp .avs").val(20);
 			pokeObj.find(".hp .ivs").val(31);
