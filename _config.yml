@@ -1,7 +1,15 @@
 include: ['_pages', '_css', '_scripts', '_images']
 
-plugins:
-  - jekyll-redirect-from
+title: Random Battles Damage Calculator
 
-whitelist:
-  - jekyll-redirect-from
+github:
+  repository_url: https://github.com/randbatscalc/randbatscalc.github.io/
+  owner_name: smoochyena
+  owner_url: https://github.com/randbatscalc/
+
+url: "https://randbatscalc.github.io"
+
+repository: randbatscalc/randbatscalc.github.io
+
+description:
+  Pokemon Damage Calculator for Gen 7 Random Battles, preloaded with sets for all available Pokemon.

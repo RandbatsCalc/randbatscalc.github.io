@@ -339,6 +339,7 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 	var Lv100 = !$("#levelswitch").is(":checked");
 	pokemonName = fullSetName.substring(0, fullSetName.indexOf(" ("));
 	setName = fullSetName.substring(fullSetName.indexOf("(") + 1, fullSetName.lastIndexOf(")"));
+	var randMovesArr = [[], [], [], []];
 	var pokemon = pokedex[pokemonName];
 	if (pokemon) {
 		var pokeObj = $(this).closest(".poke-info");
@@ -376,10 +377,23 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 				pokeObj.find(".randMoves").append(", ");
 			}
 
+			var subRandMovesArr = [];
+			subRandMovesArr.push(moves[pokemon.randomBattleMoves[c]].bp);
+			subRandMovesArr.push(pokemon.randomBattleMoves[c]);
+			subRandMovesArr.push(moves[pokemon.randomBattleMoves[c]].category);
+
+			randMovesArr.push(subRandMovesArr);
+
 			if (pokeObj.find(".randMoves").html().indexOf(pokemon.randomBattleMoves[c]) === -1) {
 				pokeObj.find(".randMoves").append("<span class=\"assignableMove\">" + pokemon.randomBattleMoves[c] + "</span>");
 			}
 		}
+
+		randMovesArr.sort(function (a, b) {
+			return a[0] - b[0];
+		});
+
+		randMovesArr.reverse();
 
 		pokeObj.find(".type1").val(pokemon.t1);
 		pokeObj.find(".type2").val(pokemon.t2);
@@ -412,11 +426,11 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 				pokeObj.find("." + STATS[i] + " .dvs").val(set.dvs && typeof set.dvs[STATS[i]] !== "undefined" ? set.dvs[STATS[i]] : 15);
 			}
 			setSelectValueIfValid(pokeObj.find(".nature"), set.nature, "Hardy");
-			setSelectValueIfValid(abilityObj, pokemon.ab ? pokemon.ab : set.ability, "");
-			setSelectValueIfValid(itemObj, set.item, "");
+			setSelectValueIfValid(abilityObj, pokemon.ab ? pokemon.ab : pokemon.randomBattleAb[0], "");
+			setSelectValueIfValid(itemObj, pokemon.randomBattleItems[0], "");
 			for (i = 0; i < 4; i++) {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
-				setSelectValueIfValid(moveObj, set.moves[i], "(No Move)");
+				setSelectValueIfValid(moveObj, randMovesArr[i][1], "(No Move)");
 				moveObj.change();
 			}
 		} else {
@@ -433,8 +447,8 @@ $(".set-selector, #levelswitch").bind("change click keyup keydown", function () 
 				pokeObj.find("." + STATS[i] + " .dvs").val(15);
 			}
 			pokeObj.find(".nature").val("Serious");
-			setSelectValueIfValid(abilityObj, pokemon.ab, "");
-			itemObj.val("");
+			setSelectValueIfValid(abilityObj, pokemon.randomBattleAb[0], "");
+			setSelectValueIfValid(itemObj, pokemon.randomBattleAb[0], "");
 			for (i = 0; i < 4; i++) {
 				moveObj = pokeObj.find(".move" + (i + 1) + " select.move-selector");
 				moveObj.val("(No Move)");
