@@ -2810,7 +2810,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Giratina-O": {
+	"Giratina-Origin": {
 		"Default": {
 			"level": 73,
 			"nature": "Serious",
