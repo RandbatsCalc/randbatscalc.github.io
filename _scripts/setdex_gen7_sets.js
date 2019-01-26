@@ -3827,7 +3827,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Kommo-O": {
+	"Kommo-o": {
 		"Default": {
 			"level": 77,
 			"nature": "Serious",

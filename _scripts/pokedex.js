@@ -13505,17 +13505,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Deoxys-Attack": {
+	"Deoxys-A": {
 		"randomBattleItems": ["Life Orb"],
 		"randomBattleMoves": ["Extreme Speed", "Fire Punch", "Ice Beam", "Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Deoxys-Defense": {
+	"Deoxys-D": {
 		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Knock Off", "Seismic Toss"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Deoxys-Speed": {
+	"Deoxys-S": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Knock Off", "Psycho Boost", "Superpower"],
 		"randomBattleAb": ["Pressure"],
@@ -13935,7 +13935,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Fire Punch", "Lava Plume", "Stone Edge"],
 		"randomBattleAb": ["Drought"],
 	},
-	"Groudon-Primal": {
+	"Primal Groudon": {
 		"randomBattleItems": ["Red Orb"],
 		"randomBattleMoves": ["Dragon Tail", "Fire Punch", "Lava Plume", "Precipice Blades", "Stone Edge"],
 		"randomBattleAb": ["Desolate Land"],
@@ -14185,7 +14185,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Drizzle"],
 	},
-	"Kyogre-Primal": {
+	"Primal Kyogre": {
 		"randomBattleItems": ["Blue Orb"],
 		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Primodial Sea"],
@@ -14195,12 +14195,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Earth Power", "Focus Blast", "Ice Beam", "Outrage"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Kyurem-White": {
+	"Kyurem-W": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Earth Power", "Focus Blast", "Ice Beam", "Fusion Flare"],
 		"randomBattleAb": ["Turboblaze"],
 	},
-	"Kyurem-Black": {
+	"Kyurem-B": {
 		"randomBattleItems": ["Leftovers", "Assault Vest"],
 		"randomBattleMoves": ["Dragon Claw", "Earth Power", "Fusion Bolt", "Ice Beam", "Outrage"],
 		"randomBattleAb": ["Teravolt"],
@@ -14210,7 +14210,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Earth Power", "Focus Blast", "Knock Off", "Psychic", "Rock Slide", "Sludge Wave"],
 		"randomBattleAb": ["Sheer Force"],
 	},
-	"Landorus-Therian": {
+	"Landorus-T": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Flyinium Z"],
 		"randomBattleMoves": ["Earthquake", "Fly", "Stone Edge", "Superpower", "U-turn"],
 		"randomBattleAb": ["Intimidate"],
@@ -14340,7 +14340,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Crunch", "Facade", "Ice Fang", "Superpower", "Volt Switch", "Wild Charge"],
 		"randomBattleAb": ["Intimidate", "Guts"],
 	},
-	"Lycanroc": {
+	"Lycanroc-Day": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Lycanrium Z"],
 		"randomBattleMoves": ["Accelerock", "Drill Run", "Fire Fang", "Stone Edge"],
 		"randomBattleAb": ["Sand Rush"],
@@ -14350,7 +14350,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Accelerock", "Drill Run", "Fire Fang", "Return", "Stone Edge"],
 		"randomBattleAb": ["Tough Claws"],
 	},
-	"Lycanroc-Midnight": {
+	"Lycanroc-Night": {
 		"randomBattleItems": ["Life Orb"],
 		"randomBattleMoves": ["Fire Punch", "Stone Edge", "Sucker Punch"],
 		"randomBattleAb": ["No Guard"],
@@ -14470,20 +14470,15 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hyper Voice", "Psyshock", "Shadow Ball", "U-turn"],
 		"randomBattleAb": ["Serene Grace"],
 	},
-	"Meloetta-Pirouette": {
+	"Meloetta-P": {
 		"randomBattleItems": ["Assault Vest"],
 		"randomBattleMoves": ["Close Combat", "Knock Off", "Relic Song", "Return"],
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Meowstic": {
-		"randomBattleItems": ["Leftovers", "Light Clay"],
-		"randomBattleMoves": ["Psychic"],
-		"randomBattleAb": ["Prankster"],
-	},
-	"Meowstic-F": {
-		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+		"randomBattleItems": ["Leftovers", "Light Clay", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Energy Ball", "Psychic", "Psyshock", "Shadow Ball", "Thunderbolt"],
-		"randomBattleAb": ["Competitive"],
+		"randomBattleAb": ["Prankster", "Competitive"],
 	},
 	"Mesprit": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
@@ -14550,7 +14545,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Acrobatics", "Earthquake", "Power Gem"],
 		"randomBattleAb": ["Shields Down"],
 	},
-	"Minior-Meteor": {
+	"Minior-Up": {
+		"randomBattleItems": ["White Herb"],
+		"randomBattleMoves": ["Acrobatics", "Earthquake", "Power Gem"],
+		"randomBattleAb": ["Shields Down"],
+	},
+	"Minior-Down": {
 		"randomBattleItems": ["White Herb"],
 		"randomBattleMoves": ["Acrobatics", "Earthquake", "Power Gem"],
 		"randomBattleAb": ["Shields Down"],
@@ -14610,17 +14610,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dark Pulse", "Photon Geyser", "Stored Power"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Dusk-Mane": {
+	"Necrozma-Dusk Mane": {
 		"randomBattleItems": ["Ultranecronium Z", "Solganium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Dawn-Wings": {
+	"Necrozma-Dawn Wings": {
 		"randomBattleItems": ["Ultranecronium Z", "Lunalium Z"],
 		"randomBattleMoves": ["Heat Wave", "Moongeist Beam", "Photon Geyser", "Power Gem"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Ultra": {
+	"Ultra Necrozma": {
 		"randomBattleItems": ["Ultranecronium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike", "Heat Wave", "Moongeist Beam", "Power Gem"],
 		"randomBattleAb": ["Neuroforce"],
@@ -14645,7 +14645,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Fire Blast", "Hidden Power Ice", "Solar Beam"],
 		"randomBattleAb": ["Drought"],
 	},
-	"Ninetails-Alola": {
+	"Ninetales-Alola": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Light Clay"],
 		"randomBattleMoves": ["Blizzard", "Freeze-Dry", "Hidden Power Fire", "Moonblast"],
 		"randomBattleAb": ["Snow Warning"],
@@ -14680,22 +14680,22 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Psyshock", "Thunderbolt"],
 		"randomBattleAb": ["Inner Focus"],
 	},
-	"Oricorio-Baile": {
+	"Oricorio-Fire": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
-	"Oricorio-Pom-Pom": {
+	"Oricorio-Electric": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
-	"Oricorio-Pa'u": {
+	"Oricorio-Psychic": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
 	},
-	"Oricorio-Sensu": {
+	"Oricorio-Ghost": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Hurricane", "Revelation Dance", "U-turn"],
 		"randomBattleAb": ["Dancer"],
@@ -14935,27 +14935,27 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Hidden Power Ice", "Shadow Ball", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Rotom-Mow": {
+	"Rotom-C": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Hidden Power Fire", "Leaf Storm", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Rotom-Wash": {
+	"Rotom-W": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Hidden Power Ice", "Hydro Pump", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Rotom-Heat": {
+	"Rotom-H": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Hidden Power Ice", "Overheat", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Rotom-Fan": {
+	"Rotom-S": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf"],
 		"randomBattleMoves": ["Air Slash", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Rotom-Frost": {
+	"Rotom-F": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Blizzard", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Levitate"],
@@ -15425,7 +15425,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Knock Off", "Thunderbolt"],
 		"randomBattleAb": ["Prankster"],
 	},
-	"Thundurus-Therian": {
+	"Thundurus-T": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Volt Absorb"],
@@ -15450,7 +15450,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
-	"Tornadus-Therian": {
+	"Tornadus-T": {
 		"randomBattleItems": ["Life Orb", "Assault Vest"],
 		"randomBattleMoves": ["Air Slash", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Regenerator"],
@@ -15670,12 +15670,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Bug Buzz", "Giga Drain", "Hidden Power Rock", "Leaf Storm"],
 		"randomBattleAb": ["Overcoat"],
 	},
-	"Wormadam-Sandy": {
+	"Wormadam-G": {
 		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Bug Buzz", "Giga Drain", "Hidden Power Rock", "Leaf Storm"],
 		"randomBattleAb": ["Overcoat"],
 	},
-	"Wormadam-Trash": {
+	"Wormadam-S": {
 		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Bug Buzz", "Giga Drain", "Hidden Power Rock", "Leaf Storm"],
 		"randomBattleAb": ["Overcoat"],
