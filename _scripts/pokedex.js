@@ -13835,7 +13835,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dragon Pulse", "Dragon Tail", "Shadow Ball"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Giratina-Origin": {
+	"Giratina-O": {
 		"randomBattleItems": ["Griseous Orb"],
 		"randomBattleMoves": ["Draco Meteor", "Dragon Tail", "Earthquake", "Shadow Ball", "Shadow Sneak"],
 		"randomBattleAb": ["Levitate"],
