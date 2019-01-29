@@ -2057,6 +2057,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Doublade": {
+		"Default": {
+			"level": 89,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Eviolite",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Dragalge": {
 		"Default": {
 			"level": 79,
@@ -3504,8 +3519,8 @@ var SETDEX_GEN7_SETS = {
 		"Mega": {
 			"level": 78,
 			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
+			"ability": "Solar Power",
+			"item": "Houndoominite",
 			"moves": [
 				"Tackle",
 				"Take Down",

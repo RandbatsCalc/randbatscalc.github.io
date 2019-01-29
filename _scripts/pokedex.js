@@ -15655,7 +15655,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dazzling Gleam", "Fire Blast", "Hyper Voice"],
 		"randomBattleAb": ["Competitive"],
 	},
-	"Wishiwashi-School": {
+	"Wishiwashi": {
 		"randomBattleItems": ["Expert Belt", "Choice Specs"],
 		"randomBattleMoves": ["Hidden Power Grass", "Earthquake", "Hydro Pump", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Schooling"],
