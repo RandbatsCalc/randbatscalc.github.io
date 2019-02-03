@@ -1584,7 +1584,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Coballion": {
+	"Cobalion": {
 		"Default": {
 			"level": 77,
 			"nature": "Serious",
