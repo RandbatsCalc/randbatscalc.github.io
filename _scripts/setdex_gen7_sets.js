@@ -3797,6 +3797,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Kingler": {
+		"Default": {
+			"level": 83,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Klefki": {
 		"Default": {
 			"level": 77,
@@ -5751,7 +5766,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pyroar": {
 		"Default": {
-			"level": 76,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
