@@ -1584,7 +1584,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Coballion": {
+	"Cobalion": {
 		"Default": {
 			"level": 77,
 			"nature": "Serious",
@@ -3944,7 +3944,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Kyurem-Black": {
+	"Kyurem-B": {
 		"Default": {
 			"level": 75,
 			"nature": "Serious",
@@ -3959,7 +3959,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Kyurem-White": {
+	"Kyurem-W": {
 		"Default": {
 			"level": 73,
 			"nature": "Serious",
