@@ -14566,8 +14566,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Levitate"],
 	},
 	"Moltres": {
-		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Fire Blast", "Hidden Power Grass", "Hurricane"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Flyinium Z"],
+		"randomBattleMoves": ["Fire Blast", "Hurricane"],
 		"randomBattleAb": ["Flame Body", "Pressure"],
 	},
 	"Mothim": {
@@ -14657,12 +14657,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Noctowl": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Air Slash", "Heat Wave", "Hurricane", "Night Shade"],
+		"randomBattleMoves": ["Heat Wave", "Hurricane", "Night Shade"],
 		"randomBattleAb": ["Insomnia", "Tinted Lens"],
 	},
 	"Noivern": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Air Slash", "Boomburst", "Draco Meteor", "Flamethrower", "Hurricane", "U-turn"],
+		"randomBattleMoves": ["Boomburst", "Draco Meteor", "Flamethrower", "Hurricane", "U-turn"],
 		"randomBattleAb": ["Infiltrator"],
 	},
 	"Octillery": {
@@ -14757,7 +14757,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Pidgeot": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Brave Bird", "Double-Edge", "Heat Wave", "Hurricane", "Return", "U-turn"],
+		"randomBattleMoves": ["Brave Bird", "Heat Wave", "Defog", "Return", "U-turn"],
 		"randomBattleAb": ["Tangled Feet", "Keen Eye"],
 	},
 	"Mega Pidgeot": {
@@ -14917,7 +14917,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Rhyperior": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Weakness Policy"],
-		"randomBattleMoves": ["Aqua Tail", "Dragon Tail", "Earthquake", "Megahorn", "Rock Blast", "Stone Edge"],
+		"randomBattleMoves": ["Ice Punch", "Dragon Tail", "Earthquake", "Megahorn", "Rock Blast", "Stone Edge"],
 		"randomBattleAb": ["Solid Rock"],
 	},
 	"Ribombee": {
@@ -15351,8 +15351,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Swift Swim"],
 	},
 	"Swanna": {
-		"randomBattleItems": ["Leftovers", "Life Orb", "Damp Rock"],
-		"randomBattleMoves": ["Air Slash", "Hurricane", "Ice Beam", "Scald"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Damp Rock", "Expert Belt"],
+		"randomBattleMoves": ["Brave Bird", "Hurricane", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Hydration"],
 	},
 	"Swellow": {
@@ -15447,12 +15447,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tornadus": {
 		"randomBattleItems": ["No Item", "Leftovers", "Expert Belt"],
-		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
+		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Superpower", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
 	"Tornadus-T": {
 		"randomBattleItems": ["Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Air Slash", "Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
+		"randomBattleMoves": ["Heat Wave", "Hurricane", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Regenerator"],
 	},
 	"Torterra": {

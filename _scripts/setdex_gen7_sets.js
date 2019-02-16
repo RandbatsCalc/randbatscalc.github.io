@@ -1481,7 +1481,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Chesnaught": {
 		"Default": {
-			"level": 79,
+			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1781,7 +1781,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Darmanitan": {
 		"Default": {
-			"level": 77,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1988,7 +1988,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Mega": {
-			"level": 76,
+			"level": 75,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Diancite",
@@ -2059,7 +2059,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Doublade": {
 		"Default": {
-			"level": 89,
+			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Eviolite",
@@ -2725,7 +2725,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gastrodon": {
 		"Default": {
-			"level": 75,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2869,7 +2869,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Mega": {
-			"level": 79,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Refrigerate",
 			"item": "Glalitite",
@@ -2884,7 +2884,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gligar": {
 		"Default": {
-			"level": 79,
+			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3490,7 +3490,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hoopa-Unbound": {
 		"Default": {
-			"level": 75,
+			"level": 76,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4459,7 +4459,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Magmortar": {
 		"Default": {
-			"level": 82,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4792,7 +4792,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Metagross": {
 		"Default": {
-			"level": 77,
+			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4948,7 +4948,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Minior": {
 		"Default": {
-			"level": 81,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6979,6 +6979,33 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Slowbro": {
+		"Default": {
+			"level": 81,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		},
+		"Mega": {
+			"level": 78,
+			"nature": "Serious",
+			"ability": "Shell Armor",
+			"item": "Slowbronite",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Slowking": {
 		"Default": {
 			"level": 81,
@@ -7141,7 +7168,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Stakataka": {
 		"Default": {
-			"level": 77,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7231,7 +7258,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Mega": {
-			"level": 79,
+			"level": 77,
 			"nature": "Serious",
 			"ability": "Sand Force",
 			"item": "Steelixite",
@@ -7601,6 +7628,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Togedemaru": {
+		"Default": {
+			"level": 81,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Tornadus": {
 		"Default": {
 			"level": 78,
@@ -7870,7 +7912,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Uxie": {
 		"Default": {
-			"level": 81,
+			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7885,7 +7927,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Vanilluxe": {
 		"Default": {
-			"level": 81,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8167,7 +8209,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Weezing": {
 		"Default": {
-			"level": 83,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
