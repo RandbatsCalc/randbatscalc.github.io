@@ -15446,7 +15446,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Drought"],
 	},
 	"Tornadus": {
-		"randomBattleItems": ["No Item", "Leftovers", "Expert Belt"],
+		"randomBattleItems": ["No Item", "Leftovers", "Expert Belt", "Flyinium Z"],
 		"randomBattleMoves": ["Acrobatics", "Heat Wave", "Hurricane", "Superpower", "U-turn"],
 		"randomBattleAb": ["Prankster"],
 	},
