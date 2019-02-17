@@ -5021,7 +5021,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"MrMime": {
+	"Mr. Mime": {
 		"Default": {
 			"level": 84,
 			"nature": "Serious",

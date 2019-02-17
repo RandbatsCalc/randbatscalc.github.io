@@ -1153,6 +1153,7 @@ var POKEDEX_RBY = {
 	},
 	"Mr. Mime": {
 		"t1": "Psychic",
+		"t2": "Fairy",
 		"bs": {
 			"hp": 40,
 			"at": 45,
@@ -1163,7 +1164,7 @@ var POKEDEX_RBY = {
 			"sl": 100
 		},
 		"w": 54.5,
-		"ab": "Soundproof"
+		"ab": "Filter"
 	},
 	"Muk": {
 		"t1": "Poison",
