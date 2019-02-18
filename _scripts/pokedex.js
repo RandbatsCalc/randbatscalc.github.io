@@ -14576,7 +14576,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Air Slash", "Bug Buzz", "Giga Drain", "Hidden Power Ground", "U-turn"],
 		"randomBattleAb": ["Tinted Lens"],
 	},
-	"Mr.Mime": {
+	"Mr. Mime": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Dazzling Gleam", "Focus Blast", "Psychic", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Filter"],
