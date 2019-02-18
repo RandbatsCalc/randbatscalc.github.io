@@ -2387,7 +2387,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Excadril": {
+	"Excadrill": {
 		"Default": {
 			"level": 75,
 			"nature": "Serious",
@@ -2570,6 +2570,36 @@ var SETDEX_GEN7_SETS = {
 	"Flygon": {
 		"Default": {
 			"level": 79,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Forretress": {
+		"Default": {
+			"level": 79,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Froslass": {
+		"Default": {
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
