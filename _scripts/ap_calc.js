@@ -535,7 +535,13 @@ $(".forme").change(function () {
 		// container.find(".item").prop("disabled", true);
 		// edited out by squirrelboy1225 for doubles!
 	} else {
-		container.find(".item").prop("disabled", false);
+		if ($(this).val().indexOf("Mega") === 0 && $(this).val() !== "Meganium") {
+			container.find(".item").prop("disabled", false);
+		} else {
+			if (pokedex[pokemonName] !== undefined) {
+				setSelectValueIfValid(container.find(".item"), pokedex[pokemonName].randomBattleItems[0], "");
+			}
+		}
 	}
 
 	if (pokemonName === "Darmanitan") {
