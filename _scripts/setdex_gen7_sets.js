@@ -7211,6 +7211,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+
 	"Stakataka": {
 		"Default": {
 			"level": 78,
@@ -7225,24 +7226,27 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Trick Room and/or Gyro Ball": {
-			"level": 77,
-			"sd": "84",
-			"sp": "0"
-		},
-		"ivs": {
-			"sd": "31",
-			"sp": "0"
-		},
-		"nature": "Serious",
-		"ability": "Defiant",
-		"item": "Leftovers",
-		"moves": [
-			"Tackle",
-			"Take Down",
-			"Earthquake",
-			"Accelerock"
-		]
+			"level": 78,
+			"evs": {
+				"sd": "85",
+				"sp": "0"
+			},
+			"ivs": {
+				"sd": "31",
+				"sp": "0"
+			},
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
 	},
+
 
 	"Stantler": {
 		"Default": {
