@@ -10496,18 +10496,6 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		},
 		"w": 8.5
 	},
-	"Meowstic-F": {
-		"t1": "Psychic",
-		"bs": {
-			"hp": 74,
-			"at": 48,
-			"df": 76,
-			"sa": 83,
-			"sd": 81,
-			"sp": 104
-		},
-		"w": 8.5
-	},
 	"Noibat": {
 		"t1": "Flying",
 		"t2": "Dragon",
@@ -12878,7 +12866,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Prism Armor",
 		"formes": ["Necrozma-Dawn Wings", "Ultra Necrozma"]
 	},
-	"Necrozma-Ultra": {
+	"Ultra Necrozma": {
 		"t1": "Psychic",
 		"t2": "Dragon",
 		"bs": {
@@ -14489,14 +14477,9 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Meowstic": {
-		"randomBattleItems": ["Leftovers", "Light Clay"],
-		"randomBattleMoves": ["Psychic"],
-		"randomBattleAb": ["Prankster"],
-	},
-	"Meowstic-F": {
-		"randomBattleItems": ["Life Orb", "Choice Specs"],
+		"randomBattleItems": ["Leftovers", "Light Clay", "Life Orb", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Energy Ball", "Psychic", "Psyshock", "Shadow Ball", "Thunderbolt"],
-		"randomBattleAb": ["Infiltrator"],
+		"randomBattleAb": ["Prankster", "Competitive"],
 	},
 	"Mesprit": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
@@ -14638,7 +14621,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Heat Wave", "Moongeist Beam", "Photon Geyser", "Power Gem"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Ultra": {
+	"Ultra Necrozma": {
 		"randomBattleItems": ["Ultranecronium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike", "Heat Wave", "Moongeist Beam", "Power Gem"],
 		"randomBattleAb": ["Neuroforce"],
