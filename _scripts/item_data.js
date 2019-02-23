@@ -139,7 +139,11 @@ var ITEMS_BW = ITEMS_DPP.concat([
 	"Ring Target",
 	"Rock Gem",
 	"Steel Gem",
-	"Water Gem"
+	"Water Gem",
+	"Douse Drive",
+	"Burn Drive",
+	"Shock Drive",
+	"Chill Drive"
 ]);
 
 var ITEMS_XY = ITEMS_BW.concat([
