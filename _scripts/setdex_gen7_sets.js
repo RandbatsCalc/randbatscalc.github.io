@@ -748,6 +748,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Ash-Greninja": {
+		"Default": {
+			"level": 75,
+			"nature": "Serious",
+			"ability": "Battle Bond",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Audino": {
 		"Default": {
 			"level": 83,
@@ -4778,6 +4793,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Meloetta-P": {
+		"Default": {
+			"level": 79,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Meowstic": {
 		"Default": {
 			"level": 84,
@@ -4791,6 +4821,7 @@ var SETDEX_GEN7_SETS = {
 				"Accelerock"
 			]
 		},
+
 		"Meowstic-F": {
 			"level": 84,
 			"nature": "Serious",
@@ -5220,6 +5251,21 @@ var SETDEX_GEN7_SETS = {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
+			"item": "Ultranecrozium-Z",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Necrozma-Ultra": {
+		"Default": {
+			"level": 73,
+			"nature": "Serious",
+			"ability": "Neuroforce",
 			"item": "Ultranecrozium-Z",
 			"moves": [
 				"Tackle",
@@ -8584,8 +8630,8 @@ var SETDEX_GEN7_SETS = {
 	},
 
 	"Zygarde": {
-		"50%": {
-			"level": 75,
+		"Default": {
+			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8595,23 +8641,29 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
+		}
+	},
+
+	"Zygarde-Complete": {
+		"Default": {
+			"level": 73,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Zygarde-10%": {
 		"10%": {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Complete": {
-			"level": 73,
-			"nature": "Serious",
-			"ability": "Power Construct",
 			"item": "Leftovers",
 			"moves": [
 				"Tackle",
