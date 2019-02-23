@@ -112,6 +112,12 @@ function getDamageResult(attacker, defender, move, field) {
 		}
 		break;
 
+	case "Techno Blast":
+		if (attacker.item.indexOf("Drive") !== -1) {
+			move.type = getTechnoBlast(attacker.item);
+		}
+		break;
+
 	case "Natural Gift":
 		if (attacker.item.indexOf("Berry") !== -1) {
 			var gift = getNaturalGift(attacker.item);

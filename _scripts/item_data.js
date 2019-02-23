@@ -455,3 +455,18 @@ function getMultiAttack(item) {
 		return "";
 	}
 }
+
+function getTechnoBlast(item) {
+	switch (item) {
+	case "Burn Drive":
+		return "Fire";
+	case "Chill Drive":
+		return "Ice";
+	case "Douse Drive":
+		return "Water";
+	case "Shock Drive":
+		return "Electric";
+	default:
+		return "";
+	}
+}
