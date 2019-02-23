@@ -13808,7 +13808,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Genesect": {
 		"randomBattleItems": ["Douse Drive", "Shock Drive", "Burn Drive", "Chill Drive", "Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Blaze Kick", "Bug Buzz", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-turn"],
+		"randomBattleMoves": ["Techno Blast", "Blaze Kick", "Bug Buzz", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Download"],
 	},
 	"Gengar": {
