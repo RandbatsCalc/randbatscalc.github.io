@@ -7211,7 +7211,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Stakataka": {
 		"Default": {
 			"level": 78,
@@ -7246,7 +7245,6 @@ var SETDEX_GEN7_SETS = {
 			]
 		}
 	},
-
 
 	"Stantler": {
 		"Default": {
