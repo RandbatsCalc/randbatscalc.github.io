@@ -15673,12 +15673,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Wormadam-G": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Bug Buzz", "Giga Drain", "Hidden Power Rock", "Leaf Storm"],
+		"randomBattleMoves": ["Earthquake"],
 		"randomBattleAb": ["Overcoat"],
 	},
 	"Wormadam-S": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Bug Buzz", "Giga Drain", "Hidden Power Rock", "Leaf Storm"],
+		"randomBattleMoves": ["Gyro Ball"],
 		"randomBattleAb": ["Overcoat"],
 	},
 	"Xatu": {
