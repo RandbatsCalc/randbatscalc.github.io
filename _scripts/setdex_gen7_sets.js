@@ -5038,7 +5038,6 @@ var SETDEX_GEN7_SETS = {
 
 	"Mothim": {
 		"Default": {
-<<<<<<< HEAD
 			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -5055,9 +5054,6 @@ var SETDEX_GEN7_SETS = {
 	"Mr. Mime": {
 		"Default": {
 			"level": 84,
-=======
-			"level": 83,
->>>>>>> parent of 38d9577... Reflecting addition of ZU levels into rands
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
