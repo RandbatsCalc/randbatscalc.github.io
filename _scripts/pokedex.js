@@ -13682,7 +13682,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Mold Breaker"],
 	},
 	"Exeggutor": {
-		"randomBattleItems": ["Sitrus Berry"],
+		"randomBattleItems": ["Sitrus Berry", "Life Orb"],
 		"randomBattleMoves": ["Giga Drain", "Hidden Power Fire", "Psychic"],
 		"randomBattleAb": ["Harvest"],
 	},
@@ -15422,7 +15422,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Mold Breaker", "Guts"],
 	},
 	"Thundurus": {
-		"randomBattleItems": ["Leftovers", "Life Orb"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Flying", "Hidden Power Ice", "Knock Off", "Thunderbolt"],
 		"randomBattleAb": ["Prankster"],
 	},
