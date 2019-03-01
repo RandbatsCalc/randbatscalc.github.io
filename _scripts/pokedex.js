@@ -14387,7 +14387,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Contrary"],
 	},
 	"Mamoswine": {
-		"randomBattleItems": ["Focus Sash", "Life Orb", "Choice Scarf", "Choice Specs"],
+		"randomBattleItems": ["Focus Sash", "Life Orb", "Choice Scarf", "Choice Band"],
 		"randomBattleMoves": ["Earthquake", "Ice Shard", "Icicle Crash", "Knock Off", "Superpower"],
 		"randomBattleAb": ["Thick Fat"],
 	},
