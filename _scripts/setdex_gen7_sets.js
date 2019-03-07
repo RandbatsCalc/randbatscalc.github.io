@@ -7690,6 +7690,21 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Togekiss": {
+		"Default": {
+			"level": 77,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Torkoal": {
 		"Default": {
 			"level": 84,
