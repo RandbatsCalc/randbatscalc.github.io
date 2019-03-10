@@ -8633,5 +8633,36 @@ var SETDEX_GEN7_SETS = {
 				"Accelerock"
 			]
 		}
+	},
+
+	"Zygarde-10%": {
+		"Default": {
+			"level": 77,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+
+	"Zygarde-Complete": {
+		"Default": {
+			"level": 73,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
 	}
 };
