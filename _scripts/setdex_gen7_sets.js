@@ -748,6 +748,22 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Ash-Greninja": {
+		"Default": {
+			"level": 75,
+			"nature": "Serious",
+			"ability": "Battle Bond",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+
 	"Audino": {
 		"Default": {
 			"level": 83,
@@ -8625,37 +8641,6 @@ var SETDEX_GEN7_SETS = {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Power Construct",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Zygarde-10%": {
-		"Default": {
-			"level": 77,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-
-	"Zygarde-Complete": {
-		"Default": {
-			"level": 73,
-			"nature": "Serious",
-			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
 				"Tackle",
