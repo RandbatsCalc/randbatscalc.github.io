@@ -1365,7 +1365,7 @@ var SETDEX_GEN7_SETS = {
 	},
 
 
-	"Charizardite-Mega-Y": {
+	"Charizard-Mega-Y": {
 		"Default": {
 			"level": 75,
 			"nature": "Serious",
