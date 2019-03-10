@@ -106,8 +106,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Abomasnow-Mega": {
+		"Default": {
 			"level": 80,
 			"nature": "Serious",
 			"ability": "Snow Warning",
@@ -133,12 +136,15 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Absol-Mega": {
+		"Default": {
 			"level": 78,
-			"nature": "Serious",
-			"ability": "Magic Bounce",
-			"item": "Absolite",
+			"nature": "Magic Bounce",
+			"ability": "Absolite",
+			"item": "Leftovers",
 			"moves": [
 				"Tackle",
 				"Take Down",
@@ -190,8 +196,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Aerodactyl-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Tough Claws",
@@ -217,8 +226,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Aggron-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Filter",
@@ -244,8 +256,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Alakazam-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Trace",
@@ -286,12 +301,15 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Altaria-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
-			"ability": "Pixilate",
-			"item": "Altarianite",
+			"ability": "Defiant",
+			"item": "Leftovers",
 			"moves": [
 				"Tackle",
 				"Take Down",
@@ -333,7 +351,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ampharos": {
 		"Default": {
-			"level": 84,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -343,9 +361,12 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
-			"level": 79,
+		}
+	},
+
+	"Ampharos-Mega": {
+		"Default": {
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Mold Breaker",
 			"item": "Ampharosite",
@@ -748,7 +769,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Ash-Greninja": {
+	"Greninja-Ash": {
 		"Default": {
 			"level": 75,
 			"nature": "Serious",
@@ -763,7 +784,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Audino": {
 		"Default": {
 			"level": 83,
@@ -776,8 +796,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Audino-Mega": {
+		"Default": {
 			"level": 83,
 			"nature": "Serious",
 			"ability": "Healer",
@@ -851,7 +874,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Banette": {
+	"Banettite": {
 		"Default": {
 			"level": 84,
 			"nature": "Serious",
@@ -863,8 +886,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Banette-Mega": {
+		"Default": {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Prankster",
@@ -965,8 +991,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Beedrill-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Adaptability",
@@ -1082,8 +1111,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Blastoise-Mega": {
+		"Default": {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Mega Launcher",
@@ -1109,8 +1141,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Blaziken-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Speed Boost",
@@ -1291,25 +1326,13 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Camerupt-Mega": {
+		"Default": {
 			"level": 80,
 			"nature": "Serious",
-			"ability": "Sheer Force",
-			"item": "Cameruptite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Carbink": {
-		"Default": {
-			"level": 84,
-			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
 			"moves": [
@@ -1321,147 +1344,33 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Carnivine": {
-		"Default": {
-			"level": 84,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Carracosta": {
-		"Default": {
-			"level": 83,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Castform": {
-		"Default": {
-			"level": 84,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Celebi": {
-		"Default": {
-			"level": 77,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Celesteela": {
-		"Default": {
-			"level": 75,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Chandelure": {
-		"Default": {
-			"level": 77,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Chansey": {
-		"Default": {
-			"level": 75,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
 
 	"Charizard": {
 		"Default": {
 			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega-X": {
+			"item": "Leftovers"
+		}
+	},
+
+
+	"Charizard-Mega-X": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Tough Claws",
-			"item": "Charizardite-X",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega-Y": {
+			"item": "Charizardite-X"
+		}
+	},
+
+
+	"Charizardite-Mega-Y": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Drought",
-			"item": "Charizardite-Y",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Charizardite-Y"
 		}
 	},
 
@@ -1995,25 +1904,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Diancie-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
-			"item": "Diancite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Diancite"
 		}
 	},
 
@@ -2663,25 +2563,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Gallade-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Inner Focus",
-			"item": "Galladite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Galladite"
 		}
 	},
 
@@ -2720,25 +2611,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Garchomp-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Sand Force",
-			"item": "Garchompite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Garchompite"
 		}
 	},
 
@@ -2747,25 +2629,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Gardvoir-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Pixilate",
-			"item": "Gardevoirite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Gardevoirite"
 		}
 	},
 
@@ -2804,25 +2677,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Gengar-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Shadow Tag",
-			"item": "Gengarite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Gengarite"
 		}
 	},
 
@@ -2906,27 +2770,19 @@ var SETDEX_GEN7_SETS = {
 			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Glalie-Mega": {
+		"Default": {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Refrigerate",
-			"item": "Glalitite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Glalitite"
 		}
 	},
+
 
 	"Gligar": {
 		"Default": {
@@ -3203,25 +3059,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Primal": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Groudon-Primal": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Red Orb",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"ability": "Desolate Land",
+			"item": "Red Orb"
 		}
 	},
 
@@ -3290,25 +3137,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Gyarados-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Mold Breaker",
-			"item": "Gyaradosite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Gyaradosite"
 		}
 	},
 
@@ -3407,25 +3245,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Heracross-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Skill Link",
-			"item": "Heracronite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Heracronite"
 		}
 	},
 
@@ -3554,27 +3383,19 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Houndoom-Mega": {
+		"Default": {
 			"level": 78,
 			"nature": "Serious",
 			"ability": "Solar Power",
-			"item": "Houndoominite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Houndoominite"
 		}
 	},
+
 
 	"Huntail": {
 		"Default": {
@@ -3761,25 +3582,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Kangaskhan-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
-			"ability": "Parental Bond",
-			"item": "Kangaskhanite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"ability": "ParentalBond",
+			"item": "Kangaskhanite"
 		}
 	},
 
@@ -3953,25 +3765,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Primal": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Kyogre-Primal": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Primordial Sea",
-			"item": "Blue Orb",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Blue Orb"
 		}
 	},
 
@@ -4085,25 +3888,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Latias-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Levitate",
-			"item": "Latiasite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Latiasite"
 		}
 	},
 
@@ -4112,25 +3906,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Latios-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Levitate",
-			"item": "Latiosite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Latiosite"
 		}
 	},
 
@@ -4271,25 +4056,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Lucario-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Adaptability",
-			"item": "Lucarionite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Lucarionite"
 		}
 	},
 
@@ -4598,25 +4374,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Manectric-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Intimidate",
-			"item": "Manectite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Manectite"
 		}
 	},
 
@@ -4715,25 +4482,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Mawile-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Huge Power",
-			"item": "Mawilite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Mawilite"
 		}
 	},
 
@@ -4742,25 +4500,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Medicham-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Pure Power",
-			"item": "Medichamite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Medichamite"
 		}
 	},
 
@@ -4791,6 +4540,15 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
+		}
+	},
+
+	"Meloetta-Pirouette": {
+		"Default": {
+			"level": 79,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers"
 		}
 	},
 
@@ -4841,25 +4599,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Metagross-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Tough Claws",
-			"item": "Metagrossite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Metagrossite"
 		}
 	},
 
@@ -4883,37 +4632,25 @@ var SETDEX_GEN7_SETS = {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega-X": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Mewtwo-Mega-X": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Steadfast",
-			"item": "Mewtwonite-X",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega-Y": {
+			"item": "Mewtwonite-X"
+		}
+	},
+
+	"Mewtwo-Mega-Y": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Insomnia",
-			"item": "Mewtwonite-Y",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Mewtwonite-Y"
 		}
 	},
 
@@ -5172,77 +4909,32 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Necrozma-Dusk Mane": {
-		"Solganium-Z": {
-			"level": 73,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Solganium-Z",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Ultranecrozium-Z": {
-			"level": 73,
-			"nature": "Serious",
-			"ability": "Neuroforce",
-			"item": "Ultranecrozium-Z",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
-	"Necrozma-Dawn Wings": {
+	"Necrozma-Dusk-Mane": {
 		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Trick Room": {
-			"level": 73,
-			"evs": {
-				"sd": "84",
-				"sp": "0"
-			},
-			"ivs": {
-				"sd": "31",
-				"sp": "0"
-			},
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Ultranecrozium-Z": {
+			"item": "Leftovers"
+		}
+	},
+
+
+	"Necrozma-Dawn-Wings": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Ultranecrozium-Z",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Leftovers"
+		}
+	},
+
+
+	"Necrozma-Ultra": {
+		"Default": {
+			"level": 73,
+			"nature": "Serious",
+			"ability": "Neuroforce",
+			"item": "Ultranecronium-Z"
 		}
 	},
 
@@ -5641,25 +5333,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Pidgeot-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "No Guard",
-			"item": "Pidgeotite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Pidgeotite"
 		}
 	},
 
@@ -5668,25 +5351,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Pinsir-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Aerilate",
-			"item": "Pinsirite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Pinsirite"
 		}
 	},
 
@@ -6250,25 +5924,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Sableye-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
-			"item": "Sablenite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Sablenite"
 		}
 	},
 
@@ -6277,25 +5942,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Salamence-Mega": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
 			"ability": "Aerilate",
-			"item": "Salamencite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Salamencite"
 		}
 	},
 
@@ -6394,25 +6050,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Sceptile-Mega": {
+		"Default": {
 			"level": 78,
 			"nature": "Serious",
 			"ability": "Lightning Rod",
-			"item": "Sceptilite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Sceptilite"
 		}
 	},
 
@@ -6421,25 +6068,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Scizor-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Technician",
-			"item": "Scizorite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Scizorite"
 		}
 	},
 
@@ -6553,25 +6191,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Sharpedo-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
-			"ability": "Strong Jaw",
-			"item": "Sharpedonite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"ability": "Defiant",
+			"item": "Leftovers"
 		}
 	},
 
@@ -7045,25 +6674,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Slowbro-Mega": {
+		"Default": {
 			"level": 78,
 			"nature": "Serious",
 			"ability": "Shell Armor",
-			"item": "Slowbronite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Slowbronite"
 		}
 	},
 
@@ -7312,25 +6932,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Steelix-Mega": {
+		"Default": {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Sand Force",
-			"item": "Steelixite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Steelixite"
 		}
 	},
 
@@ -7429,27 +7040,19 @@ var SETDEX_GEN7_SETS = {
 			"level": 77,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Swampert-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Swift Swim",
-			"item": "Swampertite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Swampertite"
 		}
 	},
+
 
 	"Swanna": {
 		"Default": {
@@ -7906,25 +7509,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Tyranitar-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Sand Stream",
-			"item": "Tyranitarite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Tyranitarite"
 		}
 	},
 
@@ -8068,25 +7662,16 @@ var SETDEX_GEN7_SETS = {
 			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Mega": {
+			"item": "Leftovers"
+		}
+	},
+
+	"Venusaur-Mega": {
+		"Default": {
 			"level": 76,
 			"nature": "Serious",
 			"ability": "Thick Fat",
-			"item": "Venusaurite",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"item": "Venusaurite"
 		}
 	},
 
@@ -8613,41 +8198,31 @@ var SETDEX_GEN7_SETS = {
 	},
 
 	"Zygarde": {
-		"50%": {
-			"level": 75,
+		"Default": {
+			"level": 73,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"10%": {
+			"item": "Leftovers"
+		}
+	},
+
+
+	"Zygarde-10%": {
+		"Default": {
 			"level": 79,
 			"nature": "Serious",
 			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		},
-		"Complete": {
+			"item": "Leftovers"
+		}
+	},
+
+
+	"Zygarde-Complete": {
+		"Default": {
 			"level": 73,
 			"nature": "Serious",
-			"ability": "Power Construct",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
+			"ability": "Defiant",
+			"item": "Leftovers"
 		}
 	}
 };

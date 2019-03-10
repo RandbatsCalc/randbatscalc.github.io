@@ -1,33 +1,12 @@
 /* smoochyena wrote this hello
 Formats of adding Pokemon with one set in:
+
 "Pokemon": {
 	"Default": {
-		"level": 75,
-		"evs": {
-			"hp": "84",
-			"at": "84",
-			"df": "84",
-			"sa": "84",
-			"sd": "84",
-			"sp": "84"
-		},
-		"ivs": {
-			"hp": "31",
-			"at": "31",
-			"df": "31",
-			"sa": "31",
-			"sd": "31",
-			"sp": "31"
-		},
+		"level": 81,
 		"nature": "Serious",
 		"ability": "Defiant",
-		"item": "Leftovers",
-		"moves": [
-			"Tackle",
-			"Take Down",
-			"Earthquake",
-			"Accelerock"
-		]
+		"item": "Leftovers"
 	}
 },
 
