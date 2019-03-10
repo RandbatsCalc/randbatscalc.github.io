@@ -8003,13 +8003,13 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
 			"sp": 90
 		},
 		"w": 6.5,
-		"ab": "Serene Grace",
-		"formes": [
+		"ab": "Serene Grace"
+/*		"formes": [
 			"Meloetta",
 			"Meloetta-P"
-		]
+		] */
 	},
-	"Meloetta-P": {
+	"Meloetta-Pirouette": {
 		"t1": "Normal",
 		"t2": "Fighting",
 		"bs": {
@@ -8021,8 +8021,8 @@ var POKEDEX_BW = $.extend(true, {}, POKEDEX_DPP, {
 			"sp": 128
 		},
 		"w": 6.5,
-		"ab": "Serene Grace",
-		"isAlternateForme": true
+		"ab": "Serene Grace"
+	//	"isAlternateForme": true
 	},
 	"Mienfoo": {
 		"t1": "Fighting",
@@ -9773,7 +9773,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		},
 		"w": 47.0
 	},
-	"Mega Abomasnow": {
+	"Abomasnow-Mega": {
 		"t1": "Grass",
 		"t2": "Ice",
 		"bs": {
@@ -9788,7 +9788,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Snow Warning"
 	//	"isAlternateForme": true
 	},
-	"Mega Absol": {
+	"Absol-Mega": {
 		"t1": "Dark",
 		"bs": {
 			"hp": 65,
@@ -9802,7 +9802,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Magic Bounce"
 	//	"isAlternateForme": true
 	},
-	"Mega Aerodactyl": {
+	"Aerodactyl-Mega": {
 		"t1": "Rock",
 		"t2": "Flying",
 		"bs": {
@@ -9817,7 +9817,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Tough Claws"
 //		"isAlternateForme": true
 	},
-	"Mega Aggron": {
+	"Aggron-Mega": {
 		"t1": "Steel",
 		"bs": {
 			"hp": 70,
@@ -9831,7 +9831,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Filter"
 	//	"isAlternateForme": true
 	},
-	"Mega Alakazam": {
+	"Alakazam-Mega": {
 		"t1": "Psychic",
 		"bs": {
 			"hp": 55,
@@ -9845,7 +9845,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Trace"
 	//	"isAlternateForme": true
 	},
-	"Mega Altaria": {
+	"Altaria-Mega": {
 		"t1": "Dragon",
 		"t2": "Fairy",
 		"bs": {
@@ -9860,7 +9860,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Pixilate"
 	//	"isAlternateForme": true
 	},
-	"Mega Ampharos": {
+	"Ampharos-Mega": {
 		"t1": "Electric",
 		"t2": "Dragon",
 		"bs": {
@@ -9875,7 +9875,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Mold Breaker"
 	//	"isAlternateForme": true
 	},
-	"Mega Audino": {
+	"Audino-Mega": {
 		"t1": "Normal",
 		"t2": "Fairy",
 		"bs": {
@@ -9890,7 +9890,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Healer"
 	//	"isAlternateForme": true
 	},
-	"Mega Banette": {
+	"Banette-Mega": {
 		"t1": "Ghost",
 		"bs": {
 			"hp": 64,
@@ -9904,7 +9904,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Prankster"
 		//"isAlternateForme": true
 	},
-	"Mega Beedrill": {
+	"Beedrill-Mega": {
 		"t1": "Bug",
 		"t2": "Poison",
 		"bs": {
@@ -9919,7 +9919,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Adaptability"
 	//	"isAlternateForme": true
 	},
-	"Mega Blastoise": {
+	"Blastoise-Mega": {
 		"t1": "Water",
 		"bs": {
 			"hp": 79,
@@ -9933,7 +9933,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Mega Launcher"
 	//	"isAlternateForme": true
 	},
-	"Mega Blaziken": {
+	"Blaziken-Mega": {
 		"t1": "Fire",
 		"t2": "Fighting",
 		"bs": {
@@ -9948,7 +9948,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Speed Boost"
 //		"isAlternateForme": true
 	},
-	"Mega Camerupt": {
+	"Camerupt-Mega": {
 		"t1": "Fire",
 		"t2": "Ground",
 		"bs": {
@@ -9963,7 +9963,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Sheer Force"
 //		"isAlternateForme": true
 	},
-	"Mega Charizard X": {
+	"Charizard-Mega-X": {
 		"t1": "Fire",
 		"t2": "Dragon",
 		"bs": {
@@ -9978,7 +9978,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Tough Claws"
 	//	"isAlternateForme": true
 	},
-	"Mega Charizard Y": {
+	"Charizard-Mega-Y": {
 		"t1": "Fire",
 		"t2": "Flying",
 		"bs": {
@@ -9993,7 +9993,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Drought"
 	//	"isAlternateForme": true
 	},
-	"Mega Diancie": {
+	"Diancie-Mega": {
 		"t1": "Rock",
 		"t2": "Fairy",
 		"bs": {
@@ -10008,7 +10008,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Magic Bounce"
 	//	"isAlternateForme": true
 	},
-	"Mega Gallade": {
+	"Gallade-Mega": {
 		"t1": "Psychic",
 		"t2": "Fighting",
 		"bs": {
@@ -10023,7 +10023,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Inner Focus"
 //		"isAlternateForme": true
 	},
-	"Mega Garchomp": {
+	"Garchomp-Mega": {
 		"t1": "Dragon",
 		"t2": "Ground",
 		"bs": {
@@ -10038,7 +10038,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Sand Force"
 	//	"isAlternateForme": true
 	},
-	"Mega Gardevoir": {
+	"Gardevoir-Mega": {
 		"t1": "Psychic",
 		"t2": "Fairy",
 		"bs": {
@@ -10053,7 +10053,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Pixilate"
 	//	"isAlternateForme": true
 	},
-	"Mega Gengar": {
+	"Gengar-Mega": {
 		"t1": "Ghost",
 		"t2": "Poison",
 		"bs": {
@@ -10068,7 +10068,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Shadow Tag"
 	//	"isAlternateForme": true
 	},
-	"Mega Glalie": {
+	"Glalie-Mega": {
 		"t1": "Ice",
 		"bs": {
 			"hp": 80,
@@ -10082,7 +10082,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Refrigerate"
 //		"isAlternateForme": true
 	},
-	"Mega Gyarados": {
+	"Gyarados-Mega": {
 		"t1": "Water",
 		"t2": "Dark",
 		"bs": {
@@ -10097,7 +10097,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Mold Breaker"
 		//"isAlternateForme": true
 	},
-	"Mega Heracross": {
+	"Heracross-Mega": {
 		"t1": "Bug",
 		"t2": "Fighting",
 		"bs": {
@@ -10112,7 +10112,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Skill Link"
 	//	"isAlternateForme": true
 	},
-	"Mega Houndoom": {
+	"Houndoom-Mega": {
 		"t1": "Dark",
 		"t2": "Fire",
 		"bs": {
@@ -10127,7 +10127,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Solar Power"
 //		"isAlternateForme": true
 	},
-	"Mega Kangaskhan": {
+	"Kangaskhan-Mega": {
 		"t1": "Normal",
 		"bs": {
 			"hp": 105,
@@ -10141,7 +10141,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Parental Bond"
 	//	"isAlternateForme": true
 	},
-	"Mega Latias": {
+	"Latias-Mega": {
 		"t1": "Dragon",
 		"t2": "Psychic",
 		"bs": {
@@ -10156,7 +10156,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Levitate"
 	//	"isAlternateForme": true
 	},
-	"Mega Latios": {
+	"Latios-Mega": {
 		"t1": "Dragon",
 		"t2": "Psychic",
 		"bs": {
@@ -10171,7 +10171,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Levitate"
 	//	"isAlternateForme": true
 	},
-	"Mega Lopunny": {
+	"Lopunny-Mega": {
 		"t1": "Normal",
 		"t2": "Fighting",
 		"bs": {
@@ -10186,7 +10186,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Scrappy"
 	//	"isAlternateForme": true
 	},
-	"Mega Lucario": {
+	"Lucario-Mega": {
 		"t1": "Fighting",
 		"t2": "Steel",
 		"bs": {
@@ -10201,7 +10201,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Adaptability"
 	//	"isAlternateForme": true
 	},
-	"Mega Manectric": {
+	"Manectric-Mega": {
 		"t1": "Electric",
 		"bs": {
 			"hp": 70,
@@ -10215,7 +10215,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Intimidate"
 	//	"isAlternateForme": true
 	},
-	"Mega Mawile": {
+	"Mawile-Mega": {
 		"t1": "Steel",
 		"t2": "Fairy",
 		"bs": {
@@ -10230,7 +10230,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Huge Power"
 		//"isAlternateForme": true
 	},
-	"Mega Medicham": {
+	"Medicham-Mega": {
 		"t1": "Fighting",
 		"t2": "Psychic",
 		"bs": {
@@ -10245,7 +10245,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Pure Power"
 //		"isAlternateForme": true
 	},
-	"Mega Metagross": {
+	"Metagross-Mega": {
 		"t1": "Steel",
 		"t2": "Psychic",
 		"bs": {
@@ -10260,7 +10260,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Tough Claws"
 //		"isAlternateForme": true
 	},
-	"Mega Mewtwo X": {
+	"Mewtwo-Mega-X": {
 		"t1": "Psychic",
 		"t2": "Fighting",
 		"bs": {
@@ -10275,7 +10275,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Steadfast"
 	//	"isAlternateForme": true
 	},
-	"Mega Mewtwo Y": {
+	"Mewtwo-Mega-Y": {
 		"t1": "Psychic",
 		"bs": {
 			"hp": 106,
@@ -10289,7 +10289,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Insomnia"
 //	"isAlternateForme": true
 	},
-	"Mega Pidgeot": {
+	"Pidgeot-Mega": {
 		"t1": "Normal",
 		"t2": "Flying",
 		"bs": {
@@ -10304,7 +10304,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "No Guard"
 //		"isAlternateForme": true
 	},
-	"Mega Pinsir": {
+	"Pinsir-Mega": {
 		"t1": "Bug",
 		"t2": "Flying",
 		"bs": {
@@ -10334,7 +10334,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Delta Stream",
 		"isAlternateForme": true
 	},
-	"Mega Sableye": {
+	"Sableye-Mega": {
 		"t1": "Dark",
 		"t2": "Ghost",
 		"bs": {
@@ -10349,7 +10349,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Magic Bounce"
 //		"isAlternateForme": true
 	},
-	"Mega Salamence": {
+	"Salamence-Mega": {
 		"t1": "Dragon",
 		"t2": "Flying",
 		"bs": {
@@ -10364,7 +10364,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Aerilate"
 	//	"isAlternateForme": true
 	},
-	"Mega Sceptile": {
+	"Sceptile-Mega": {
 		"t1": "Grass",
 		"t2": "Dragon",
 		"bs": {
@@ -10379,7 +10379,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Lightningrod"
 	//	"isAlternateForme": true
 	},
-	"Mega Scizor": {
+	"Scizor-Mega": {
 		"t1": "Bug",
 		"t2": "Steel",
 		"bs": {
@@ -10394,7 +10394,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Technician"
 	//	"isAlternateForme": true
 	},
-	"Mega Sharpedo": {
+	"Sharpedo-Mega": {
 		"t1": "Water",
 		"t2": "Dark",
 		"bs": {
@@ -10409,7 +10409,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Strong Jaw"
 //.		"isAlternateForme": true
 	},
-	"Mega Slowbro": {
+	"Slowbro-Mega": {
 		"t1": "Water",
 		"t2": "Psychic",
 		"bs": {
@@ -10424,7 +10424,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Shell Armor"
 	//	"isAlternateForme": true
 	},
-	"Mega Steelix": {
+	"Steelix-Mega": {
 		"t1": "Steel",
 		"t2": "Ground",
 		"bs": {
@@ -10439,7 +10439,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Sand Force"
 	//	"isAlternateForme": true
 	},
-	"Mega Swampert": {
+	"Swampert-Mega": {
 		"t1": "Water",
 		"t2": "Ground",
 		"bs": {
@@ -10454,7 +10454,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Swift Swim",
 //		"isAlternateForme": true
 	},
-	"Mega Tyranitar": {
+	"Tyranitar-Mega": {
 		"t1": "Rock",
 		"t2": "Dark",
 		"bs": {
@@ -10469,7 +10469,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Sand Stream"
 //		"isAlternateForme": true
 	},
-	"Mega Venusaur": {
+	"Venusar-Mega": {
 		"t1": "Grass",
 		"t2": "Poison",
 		"bs": {
@@ -10560,7 +10560,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		},
 		"w": 7.0
 	},
-	"Primal Groudon": {
+	"Groudon-Primal": {
 		"t1": "Ground",
 		"t2": "Fire",
 		"bs": {
@@ -10575,7 +10575,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Desolate Land"
 //		"isAlternateForme": true
 	},
-	"Primal Kyogre": {
+	"Kyogre-Primal": {
 		"t1": "Water",
 		"bs": {
 			"hp": 100,
@@ -10960,7 +10960,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 	"Mega Alakazam": {"bs": {"sd": 105}},
 
 	//and here's the dex!
-	"Ash-Greninja": {
+	"Greninja-Ash": {
 		"t1": "Water",
 		"t2": "Dark",
 		"bs": {
@@ -12836,7 +12836,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"w": 44.5,
 		"ab": "Volt Absorb"
 	},
-	"Necrozma-Dusk Mane": {
+	"Necrozma-Dusk-Mane": {
 		"t1": "Psychic",
 		"t2": "Steel",
 		"bs": {
@@ -12851,7 +12851,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Prism Armor"
 //		"formes": ["Necrozma-Dusk Mane", "Ultra Necrozma"]
 	},
-	"Necrozma-Dawn Wings": {
+	"Necrozma-Dawn-Wings": {
 		"t1": "Psychic",
 		"t2": "Ghost",
 		"bs": {
@@ -12866,7 +12866,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		"ab": "Prism Armor"
 //		"formes": ["Necrozma-Dawn Wings", "Ultra Necrozma"]
 	},
-	"Ultra Necrozma": {
+	"Necrozma-Ultra": {
 		"t1": "Psychic",
 		"t2": "Dragon",
 		"bs": {
@@ -12891,7 +12891,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Blizzard", "Earthquake", "Focus Punch", "Giga Drain", "Ice Shard", "Wood Hammer"],
 		"randomBattleAb": ["Snow Warning"],
 	},
-	"Mega Abomasnow": {
+	"Abomasnow-Mega": {
 		"randomBattleItems": ["Abomasite"],
 		"randomBattleMoves": ["Blizzard", "Earthquake", "Giga Drain", "Hidden Power Fire", "Ice Shard", "Wood Hammer"],
 		"randomBattleAb": ["Snow Warning"],
@@ -12901,7 +12901,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Knock Off", "Play Rough", "Pursuit", "Sucker Punch", "Superpower"],
 		"randomBattleAb": ["Justified", "Pressure"],
 	},
-	"Mega Absol": {
+	"Absol-Mega": {
 		"randomBattleItems": ["Absolite"],
 		"randomBattleMoves": ["Fire Blast", "Ice Beam", "Knock Off", "Play Rough", "Pursuit", "Sucker Punch", "Superpower"],
 		"randomBattleAb": ["Magic Bounce"],
@@ -12931,7 +12931,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Flash Cannon", "Hidden Power Ice", "Iron Head", "Sacred Sword", "Shadow Ball", "Shadow Claw", "Shadow Sneak"],
 		"randomBattleAb": ["Stance Change"],
 	},
-	"Mega Aerodactyl": {
+	"Aerodactyl-Mega": {
 		"randomBattleItems": ["Aerodactylite"],
 		"randomBattleMoves": ["Aerial Ace", "Aqua Tail", "Fire Fang", "Pursuit", "Stone Edge"],
 		"randomBattleAb": ["Tough Claws"],
@@ -12946,7 +12946,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Aqua Tail", "Earthquake", "Head Smash", "Heavy Slam", "Low Kick"],
 		"randomBattleAb": ["Rock Head", "Sturdy"],
 	},
-	"Mega Aggron": {
+	"Aggron-Mega": {
 		"randomBattleItems": ["Aggronite"],
 		"randomBattleMoves": ["Earthquake", "Heavy Slam", "Rock Slide"],
 		"randomBattleAb": ["Filter"],
@@ -12956,7 +12956,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Fire", "Hidden Power Ice", "Psychic", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Guard"],
 	},
-	"Mega Alakazam": {
+	"Alakzam-Mega": {
 		"randomBattleItems": ["Alakazite"],
 		"randomBattleMoves": ["Focus Blast", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Guard"],
@@ -12971,7 +12971,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Dragon Claw", "Earthquake", "Fire Blast", "Outrage"],
 		"randomBattleAb": ["Natural Cure"],
 	},
-	"Mega Altaria": {
+	"Altaria-Mega": {
 		"randomBattleItems": ["Altarianite"],
 		"randomBattleMoves": ["Draco Meteor", "Earthquake", "Fire Blast", "Hyper Voice", "Return"],
 		"randomBattleAb": ["Pixilate"],
@@ -12991,7 +12991,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Ice", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Static"],
 	},
-	"Mega Ampharos": {
+	"Ampharos-Mega": {
 		"randomBattleItems": ["Ampharosite"],
 		"randomBattleMoves": ["Dragon Pulse", "Focus Blast", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Mold Breaker"],
@@ -13131,7 +13131,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Double-Edge"],
 		"randomBattleAb": ["Regenerator"],
 	},
-	"Mega Audino": {
+	"Audino-Mega": {
 		"randomBattleItems": ["Audinite"],
 		"randomBattleMoves": ["Dazzling Gleam", "Fire Blast", "Hyper Voice"],
 		"randomBattleAb": ["Healer"],
@@ -13161,7 +13161,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Knock Off", "Shadow Claw", "Shadow Sneak", "Sucker Punch"],
 		"randomBattleAb": ["Cursed Body", "Frisk"],
 	},
-	"Mega Banette": {
+	"Banette-Mega": {
 		"randomBattleItems": ["Banettite"],
 		"randomBattleMoves": ["Knock Off", "Shadow Claw", "Sucker Punch"],
 		"randomBattleAb": ["Prankster"],
@@ -13196,7 +13196,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Knock Off", "Poison Jab", "U-turn"],
 		"randomBattleAb": ["Swarm"],
 	},
-	"Mega Beedrill": {
+	"Beedrill-Mega": {
 		"randomBattleItems": ["Beedrillite"],
 		"randomBattleMoves": ["Drill Run", "Knock Off", "Poison Jab", "U-turn", "X-Scissor"],
 		"randomBattleAb": ["Adaptability"],
@@ -13236,7 +13236,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dragon Tail", "Ice Beam", "Rapid Spin", "Scald"],
 		"randomBattleAb": ["Torrent"],
 	},
-	"Mega Blastoise": {
+	"Blastoise-Mega": {
 		"randomBattleItems": ["Blastoisinite"],
 		"randomBattleMoves": ["Aura Sphere", "Dark Pulse", "Dragon Tail", "Hydro Pump", "Ice Beam", "Rapid Spin", "Scald"],
 		"randomBattleAb": ["Mega Launcher"],
@@ -13246,7 +13246,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Blaze Kick", "High Jump Kick", "Knock Off", "Stone Edge"],
 		"randomBattleAb": ["Speed Boost"],
 	},
-	"Mega Blaziken": {
+	"Blaziken-Mega": {
 		"randomBattleItems": ["Blazikenite"],
 		"randomBattleMoves": ["Flare Blitz", "High Jump Kick", "Knock Off", "Stone Edge"],
 		"randomBattleAb": ["Speed Boost"],
@@ -13301,7 +13301,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Earth Power", "Fire Blast", "Hidden Power Grass", "Lava Plume", "Stone Edge"],
 		"randomBattleAb": ["Solid Rock"],
 	},
-	"Mega Camerupt": {
+	"Camerupt-Mega": {
 		"randomBattleItems": ["Cameruptite"],
 		"randomBattleMoves": ["Ancient Power", "Earth Power", "Fire Blast"],
 		"randomBattleAb": ["Sheer Force"],
@@ -13351,12 +13351,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Acrobatics", "Air Slash", "Earthquake", "Fire Blast", "Flame Charge", "Focus Blast"],
 		"randomBattleAb": ["Blaze"],
 	},
-	"Mega Charizard X": {
+	"Charizard-Mega-X": {
 		"randomBattleItems": ["Charizardite X"],
 		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Flare Blitz"],
 		"randomBattleAb": ["Tough Claws"],
 	},
-	"Mega Charizard Y": {
+	"Charizard-Mega-Y": {
 		"randomBattleItems": ["Charizardite Y"],
 		"randomBattleMoves": ["Air Slash", "Dragon Pulse", "Fire Blast", "Focus Blast", "Solar Beam"],
 		"randomBattleAb": ["Drought"],
@@ -13541,7 +13541,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Diamond Storm", "Hidden Power Fire", "Moonblast"],
 		"randomBattleAb": ["Clear Body"],
 	},
-	"Mega Diancie": {
+	"Diancie-Mega": {
 		"randomBattleItems": ["Diancite"],
 		"randomBattleMoves": ["Diamond Storm", "Earth Power", "Hidden Power Fire", "Moonblast", "Psyshock"],
 		"randomBattleAb": ["Magic Bounce"],
@@ -13766,7 +13766,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Close Combat", "Drain Punch", "Ice Punch", "Knock Off", "Shadow Sneak", "Zen Headbutt"],
 		"randomBattleAb": ["Justified"],
 	},
-	"Mega Gallade": {
+	"Gallade-Mega": {
 		"randomBattleItems": ["Galladite"],
 		"randomBattleMoves": ["Close Combat", "Drain Punch", "Knock Off", "Zen Headbutt"],
 		"randomBattleAb": ["Inner Focus"],
@@ -13786,7 +13786,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Fire Blast", "Fire Fang", "Outrage", "Stone Edge"],
 		"randomBattleAb": ["Rough Skin"],
 	},
-	"Mega Garchomp": {
+	"Garchomp-Mega": {
 		"randomBattleItems": ["Garchompite"],
 		"randomBattleMoves": ["Draco Meteor", "Earthquake", "Fire Blast", "Outrage", "Stone Edge"],
 		"randomBattleAb": ["Sand Force"],
@@ -13796,7 +13796,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Moonblast", "Psychic", "Shadow Ball", "Thunderbolt"],
 		"randomBattleAb": ["Trace"],
 	},
-	"Mega Gardevoir": {
+	"Gardevoir-Mega": {
 		"randomBattleItems": ["Gardevoirite"],
 		"randomBattleMoves": ["Focus Blast", "Hyper Voice", "Psyshock"],
 		"randomBattleAb": ["Pixilate"],
@@ -13816,7 +13816,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Shadow Ball", "Sludge Wave"],
 		"randomBattleAb": ["Cursed Body"],
 	},
-	"Mega Gengar": {
+	"Gengar-Mega": {
 		"randomBattleItems": ["Gengarite"],
 		"randomBattleMoves": ["Focus Blast", "Shadow Ball", "Sludge Wave"],
 		"randomBattleAb": ["Shadow Tag"],
@@ -13851,7 +13851,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Earthquake", "Explosion", "Ice Beam", "Ice Shard", "Super Fang"],
 		"randomBattleAb": ["Ice Body", "Inner Focus"],
 	},
-	"Mega Glalie": {
+	"Glalie-Mega": {
 		"randomBattleItems": ["Glalitite"],
 		"randomBattleMoves": ["Earthquake", "Explosion", "Freeze-Dry", "Ice Shard", "Return"],
 		"randomBattleAb": ["Refrigerate"],
@@ -13926,7 +13926,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dark Pulse", "Gunk Shot", "Hydro Pump", "Ice Beam", "U-turn"],
 		"randomBattleAb": ["Protean"],
 	},
-	"Ash-Greninja": {
+	"Greninja-Ash": {
 		"randomBattleItems": ["Choice Specs", "Expert Belt"],
 		"randomBattleMoves": ["Dark Pulse", "Hydro Pump", "Ice Beam", "U-turn", "Water Shuriken"],
 		"randomBattleAb": ["Battle Bond"],
@@ -13936,7 +13936,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Fire Punch", "Lava Plume", "Stone Edge"],
 		"randomBattleAb": ["Drought"],
 	},
-	"Primal Groudon": {
+	"Groudon-Primal": {
 		"randomBattleItems": ["Red Orb"],
 		"randomBattleMoves": ["Dragon Tail", "Fire Punch", "Lava Plume", "Precipice Blades", "Stone Edge"],
 		"randomBattleAb": ["Desolate Land"],
@@ -13961,7 +13961,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Bounce", "Dragon Tail", "Earthquake", "Stone Edge", "Waterfall"],
 		"randomBattleAb": ["Intimidate", "Moxie"],
 	},
-	"Mega Gyarados": {
+	"Gyarados-Mega": {
 		"randomBattleItems": ["Gyaradosite"],
 		"randomBattleMoves": ["Crunch", "Earthquake", "Ice Fang", "Waterfall"],
 		"randomBattleAb": ["Mold Breaker"],
@@ -14001,7 +14001,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Close Combat", "Earthquake", "Knock Off", "Megahorn", "Stone Edge"],
 		"randomBattleAb": ["Guts", "Moxie"],
 	},
-	"Mega Heracross": {
+	"Heracross-Mega": {
 		"randomBattleItems": ["Heracrossite"],
 		"randomBattleMoves": ["Bullet Seed", "Close Combat", "Pin Missile", "Rock Blast"],
 		"randomBattleAb": ["Skill Link"],
@@ -14051,7 +14051,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dark Pulse", "Fire Blast", "Hidden Power Grass", "Sucker Punch"],
 		"randomBattleAb": ["Flash Fire"],
 	},
-	"Mega Houndoom": {
+	"Houndoom-Mega": {
 		"randomBattleItems": ["Houndoominite"],
 		"randomBattleMoves": ["Dark Pulse", "Fire Blast", "Hidden Power Grass"],
 		"randomBattleAb": ["Solar Power"],
@@ -14121,7 +14121,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Crunch", "Drain Punch", "Earthquake", "Fake Out", "Return", "Sucker Punch"],
 		"randomBattleAb": ["Scrappy", "Inner focus"],
 	},
-	"Mega Kangaskhan": {
+	"Kangaskhan-Mega": {
 		"randomBattleItems": ["Kangaskhanite"],
 		"randomBattleMoves": ["Crunch", "Earthquake", "Fake Out", "Power-Up Punch", "Return", "Sucker Punch"],
 		"randomBattleAb": ["Parental Bond"],
@@ -14186,7 +14186,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Drizzle"],
 	},
-	"Primal Kyogre": {
+	"Kyogre-Primal": {
 		"randomBattleItems": ["Blue Orb"],
 		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Primodial Sea"],
@@ -14231,7 +14231,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Hidden Power Fire", "Psyshock", "Thunderbolt"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Mega Latias": {
+	"Latias-Mega": {
 		"randomBattleItems": ["Latiasite"],
 		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Hidden Power Fire", "Psyshock", "Surf"],
 		"randomBattleAb": ["Levitate"],
@@ -14241,7 +14241,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Hidden Power Fire", "Psyshock", "Surf", "Thunderbolt"],
 		"randomBattleAb": ["Levitate"],
 	},
-	"Mega Latios": {
+	"Latios-Mega": {
 		"randomBattleItems": ["Latiosite"],
 		"randomBattleMoves": ["Draco Meteor", "Hidden Power Fire", "Psyshock"],
 		"randomBattleAb": ["Levitate"],
@@ -14286,7 +14286,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["High Jump Kick", "Ice Punch", "Return"],
 		"randomBattleAb": ["Klutz", "Cute Charm", "Limber"],
 	},
-	"Mega Lopunny": {
+	"Lopunny-Mega": {
 		"randomBattleItems": ["Lopunnite"],
 		"randomBattleMoves": ["Fake Out", "High Jump Kick", "Ice Punch", "Return"],
 		"randomBattleAb": ["Scrappy"],
@@ -14296,7 +14296,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Aura Sphere", "Close Combat", "Crunch", "Dark Pulse", "Extreme Speed", "Flash Cannon", "Ice Punch", "Meteor Mash", "Vacuum Wave"],
 		"randomBattleAb": ["Justified"],
 	},
-	"Mega Lucario": {
+	"Lucario-Mega": {
 		"randomBattleItems": ["Lucarionite"],
 		"randomBattleMoves": ["Aura Sphere", "Bullet Punch", "Close Combat", "Crunch", "Dark Pulse", "Flash Cannon", "Ice Punch", "Meteor Mash"],
 		"randomBattleAb": ["Adaptability"],
@@ -14406,7 +14406,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Flamethrower", "Hidden Power Grass", "Hidden Power Ice", "Overheat", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Lightning Rod"],
 	},
-	"Mega Manectric": {
+	"Manectric-Mega": {
 		"randomBattleItems": ["Manectite"],
 		"randomBattleMoves": ["Hidden Power Grass", "Hidden Power Ice", "Overheat", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Intimidate"],
@@ -14446,7 +14446,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Iron Head", "Knock Off", "Play Rough", "Sucker Punch"],
 		"randomBattleAb": ["Intimidate"],
 	},
-	"Mega Mawile": {
+	"Mawile-Mega": {
 		"randomBattleItems": ["Mawilite"],
 		"randomBattleMoves": ["Fire Fang", "Focus Punch", "Iron Head", "Knock Off", "Play Rough", "Sucker Punch"],
 		"randomBattleAb": ["Huge Power"],
@@ -14456,7 +14456,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Bullet Punch", "Drain Punch", "High Jump Kick", "Ice Punch", "Zen Headbutt"],
 		"randomBattleAb": ["Pure Power"],
 	},
-	"Mega Medicham": {
+	"Medicham-Mega": {
 		"randomBattleItems": ["Medichamite"],
 		"randomBattleMoves": ["Drain Punch", "Fake Out", "High Jump Kick", "Ice Punch", "Zen Headbutt"],
 		"randomBattleAb": ["Pure Power"],
@@ -14471,7 +14471,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hyper Voice", "Psyshock", "Shadow Ball", "U-turn"],
 		"randomBattleAb": ["Serene Grace"],
 	},
-	"Meloetta-P": {
+	"Meloetta-Pirouette": {
 		"randomBattleItems": ["Assault Vest"],
 		"randomBattleMoves": ["Close Combat", "Knock Off", "Relic Song", "Return"],
 		"randomBattleAb": ["Serene Grace"],
@@ -14491,7 +14491,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Bullet Punch", "Earthquake", "Explosion", "Ice Punch", "Meteor Mash", "Thunder Punch", "Zen Headbutt"],
 		"randomBattleAb": ["Clear Body"],
 	},
-	"Mega Metagross": {
+	"Metagross-Mega": {
 		"randomBattleItems": ["Metagrossite"],
 		"randomBattleMoves": ["Earthquake", "Hammer Arm", "Ice Punch", "Meteor Mash", "Zen Headbutt"],
 		"randomBattleAb": ["Tough Claws"],
@@ -14506,12 +14506,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Aura Sphere", "Fire Blast", "Ice Beam", "Psystrike"],
 		"randomBattleAb": ["Pressure"],
 	},
-	"Mega Mewtwo X": {
+	"Mewtwo-Mega-X": {
 		"randomBattleItems": ["Mewtwonite X"],
 		"randomBattleMoves": ["Drain Punch", "Earthquake", "Ice Beam", "Stone Edge", "Zen Headbutt"],
 		"randomBattleAb": ["Steadfast"],
 	},
-	"Mega Mewtwo Y": {
+	"Mewtwo-Mega-Y": {
 		"randomBattleItems": ["Mewtwonite Y"],
 		"randomBattleMoves": ["Aura Sphere", "Fire Blast", "Ice Beam", "Psystrike", "Shadow Ball"],
 		"randomBattleAb": ["Insomnia"],
@@ -14611,17 +14611,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dark Pulse", "Photon Geyser", "Stored Power"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Dusk Mane": {
+	"Necrozma-Dusk-Mane": {
 		"randomBattleItems": ["Ultranecronium Z", "Solganium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Necrozma-Dawn Wings": {
+	"Necrozma-Dawn-Wings": {
 		"randomBattleItems": ["Ultranecronium Z", "Lunalium Z"],
 		"randomBattleMoves": ["Heat Wave", "Moongeist Beam", "Photon Geyser", "Power Gem"],
 		"randomBattleAb": ["Prism Armor"],
 	},
-	"Ultra Necrozma": {
+	"Necrozma-Ultra": {
 		"randomBattleItems": ["Ultranecronium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike", "Heat Wave", "Moongeist Beam", "Power Gem"],
 		"randomBattleAb": ["Neuroforce"],
@@ -14761,7 +14761,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Brave Bird", "Heat Wave", "Defog", "Return", "U-turn"],
 		"randomBattleAb": ["Tangled Feet", "Keen Eye"],
 	},
-	"Mega Pidgeot": {
+	"Pidgeot-Mega": {
 		"randomBattleItems": ["Pidgeotite"],
 		"randomBattleMoves": ["Heat Wave", "Hurricane", "U-turn"],
 		"randomBattleAb": ["No Guard"],
@@ -14771,7 +14771,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Close Combat", "Earthquake", "Knock Off", "Stone Edge", "X-Scissor"],
 		"randomBattleAb": ["Moxie"],
 	},
-	"Mega Pinsir": {
+	"Pinsir-Mega": {
 		"randomBattleItems": ["Pinsirite"],
 		"randomBattleMoves": ["Close Combat", "Earthquake", "Quick Attack", "Return"],
 		"randomBattleAb": ["Aerilate"],
@@ -14966,7 +14966,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Foul Play", "Knock Off"],
 		"randomBattleAb": ["Prankster"],
 	},
-	"Mega Sableye": {
+	"Sableye-Mega": {
 		"randomBattleItems": ["Sablenite"],
 		"randomBattleMoves": ["Dark Pulse", "Shadow Ball"],
 		"randomBattleAb": ["Magic Bounce"],
@@ -14976,7 +14976,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Dragon Claw", "Earthquake", "Fire Blast", "Fly", "Outrage"],
 		"randomBattleAb": ["Moxie", "Intimidate"],
 	},
-	"Mega Salamence": {
+	"Salamence-Mega": {
 		"randomBattleItems": ["Salamencite"],
 		"randomBattleMoves": ["Double-Edge", "Draco Meteor", "Earthquake", "Fire Blast", "Return"],
 		"randomBattleAb": ["Aerilate"],
@@ -15016,7 +15016,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Giga Drain", "Hidden Power Flying", "Hidden Power Ice", "Leaf Storm"],
 		"randomBattleAb": ["Overgrow"],
 	},
-	"Mega Sceptile": {
+	"Sceptile-Mega": {
 		"randomBattleItems": ["Sceptilite"],
 		"randomBattleMoves": ["Dragon Pulse", "Earthquake", "Focus Blast", "Giga Drain", "Hidden Power Fire", "Leaf Blade", "Outrage"],
 		"randomBattleAb": ["Lightning Rod"],
@@ -15026,7 +15026,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Pursuit", "Superpower", "U-turn"],
 		"randomBattleAb": ["Technician"],
 	},
-	"Mega Scizor": {
+	"Scizor-Mega": {
 		"randomBattleItems": ["Scizorite"],
 		"randomBattleMoves": ["Bug Bite", "Bullet Punch", "Knock Off", "Superpower", "U-turn"],
 		"randomBattleAb": ["Technician"],
@@ -15071,7 +15071,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Crunch", "Earthquake", "Ice Beam", "Waterfall"],
 		"randomBattleAb": ["Speed Boost"],
 	},
-	"Mega Sharpedo": {
+	"Sharpedo-Mega": {
 		"randomBattleItems": ["Sharpedonite"],
 		"randomBattleMoves": ["Crunch", "Ice Fang", "Psychic Fangs", "Waterfall"],
 		"randomBattleAb": ["Strong Jaws"],
@@ -15236,7 +15236,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Fire Blast", "Ice Beam", "Psyshock", "Scald"],
 		"randomBattleAb": ["Regenerator"],
 	},
-	"Mega Slowbro": {
+	"Slowbro-Mega": {
 		"randomBattleItems": ["Slowbronite"],
 		"randomBattleMoves": ["Fire Blast", "Ice Beam", "Psychic", "Psyshock", "Scald"],
 		"randomBattleAb": ["Shell Armor"],
@@ -15306,7 +15306,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Earthquake", "Iron Head", "Rock Slide"],
 		"randomBattleAb": ["Sheer Force", "Sturdy"],
 	},
-	"Mega Steelix": {
+	"Steelix-Mega": {
 		"randomBattleItems": ["Steelixite"],
 		"randomBattleMoves": ["Dragon Tail", "Earthquake", "Heavy Slam"],
 		"randomBattleAb": ["Sand Force"],
@@ -15346,7 +15346,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Earthquake", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Torrent"],
 	},
-	"Mega Swampert": {
+	"Swampert-Mega": {
 		"randomBattleItems": ["Swampertite"],
 		"randomBattleMoves": ["Earthquake", "Ice Punch", "Superpower", "Waterfall"],
 		"randomBattleAb": ["Swift Swim"],
@@ -15506,7 +15506,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Blast", "Ice Beam", "Pursuit", "Stone Edge"],
 		"randomBattleAb": ["Sand Stream"],
 	},
-	"Mega Tyranitar": {
+	"Tyranitar-Mega": {
 		"randomBattleItems": ["Tyranitarite"],
 		"randomBattleMoves": ["Crunch", "Earthquake", "Ice Punch", "Stone Edge"],
 		"randomBattleAb": ["Sand Stream"],
@@ -15561,7 +15561,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Giga Drain", "Hidden Power Fire", "Sludge Bomb"],
 		"randomBattleAb": ["Overgrow", "Chlorophyll"],
 	},
-	"Mega Venusaur": {
+	"Venusaur-Mega": {
 		"randomBattleItems": ["Venusaurite"],
 		"randomBattleMoves": ["Earthquake", "Giga Drain", "Hidden Power Fire", "Knock Off", "Sludge Bomb"],
 		"randomBattleAb": ["Thick Fat"],
