@@ -12056,7 +12056,7 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 		},
 		"w": 1.2,
 	},
-	"Type: Null": {
+	"Type\: Null": {
 		"t1": "Normal",
 		"bs": {
 			"hp": 95,
