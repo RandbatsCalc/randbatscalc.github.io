@@ -15496,6 +15496,11 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Dragon Tail", "Earthquake", "Explosion", "Fire Blast"],
 		"randomBattleAb": ["Shell Armor"],
 	},
+	"Type: Null": {
+		"randomBattleItems": ["Eviolite"],
+		"randomBattleMoves": ["Return", "U-Turn"],
+		"randomBattleAb": ["Battle Armor"],
+	},
 	"Typhlosion": {
 		"randomBattleItems": ["Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Eruption", "Extrasensory", "Fire Blast", "Focus Blast", "Hidden Power Grass"],
