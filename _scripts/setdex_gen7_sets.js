@@ -7489,20 +7489,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Type: Null": {
-		"Default": {
-			"level": 84,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
 
 	"Typhlosion": {
 		"Default": {
