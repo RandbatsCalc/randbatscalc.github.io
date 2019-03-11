@@ -7496,13 +7496,13 @@ var SETDEX_GEN7_SETS = {
 		"Default": {
 			"level": 84,
 			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
+			"ability": "Battle Armor",
+			"item": "Eviolite",
 			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
+				"Return",
+				"Swords Dance",
+				"U-Turn",
+				"Rest"
 			]
 		}
 	},
