@@ -15498,7 +15498,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Type\: Null": {
 		"randomBattleItems": ["Eviolite"],
-		"randomBattleMoves": ["Return", "U-Turn"],
+		"randomBattleMoves": ["Return", "U-turn"],
 		"randomBattleAb": ["Battle Armor"],
 	},
 	"Typhlosion": {
