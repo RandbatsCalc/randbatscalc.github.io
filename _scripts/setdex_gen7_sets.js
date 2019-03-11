@@ -7492,7 +7492,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Type: Null": {
+	"Type\: Null": {
 		"Default": {
 			"level": 84,
 			"nature": "Serious",
