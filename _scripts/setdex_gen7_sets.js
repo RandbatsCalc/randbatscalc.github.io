@@ -2633,7 +2633,7 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Gardvoir-Mega": {
+	"Gardevoir-Mega": {
 		"Default": {
 			"level": 76,
 			"nature": "Serious",
@@ -4036,8 +4036,11 @@ var SETDEX_GEN7_SETS = {
 				"Earthquake",
 				"Accelerock"
 			]
-		},
-		"Mega": {
+		}
+	},
+
+	"Lopunny-Mega": {
+		"Default": {
 			"level": 75,
 			"nature": "Serious",
 			"ability": "Defiant",
@@ -7489,6 +7492,20 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Type: Null": {
+		"Default": {
+			"level": 84,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
 
 	"Typhlosion": {
 		"Default": {
