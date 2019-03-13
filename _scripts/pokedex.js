@@ -3632,6 +3632,45 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
 		"w": 0.8,
 		"ab": "Forecast"
 	},
+	"Castform-Sunny": {
+		"t1": "Fire",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 70,
+			"sd": 70,
+			"sp": 70
+		},
+		"w": 0.8,
+		"ab": "Forecast"
+	},
+	"Castform-Rainy": {
+		"t1": "Fire",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 70,
+			"sd": 70,
+			"sp": 70
+		},
+		"w": 0.8,
+		"ab": "Forecast"
+	},
+	"Castform-Snowy": {
+		"t1": "Fire",
+		"bs": {
+			"hp": 70,
+			"at": 70,
+			"df": 70,
+			"sa": 70,
+			"sd": 70,
+			"sp": 70
+		},
+		"w": 0.8,
+		"ab": "Forecast"
+	},
 	"Chimecho": {
 		"t1": "Psychic",
 		"bs": {
@@ -13326,6 +13365,21 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Hurricane", "Thunder", "Ice Beam", "Solar Beam", "Weather Ball"],
 		"randomBattleAb": ["Forecast"],
 	},
+	"Castform-Sunny": {
+		"randomBattleItems": ["Heat Rock", "Firium Z"],
+		"randomBattleMoves": ["Sunny Day", "Fire Blast", "Solar Beam", "Ice Beam"],
+		"randomBattleAb": ["Forecast"],
+	},
+	"Castform-Rainy": {
+		"randomBattleItems": ["Damp Rock", "Waterium Z"],
+		"randomBattleMoves": ["Rain Dance", "Hydro Pump", "Thunder", "Hurricane"],
+		"randomBattleAb": ["Forecast"],
+	},
+	"Castform-Snowy": {
+		"randomBattleItems": ["Icy Rock", "Icium Z"],
+		"randomBattleMoves": ["Hail", "Blizzard", "Thunderbolt", "Fire Blast"],
+		"randomBattleAb": ["Forecast"],
+	},
 	"Celebi": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf"],
 		"randomBattleMoves": ["Earth Power", "Giga Drain", "Hidden Power Fire", "Leaf Storm", "Psychic", "U-turn"],
@@ -13547,7 +13601,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Magic Bounce"],
 	},
 	"Diggersby": {
-		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Choice Scarf"],
 		"randomBattleMoves": ["Agility", "Earthquake", "Knock Off", "Quick Attack", "Return", "U-turn", "Wild Charge"],
 		"randomBattleAb": ["Huge Power"],
 	},
@@ -13807,8 +13861,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Storm Drain"],
 	},
 	"Genesect": {
-		"randomBattleItems": ["Douse Drive", "Shock Drive", "Burn Drive", "Chill Drive", "Life Orb", "Assault Vest"],
-		"randomBattleMoves": ["Techno Blast", "Blaze Kick", "Bug Buzz", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-turn"],
+		"randomBattleItems": ["Douse Drive", "Life Orb", "Assault Vest"],
+		"randomBattleMoves": ["Techno Blast", "Blaze Kick", "Extreme Speed", "Flamethrower", "Ice Beam", "Iron Head", "Thunderbolt", "U-turn"],
 		"randomBattleAb": ["Download"],
 	},
 	"Gengar": {
@@ -13978,7 +14032,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Haxorus": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Lum Berry"],
-		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Outrage", "Poison Jab"],
+		"randomBattleMoves": ["Earthquake", "Outrage", "Poison Jab"],
 		"randomBattleAb": ["Mold Breaker"],
 	},
 	"Heatmor": {
@@ -14043,7 +14097,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Hoopa-Unbound": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Scarf", "Choice Band", "Assault Vest"],
-		"randomBattleMoves": ["Dark Pulse", "Drain Punch", "Focus Blast", "Gunk Shot", "Hyperspace Fury", "Ice Punch", "Knock Off", "Psychic", "Psyshock", "Zen Headbutt"],
+		"randomBattleMoves": ["Dark Pulse", "Drain Punch", "Focus Blast", "Gunk Shot", "Hyperspace Fury", "Ice Punch", "Knock Off", "Psychic", "Zen Headbutt"],
 		"randomBattleAb": ["Magician"],
 	},
 	"Houndoom": {
@@ -14193,7 +14247,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Kyurem": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Pulse", "Earth Power", "Focus Blast", "Ice Beam", "Outrage"],
+		"randomBattleMoves": ["Draco Meteor", "Earth Power", "Focus Blast", "Ice Beam", "Outrage"],
 		"randomBattleAb": ["Pressure"],
 	},
 	"Kyurem-W": {
@@ -14367,8 +14421,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Flame Body"],
 	},
 	"Magearna": {
-		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],
-		"randomBattleMoves": ["Aura Sphere", "Flash Cannon", "Fleur Cannon", "Ice Beam", "Iron Head", "Thunderbolt"],
+		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest", "Fairium Z", "Weakness Policy"],
+		"randomBattleMoves": ["Focus Blast", "Flash Cannon", "Fleur Cannon", "Ice Beam", "Iron Head", "Thunderbolt"],
 		"randomBattleAb": ["Soul Heart"],
 	},
 	"Magmortar": {
@@ -14788,7 +14842,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Poliwrath": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Circle Throw", "Focus Blast", "Hydro Pump", "Ice Beam", "Scald"],
+		"randomBattleMoves": ["Circle Throw", "Focus Blast", "Hydro Pump", "Ice Punch", "Scald"],
 		"randomBattleAb": ["Swift Swim", "Water Absorb"],
 	},
 	"Porygon-Z": {
@@ -14799,7 +14853,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Porygon2": {
 		"randomBattleItems": ["Eviolite"],
 		"randomBattleMoves": ["Ice Beam", "Thunderbolt", "Tri Attack"],
-		"randomBattleAb": ["Download"],
+		"randomBattleAb": ["Download", "Adaptability", "Trace"],
 	},
 	"Primarina": {
 		"randomBattleItems": ["Choice Scarf", "Choice Specs"],
@@ -15278,7 +15332,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Spiritomb": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Dark Pulse", "Foul Play", "Pursuit", "Shadow Sneak", "Sucker Punch"],
+		"randomBattleMoves": ["Dark Pulse", "Foul Play", "Pursuit", "Sucker Punch"],
 		"randomBattleAb": ["Infiltrator", "Pressure"],
 	},
 	"Stakataka": {
