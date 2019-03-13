@@ -13376,7 +13376,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Forecast"],
 	},
 	"Castform-Snowy": {
-		"randomBattleItems": ["Icy Rock", "Icium Z"],
+		"randomBattleItems": ["Icy Rock", "Icium Z", "Life Orb"],
 		"randomBattleMoves": ["Hail", "Blizzard", "Thunderbolt", "Fire Blast"],
 		"randomBattleAb": ["Forecast"],
 	},
@@ -14041,8 +14041,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Flash Fire"],
 	},
 	"Heatran": {
-		"randomBattleItems": ["Air Balloon"],
-		"randomBattleMoves": ["Earth Power", "Fire Blast", "Flash Cannon", "Lava Plume"],
+		"randomBattleItems": ["Air Balloon", "Leftovers", "Firium Z"],
+		"randomBattleMoves": ["Earth Power", "Fire Blast", "Magma Storm", "Flash Cannon", "Lava Plume"],
 		"randomBattleAb": ["Flash Fire"],
 	},
 	"Heliolisk": {
@@ -14362,7 +14362,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Lugia": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Aeroblast", "Dragon Tail"],
+		"randomBattleMoves": ["Psychic"],
 		"randomBattleAb": ["Multiscale"],
 	},
 	"Lumineon": {
@@ -15332,7 +15332,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Spiritomb": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Dark Pulse", "Foul Play", "Pursuit", "Sucker Punch"],
+		"randomBattleMoves": ["Dark Pulse", "Shadow Sneak", "Foul Play", "Pursuit"],
 		"randomBattleAb": ["Infiltrator", "Pressure"],
 	},
 	"Stakataka": {
