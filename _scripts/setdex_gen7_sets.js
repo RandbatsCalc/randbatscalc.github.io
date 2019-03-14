@@ -1344,6 +1344,51 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Carbink": {
+		"Default": {
+			"level": 84,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Carnivine": {
+		"Default": {
+			"level": 84,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Carracosta": {
+		"Default": {
+			"level": 84,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
 	"Castform": {
 		"Default": {
 			"level": 100,
@@ -1392,6 +1437,36 @@ var SETDEX_GEN7_SETS = {
 	"Castform-Snowy": {
 		"Default": {
 			"level": 100,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Celebi": {
+		"Default": {
+			"level": 77,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Celesteela": {
+		"Default": {
+			"level": 75,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
