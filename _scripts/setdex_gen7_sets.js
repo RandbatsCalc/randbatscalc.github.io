@@ -8022,7 +8022,22 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Wishiwashi": {
+	"Wishiwashi-School": {
+		"Default": {
+			"level": 84,
+			"nature": "Serious",
+			"ability": "Schooling",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+	"Wishiwashi-Solo": {
 		"Default": {
 			"level": 84,
 			"nature": "Serious",

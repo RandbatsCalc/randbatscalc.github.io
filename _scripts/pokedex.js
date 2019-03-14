@@ -11011,8 +11011,8 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 			"sp": 132
 		},
 		"w": 40.0,
-		"ab": "Battle Bond",
-		"isAlternateForme": true
+		"ab": "Battle Bond"
+	//	"isAlternateForme": true
 	},
 	"Rattata-Alola": {
 		"t1": "Dark",
@@ -11701,8 +11701,8 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 			"sd": 135,
 			"sp": 30
 		},
-		"w": 78.6,
-		"formes": ["Wishiwashi-School", "Wishiwashi-Solo"]
+		"w": 78.6
+//		"formes": ["Wishiwashi-School", "Wishiwashi-Solo"]
 	},
 	"Wishiwashi-School": {
 		"t1": "Water",
@@ -11714,8 +11714,8 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 			"sd": 135,
 			"sp": 30
 		},
-		"w": 78.6,
-		"isAlternateForme": true
+		"w": 78.6
+	//	"isAlternateForme": true
 	},
 	"Wishiwashi-Solo": {
 		"t1": "Water",
@@ -11727,8 +11727,8 @@ var POKEDEX_SM = $.extend(true, {}, POKEDEX_XY, {
 			"sd": 25,
 			"sp": 40
 		},
-		"w": 0.3,
-		"isAlternateForme": true
+		"w": 0.3
+	//	"isAlternateForme": true
 	},
 	"Mareanie": {
 		"t1": "Poison",
@@ -15715,7 +15715,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Dazzling Gleam", "Fire Blast", "Hyper Voice"],
 		"randomBattleAb": ["Competitive"],
 	},
-	"Wishiwashi": {
+	"Wishiwashi-School": {
+		"randomBattleItems": ["Expert Belt", "Choice Specs"],
+		"randomBattleMoves": ["Hidden Power Grass", "Earthquake", "Hydro Pump", "Ice Beam", "Scald"],
+		"randomBattleAb": ["Schooling"],
+	},
+	"Wishiwashi-Solo": {
 		"randomBattleItems": ["Expert Belt", "Choice Specs"],
 		"randomBattleMoves": ["Hidden Power Grass", "Earthquake", "Hydro Pump", "Ice Beam", "Scald"],
 		"randomBattleAb": ["Schooling"],
