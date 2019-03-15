@@ -14002,7 +14002,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gumshoos": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-turn"],
+		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-Turn"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Guzzlord": {
