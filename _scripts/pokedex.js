@@ -3643,7 +3643,7 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
 			"sp": 70
 		},
 		"w": 0.8,
-		"ab": "Forecast"
+		"ab": "Drought"
 	},
 	"Castform-Rainy": {
 		"t1": "Fire",
@@ -3656,7 +3656,7 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
 			"sp": 70
 		},
 		"w": 0.8,
-		"ab": "Forecast"
+		"ab": "Drizzle"
 	},
 	"Castform-Snowy": {
 		"t1": "Fire",
@@ -3669,7 +3669,7 @@ var POKEDEX_ADV = $.extend(true, {}, POKEDEX_GSC, {
 			"sp": 70
 		},
 		"w": 0.8,
-		"ab": "Forecast"
+		"ab": "Snow Warning"
 	},
 	"Chimecho": {
 		"t1": "Psychic",
@@ -13367,17 +13367,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Castform-Sunny": {
 		"randomBattleItems": ["Heat Rock", "Firium Z"],
-		"randomBattleMoves": ["Sunny Day", "Fire Blast", "Solar Beam", "Ice Beam"],
+		"randomBattleMoves": ["Fire Blast", "Solar Beam", "Ice Beam"],
 		"randomBattleAb": ["Forecast"],
 	},
 	"Castform-Rainy": {
 		"randomBattleItems": ["Damp Rock", "Waterium Z"],
-		"randomBattleMoves": ["Rain Dance", "Hydro Pump", "Thunder", "Hurricane"],
+		"randomBattleMoves": ["Hydro Pump", "Thunder", "Hurricane"],
 		"randomBattleAb": ["Forecast"],
 	},
 	"Castform-Snowy": {
 		"randomBattleItems": ["Icy Rock", "Icium Z", "Life Orb"],
-		"randomBattleMoves": ["Hail", "Blizzard", "Thunderbolt", "Fire Blast"],
+		"randomBattleMoves": ["Blizzard", "Thunderbolt", "Fire Blast"],
 		"randomBattleAb": ["Forecast"],
 	},
 	"Celebi": {

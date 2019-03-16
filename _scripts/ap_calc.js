@@ -413,7 +413,11 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				pokeObj.find("." + STATS[i] + " .dvs").val(set.dvs && typeof set.dvs[STATS[i]] !== "undefined" ? set.dvs[STATS[i]] : 15);
 			}
 			setSelectValueIfValid(pokeObj.find(".nature"), set.nature, "Hardy");
-			setSelectValueIfValid(abilityObj, pokemon.randomBattleAb[0], "");
+			if (!pokemonName.includes("Castform-")) {
+				setSelectValueIfValid(abilityObj, pokemon.randomBattleAb[0], "");
+			} else {
+				setSelectValueIfValid(abilityObj, pokemon.ab, "");
+			}
 			setSelectValueIfValid(itemObj, pokemon.randomBattleItems[0], "");
 
 			var moveCatArr = [];
@@ -501,6 +505,8 @@ function showFormes(formeObj, setName, pokemonName, pokemon) {
 function setSelectValueIfValid(select, value, fallback) {
 	select.val(select.children("option[value='" + value + "']").length !== 0 ? value : fallback);
 }
+
+//$(".type1 .type2").bind("keyup change", calculate)
 
 $(".forme").change(function () {
 	var altForme = pokedex[$(this).val()],
