@@ -12995,7 +12995,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Focus Blast", "Hidden Power Fire", "Hidden Power Ice", "Psychic", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Guard"],
 	},
-	"Alakzam-Mega": {
+	"Alakazam-Mega": {
 		"randomBattleItems": ["Alakazite"],
 		"randomBattleMoves": ["Focus Blast", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magic Guard"],
@@ -14017,7 +14017,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gumshoos": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-Turn"],
+		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-turn"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Guzzlord": {
