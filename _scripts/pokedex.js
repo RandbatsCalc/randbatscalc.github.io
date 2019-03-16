@@ -13965,7 +13965,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Hidden Power Fighting", "Hidden Power Fire", "Psychic", "Psyshock", "Shadow Ball", "Thunderbolt"],
 		"randomBattleAb": ["Shadow Tag"],
 	},
-	"Gourgeist": {
+	"Gourgeist-Small": {
 		"randomBattleItems": ["Leftoves"],
 		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
 		"randomBattleAb": ["Frisk", "Insomnia"],
@@ -13974,6 +13974,21 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Crunch", "Earthquake", "Play Rough"],
 		"randomBattleAb": ["Intimidate"],
+	},
+	"Gourgeist-Average": {
+		"randomBattleItems": ["Leftoves"],
+		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
+		"randomBattleAb": ["Frisk", "Insomnia"],
+	},
+	"Gourgeist-Large": {
+		"randomBattleItems": ["Leftoves"],
+		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
+		"randomBattleAb": ["Frisk", "Insomnia"],
+	},
+	"Gourgeist-Super": {
+		"randomBattleItems": ["Leftoves"],
+		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
+		"randomBattleAb": ["Frisk", "Insomnia"],
 	},
 	"Greninja": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Expert Belt"],
