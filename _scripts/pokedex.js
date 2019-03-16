@@ -10508,7 +10508,7 @@ var POKEDEX_XY = $.extend(true, {}, POKEDEX_BW, {
 		"ab": "Sand Stream"
 		//		"isAlternateForme": true
 	},
-	"Venusar-Mega": {
+	"Venusaur-Mega": {
 		"t1": "Grass",
 		"t2": "Poison",
 		"bs": {
