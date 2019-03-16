@@ -1488,7 +1488,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Charizard-Mega-X": {
 		"Default": {
 			"level": 75,
@@ -1497,7 +1496,6 @@ var SETDEX_GEN7_SETS = {
 			"item": "Charizardite-X"
 		}
 	},
-
 
 	"Charizard-Mega-Y": {
 		"Default": {
@@ -2917,7 +2915,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Gligar": {
 		"Default": {
 			"level": 77,
@@ -3529,7 +3526,6 @@ var SETDEX_GEN7_SETS = {
 			"item": "Houndoominite"
 		}
 	},
-
 
 	"Huntail": {
 		"Default": {
@@ -5055,7 +5051,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Necrozma-Dawn-Wings": {
 		"Default": {
 			"level": 73,
@@ -5064,7 +5059,6 @@ var SETDEX_GEN7_SETS = {
 			"item": "Leftovers"
 		}
 	},
-
 
 	"Necrozma-Ultra": {
 		"Default": {
@@ -7190,7 +7184,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Swanna": {
 		"Default": {
 			"level": 84,
@@ -8373,7 +8366,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Zygarde-10%": {
 		"Default": {
 			"level": 79,
@@ -8382,7 +8374,6 @@ var SETDEX_GEN7_SETS = {
 			"item": "Leftovers"
 		}
 	},
-
 
 	"Zygarde-Complete": {
 		"Default": {
