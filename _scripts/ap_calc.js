@@ -506,8 +506,6 @@ function setSelectValueIfValid(select, value, fallback) {
 	select.val(select.children("option[value='" + value + "']").length !== 0 ? value : fallback);
 }
 
-//$(".type1 .type2").bind("keyup change", calculate)
-
 $(".forme").change(function () {
 	var altForme = pokedex[$(this).val()],
 		container = $(this).closest(".info-group").siblings(),

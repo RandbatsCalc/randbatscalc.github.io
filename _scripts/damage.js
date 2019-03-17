@@ -1,8 +1,6 @@
 function CALCULATE_ALL_MOVES_BW(p1, p2, field) {
 	checkAirLock(p1, field);
 	checkAirLock(p2, field);
-	checkForecast(p1, field.getWeather());
-	checkForecast(p2, field.getWeather());
 	checkKlutz(p1);
 	checkKlutz(p2);
 	checkEvo(p1, p2);
@@ -1362,20 +1360,6 @@ function checkParentalBondPuP(pokemon) {
 	}
 }
 
-function checkForecast(pokemon, weather) {
-	if (pokemon.ability === "Forecast" && pokemon.name === "Castform") {
-		if (weather.indexOf("Sun") > -1) {
-			pokemon.type1 = "Fire";
-		} else if (weather.indexOf("Rain") > -1) {
-			pokemon.type1 = "Water";
-		} else if (weather === "Hail") {
-			pokemon.type1 = "Ice";
-		} else {
-			pokemon.type1 = "Normal";
-		}
-		pokemon.type2 = "";
-	}
-}
 function checkKlutz(pokemon) {
 	if (pokemon.ability === "Klutz") {
 		pokemon.item = "";
