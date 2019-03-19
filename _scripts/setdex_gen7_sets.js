@@ -1479,6 +1479,15 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Chansey": {
+		"Default": {
+			"level": 75,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers"
+		}
+	},
+
 	"Charizard": {
 		"Default": {
 			"level": 82,
