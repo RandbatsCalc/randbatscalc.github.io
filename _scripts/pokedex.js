@@ -15147,7 +15147,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Shaymin": {
 		"randomBattleItems": ["Leftovers", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Earth Power", "Psychic Fangs", "Seed Flare"],
+		"randomBattleMoves": ["Air Slash", "Earth Power", "Psychic", "Seed Flare"],
 		"randomBattleAb": ["Natural Cure"],
 	},
 	"Shaymin-S": {
