@@ -15143,7 +15143,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Sharpedo-Mega": {
 		"randomBattleItems": ["Sharpedonite"],
 		"randomBattleMoves": ["Crunch", "Ice Fang", "Psychic Fangs", "Waterfall"],
-		"randomBattleAb": ["Strong Jaws"],
+		"randomBattleAb": ["Strong Jaw"],
 	},
 	"Shaymin": {
 		"randomBattleItems": ["Leftovers", "Choice Specs"],
