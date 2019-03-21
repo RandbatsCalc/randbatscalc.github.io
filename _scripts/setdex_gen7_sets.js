@@ -1479,6 +1479,15 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Chandelure": {
+		"Default": {
+			"level": 77,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers"
+		}
+	},
+
 	"Chansey": {
 		"Default": {
 			"level": 75,
