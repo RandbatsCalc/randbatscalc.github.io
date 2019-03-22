@@ -14,13 +14,35 @@ title: Random Battles Damage Calc
 
 	</div>
 	<hr />
+	<script>
+		const copyToClipboard = str => {
+  		const el = document.createElement('textarea');  // Create a <textarea> element
+  		el.value = str;                                 // Set its value to the string that you want copied
+  		el.setAttribute('readonly', '');                // Make it readonly to be tamper-proof
+  		el.style.position = 'absolute';
+  		el.style.left = '-9999px';                      // Move outside the screen to make it invisible
+  		document.body.appendChild(el);                  // Append the <textarea> element to the HTML document
+  		const selected =
+    	document.getSelection().rangeCount > 0        // Check if there is any content selected previously
+      	? document.getSelection().getRangeAt(0)     // Store selection if found
+      	: false;                                    // Mark as false to know no selection existed before
+  		el.select();                                    // Select the <textarea> content
+  		document.execCommand('copy');                   // Copy - only works as a result of a user action (e.g. click events)
+  		document.body.removeChild(el);                  // Remove the <textarea> element
+  		if (selected) {                                 // If a selection existed before copying
+    		document.getSelection().removeAllRanges();    // Unselect everything on the HTML document
+    		document.getSelection().addRange(selected);   // Restore the original selection
+  		}
+		};
+</script>
 	<p>Random Battles Calc by <a href="https://www.smogon.com/forums/members/legofigure11.188833/">LegoFigure11</a> &amp; <a href="https://www.smogon.com/forums/members/smoochyena.463545/">Smoochyena</a>. Special thanks to <a href="https://www.smogon.com/forums/members/cant-say.158401/">cant
 			say</a> and LegoFigure11 for the base version of this calculator and to the Pokemon Showdown! Random Battles Auth for their assistance.
 	</p>
-	<p>Navigate to alternate and Mega Formes by typing the full name, such as <b>Marowak-Alola.</b>	</p>
-	<p>This calc does not include non-damaging moves. PM .randbats pokemon to Lady Monita to find the full moveset of a certain Pokemon. </p>
+	<p>Navigate to alternate and Mega Formes by typing the full name, such as <b>Marowak-Alola.</b> </p>
+	<p>This calc does not include non-damaging moves. PM &nbsp;&nbsp;<span class="btn btn-xxwide" onclick="copyToClipboard('/w ladymonita, .randbats stunfisk')">.randbats pokemon</span>&nbsp;&nbsp; to Lady Monita to find the full moveset of a certain
+		Pokemon. </p>
 	<p>If your opponent sends out a Pokemon and it's not the same level as listed in the calc, it may be holding its Mega Stone. </p>
-  <p>Find a mistake? Report issues <a href="https://www.smogon.com/forums/threads/3646468/">here</a>!</p>
+	<p>Find a mistake? Report issues <a href="https://www.smogon.com/forums/threads/3646468/">here</a>!</p>
 
 	<div class="move-result-group" title="Select a move to show detailed results.">
 		<div class="move-result-subgroup">
