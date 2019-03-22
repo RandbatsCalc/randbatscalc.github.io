@@ -7111,7 +7111,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Stunfisk": {
 		"Default": {
-			"level": 83,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
