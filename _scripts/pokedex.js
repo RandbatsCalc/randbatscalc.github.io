@@ -13046,7 +13046,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Shed Skin", "Intimidate"],
 	},
 	"Arcanine": {
-		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band", "Choice Scarf"],
 		"randomBattleMoves": ["Close Combat", "Crunch", "Extreme Speed", "Flare Blitz", "Wild Charge"],
 		"randomBattleAb": ["Intimidate", "Flash Fire"],
 	},
