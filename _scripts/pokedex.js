@@ -15782,7 +15782,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Fairy Aura"],
 	},
 	"Xurkitree": {
-		"randomBattleItems": ["Choice Scarf", "Choice Specs"],
+		"randomBattleItems": ["Choice Scarf", "Choice Specs", "Electrium Z"],
 		"randomBattleMoves": ["Dazzling Gleam", "Energy Ball", "Hidden Power Ice", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Beast Boost"],
 	},
