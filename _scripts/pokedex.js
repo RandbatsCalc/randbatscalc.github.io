@@ -15619,7 +15619,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Ursaring": {
 		"randomBattleItems": ["Flame Orb", "Toxic Orb"],
 		"randomBattleMoves": ["Close Combat", "Crunch", "Facade"],
-		"randomBattleAb": ["Quick Feet", "Guts"],
+		"randomBattleAb": ["Guts", "Quick Feet"],
 	},
 	"Uxie": {
 		"randomBattleItems": ["Leftovers"],
