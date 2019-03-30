@@ -14408,7 +14408,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Luxray": {
 		"randomBattleItems": ["Flame Orb", "Choice Band", "Expert Belt"],
 		"randomBattleMoves": ["Crunch", "Facade", "Ice Fang", "Superpower", "Volt Switch", "Wild Charge"],
-		"randomBattleAb": ["Intimidate", "Guts"],
+		"randomBattleAb": ["Guts", "Intimidate"],
 	},
 	"Lycanroc-Day": {
 		"randomBattleItems": ["Life Orb", "Choice Band", "Lycanrium Z"],
