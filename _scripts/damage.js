@@ -359,7 +359,8 @@ function getDamageResult(attacker, defender, move, field) {
 		description.attackerItem = attacker.item;
 	} else if ((attacker.item === "Adamant Orb" && attacker.name === "Dialga" ||
             attacker.item === "Lustrous Orb" && attacker.name === "Palkia" ||
-            attacker.item === "Griseous Orb" && attacker.name === "Giratina-O") &&
+            attacker.item === "Griseous Orb" && attacker.name === "Giratina-O" ||
+			attacker.item === "Soul Dew" && attacker.name.includes("Lati")) &&
             (move.type === attacker.type1 || move.type === attacker.type2)) {
 		bpMods.push(0x1333);
 		description.attackerItem = attacker.item;
@@ -508,8 +509,8 @@ function getDamageResult(attacker, defender, move, field) {
             attacker.item === "Light Ball" && attacker.name === "Pikachu" && !move.isZ) {
 		atMods.push(0x2000);
 		description.attackerItem = attacker.item;
-	} else if (attacker.item === "Soul Dew" && (attacker.name === "Latios" || attacker.name === "Latias") && move.category === "Special" ||
-            attacker.item === "Choice Band" && move.category === "Physical" ||
+	} else if (/*attacker.item === "Soul Dew" && (attacker.name === "Latios" || attacker.name === "Latias") && move.category === "Special" ||*/
+		attacker.item === "Choice Band" && move.category === "Physical" ||
             attacker.item === "Choice Specs" && move.category === "Special" && !move.isZ) {
 		atMods.push(0x1800);
 		description.attackerItem = attacker.item;
@@ -554,7 +555,7 @@ function getDamageResult(attacker, defender, move, field) {
 
 	if (defender.item === "Deep Sea Scale" && defender.name === "Clamperl" && !hitsPhysical ||
             defender.item === "Metal Powder" && defender.name === "Ditto" ||
-            defender.item === "Soul Dew" && (defender.name === "Latios" || defender.name === "Latias") && !hitsPhysical ||
+            /*defender.item === "Soul Dew" && (defender.name === "Latios" || defender.name === "Latias") && !hitsPhysical ||*/
             defender.item === "Assault Vest" && !hitsPhysical || defender.item === "Eviolite") {
 		dfMods.push(0x1800);
 		description.defenderItem = defender.item;

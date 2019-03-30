@@ -178,7 +178,6 @@ ITEMS_XY.splice(ITEMS_XY.indexOf("Psychic Gem"), 1);
 ITEMS_XY.splice(ITEMS_XY.indexOf("Rock Gem"), 1);
 ITEMS_XY.splice(ITEMS_XY.indexOf("Steel Gem"), 1);
 ITEMS_XY.splice(ITEMS_XY.indexOf("Water Gem"), 1);
-ITEMS_XY.splice(ITEMS_XY.indexOf("Soul Dew"), 1);
 
 var ITEMS_SM = ITEMS_XY.concat([
 	"Figy Berry",
