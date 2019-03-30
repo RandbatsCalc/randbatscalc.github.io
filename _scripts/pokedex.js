@@ -13742,8 +13742,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Exeggutor-Alola": {
 		"randomBattleItems": ["Sitrus Berry"],
-		"randomBattleMoves": ["Draco Meteor", "Dragon Hammer", "Earthquake", "Flamethrower", "Giga Drain", "Knock Off", "Leaf Storm", "Wood Hammer"],
-		"randomBattleAb": ["Harvest"],
+		"randomBattleMoves": ["Draco Meteor", "Flamethrower", "Giga Drain", "Leaf Storm", "Trick Room"],
+		"randomBattleAb": ["Frisk"],
 	},
 	"Exploud": {
 		"randomBattleItems": ["Choice Specs"],
@@ -13816,7 +13816,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Frisk"],
 	},
 	"Gallade": {
-		"randomBattleItems": ["Life Orb", "Choice Band"],
+		"randomBattleItems": ["Life Orb", "Choice Band", "Choice Scarf"],
 		"randomBattleMoves": ["Close Combat", "Drain Punch", "Ice Punch", "Knock Off", "Shadow Sneak", "Zen Headbutt"],
 		"randomBattleAb": ["Justified"],
 	},
@@ -14017,7 +14017,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Gumshoos": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-Turn"],
+		"randomBattleMoves": ["Crunch", "Earthquake", "Fire Punch", "Return", "U-turn"],
 		"randomBattleAb": ["Adaptability"],
 	},
 	"Guzzlord": {
@@ -14835,6 +14835,11 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Heat Wave", "Hurricane", "U-turn"],
 		"randomBattleAb": ["No Guard"],
 	},
+	"Pikachu": {
+		"randomBattleItems": ["Light Ball"],
+		"randomBattleMoves": ["Volt Tackle", "Volt Switch", "Grass Knot", "Hidden Power Ice", "Knock Off", "Iron Tail"],
+		"randomBattleAb": ["Lightning Rod"],
+	},
 	"Pinsir": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
 		"randomBattleMoves": ["Close Combat", "Earthquake", "Knock Off", "Stone Edge", "X-Scissor"],
@@ -15510,6 +15515,12 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleMoves": ["Air Slash", "Aura Sphere"],
 		"randomBattleAb": ["Serene Grace"],
 	},
+	"Togetic": {
+		"randomBattleItems": ["Eviolite"],
+		"randomBattleMoves": ["Dazzling Gleam", "Fire Blast"],
+		"randomBattleAb": ["Serene Grace, Super Luck"],
+	},
+
 	"Torkoal": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "White Herb"],
 		"randomBattleMoves": ["Earth Power", "Fire Blast", "Lava Plume", "Rapid Spin", "Solar Beam"],
