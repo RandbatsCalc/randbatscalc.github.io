@@ -3,7 +3,7 @@
  Formats of adding Pokemon with one set in:
 "Pokemon": {
 	"Default": {
-		"level": 85,
+		"level": 80,
 		"evs": {
 			"hp": "89",
 			"at": "89",
@@ -35,7 +35,7 @@
 Format for adding pokemon with 2 sets in:
 "Pokemon": {
 	"Default": {
-		"level": 85,
+		"level": 80,
 		"evs": {
 			"hp": "89",
 			"at": "89",
@@ -63,7 +63,7 @@ Format for adding pokemon with 2 sets in:
 		]
 	},
 	"Mega": {
-		"level": 85,
+		"level": 80,
 		"evs": {
 			"hp": "89",
 			"at": "89",
@@ -141,7 +141,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Absol-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Magic Bounce",
 			"ability": "Absolite",
 			"item": "Leftovers",
@@ -171,7 +171,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Aegislash": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -201,7 +201,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Aerodactyl-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Aerodactylite",
@@ -231,7 +231,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Aggron-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Filter",
 			"item": "Aggronite",
@@ -246,7 +246,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Alakazam": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -261,7 +261,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Alakazam-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Trace",
 			"item": "Alakazite",
@@ -276,7 +276,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Alomomola": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -306,7 +306,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Altaria-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -336,7 +336,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Amoonguss": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -381,7 +381,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Araquanid": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -411,7 +411,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arcanine": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -426,7 +426,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Leftovers",
@@ -441,7 +441,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Bug": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Insect Plate",
@@ -456,7 +456,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Fire": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Flame Plate",
@@ -471,7 +471,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Water": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Splash Plate",
@@ -486,7 +486,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Electric": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Zap Plate",
@@ -501,7 +501,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Grass": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Meadow Plate",
@@ -516,7 +516,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Ice": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Icicle Plate",
@@ -531,7 +531,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Fighting": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Fist-Plate",
@@ -546,7 +546,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Poison": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Toxic Plate",
@@ -561,7 +561,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Ground": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Earth Plate",
@@ -576,7 +576,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Dragon": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Draco Plate",
@@ -591,7 +591,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Dark": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Dread Plate",
@@ -606,7 +606,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Steel": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Iron Plate",
@@ -621,7 +621,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Fairy": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Pixie Plate",
@@ -636,7 +636,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Flying": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Sky Plate",
@@ -651,7 +651,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Ghost": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Spooky Plate",
@@ -666,7 +666,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Psychic": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Mind Plate",
@@ -681,7 +681,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Arceus-Rock": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Multitype",
 			"item": "Stone Plate",
@@ -771,7 +771,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Greninja-Ash": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Battle Bond",
 			"item": "Leftovers",
@@ -846,7 +846,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Azelf": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -861,7 +861,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Azumarill": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Huge Power",
 			"item": "Leftovers",
@@ -891,7 +891,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Banette-Mega": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Prankster",
 			"item": "Banettite",
@@ -996,7 +996,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Beedrill-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Adaptability",
 			"item": "Beedrilite",
@@ -1041,7 +1041,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Bewear": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1071,7 +1071,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Bisharp": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1086,7 +1086,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Blacephalon": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1116,7 +1116,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Blastoise-Mega": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Mega Launcher",
 			"item": "Blastoisinite",
@@ -1131,7 +1131,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Blaziken": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1146,7 +1146,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Blaziken-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Speed Boost",
 			"item": "Blazikenite",
@@ -1161,7 +1161,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Blissey": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1206,7 +1206,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Breloom": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1221,7 +1221,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Bronzong": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1233,7 +1233,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Gyro Ball": {
-			"level": 89,
+			"level": 84,
 			"evs": {
 				"sd": "89",
 				"sp": "0"
@@ -1286,7 +1286,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Buzzwole": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1451,7 +1451,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Celebi": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1466,7 +1466,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Celesteela": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1481,7 +1481,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Chandelure": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -1490,7 +1490,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Chansey": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -1508,7 +1508,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Charizard-Mega-X": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Charizardite-X"
@@ -1517,7 +1517,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Charizard-Mega-Y": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Drought",
 			"item": "Charizardite-Y"
@@ -1556,7 +1556,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Chesnaught": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1631,7 +1631,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Clefable": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1646,7 +1646,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Cloyster": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1661,7 +1661,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Cobalion": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1706,7 +1706,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Conkeldurr": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1766,7 +1766,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Crawdaunt": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1781,7 +1781,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Cresselia": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1796,7 +1796,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Crobat": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1841,7 +1841,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Darkrai": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1856,7 +1856,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Darmanitan": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1946,7 +1946,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Deoxys": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1961,7 +1961,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Deoxys-A": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1976,7 +1976,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Deoxys-D": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1991,7 +1991,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Deoxys-S": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2036,7 +2036,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Dialga": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2060,7 +2060,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Diancie-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Diancite"
@@ -2069,7 +2069,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Diggersby": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2110,7 +2110,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Donphan": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2125,7 +2125,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Doublade": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Eviolite",
@@ -2140,7 +2140,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Dragalge": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2155,7 +2155,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Dragonite": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2185,7 +2185,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Drapion": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2275,7 +2275,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Durant": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2365,7 +2365,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Emboar": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2395,7 +2395,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Empoleon": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2410,7 +2410,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Entei": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2425,7 +2425,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Escavalier": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2440,7 +2440,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Espeon": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2455,7 +2455,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Excadrill": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2545,7 +2545,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Feraligatr": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2560,7 +2560,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ferrothorn": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2605,7 +2605,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Floette-E": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2620,7 +2620,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Florges": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2635,7 +2635,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Flygon": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2650,7 +2650,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Forretress": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2719,7 +2719,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gallade-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Inner Focus",
 			"item": "Galladite"
@@ -2728,7 +2728,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Galvantula": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2758,7 +2758,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Garchomp": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -2767,7 +2767,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Garchomp-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Sand Force",
 			"item": "Garchompite"
@@ -2776,7 +2776,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gardevoir": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -2785,7 +2785,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gardevoir-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Pixilate",
 			"item": "Gardevoirite"
@@ -2809,7 +2809,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Genesect": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2824,7 +2824,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gengar": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -2833,7 +2833,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gengar-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Shadow Tag",
 			"item": "Gengarite"
@@ -2872,7 +2872,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Giratina": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2887,7 +2887,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Giratina-O": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Griseous Orb",
@@ -2935,7 +2935,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gligar": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2950,7 +2950,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gliscor": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3040,7 +3040,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Golisopod": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3070,7 +3070,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Goodra": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3190,7 +3190,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Greninja": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3205,7 +3205,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Groudon": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3214,7 +3214,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Groudon-Primal": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Desolate Land",
 			"item": "Red Orb"
@@ -3283,7 +3283,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gyarados": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3292,7 +3292,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Gyarados-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Mold Breaker",
 			"item": "Gyaradosite"
@@ -3316,7 +3316,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hawlucha": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3331,7 +3331,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Haxorus": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3361,7 +3361,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Heatran": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3391,7 +3391,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Heracross": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3400,7 +3400,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Heracross-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Skill Link",
 			"item": "Heracronite"
@@ -3409,7 +3409,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hippowdon": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3469,7 +3469,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ho-Oh": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3484,7 +3484,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Honchkrow": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3514,7 +3514,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hoopa-Unbound": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3538,7 +3538,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Houndoom-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Solar Power",
 			"item": "Houndoominite"
@@ -3562,7 +3562,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hydreigon": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3622,7 +3622,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Infernape": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3652,7 +3652,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Jirachi": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3667,7 +3667,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Jolteon": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3736,7 +3736,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kangaskhan-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "ParentalBond",
 			"item": "Kangaskhanite"
@@ -3745,7 +3745,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kartana": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3775,7 +3775,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Keldeo": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3820,7 +3820,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Klefki": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3865,7 +3865,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kommo-o": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3895,7 +3895,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Krookodile": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3910,7 +3910,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kyogre": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3919,7 +3919,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kyogre-Primal": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Primordial Sea",
 			"item": "Blue Orb"
@@ -3928,7 +3928,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kyurem": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3943,7 +3943,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kyurem-B": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3958,7 +3958,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kyurem-W": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3973,7 +3973,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Landorus": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3988,7 +3988,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Landorus-T": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4033,7 +4033,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Latias": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4042,7 +4042,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Latias-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Levitate",
 			"item": "Latiasite"
@@ -4051,7 +4051,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Latios": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4060,7 +4060,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Latios-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Levitate",
 			"item": "Latiosite"
@@ -4159,7 +4159,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Linoone": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4189,7 +4189,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lopunny-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4204,7 +4204,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lucario": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4213,7 +4213,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lucario-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Adaptability",
 			"item": "Lucarionite"
@@ -4237,7 +4237,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lugia": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4267,7 +4267,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lunala": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4357,7 +4357,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lycanroc-Dusk": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Leftovers",
@@ -4387,7 +4387,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Machamp": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4417,7 +4417,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Magearna": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4447,7 +4447,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Magnezone": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4477,7 +4477,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mamoswine": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4492,7 +4492,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Manaphy": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4507,7 +4507,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mandibuzz": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4531,7 +4531,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Manectric-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Intimidate",
 			"item": "Manectite"
@@ -4540,7 +4540,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mantine": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4585,7 +4585,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Marowak-Alola": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4600,7 +4600,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Marshadow": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4639,7 +4639,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mawile-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Huge Power",
 			"item": "Mawilite"
@@ -4657,7 +4657,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Medicham-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Pure Power",
 			"item": "Medichamite"
@@ -4681,7 +4681,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Meloetta": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4696,7 +4696,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Meloetta-Pirouette": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4747,7 +4747,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Metagross": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4756,7 +4756,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Metagross-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Tough Claws",
 			"item": "Metagrossite"
@@ -4765,7 +4765,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mew": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4780,7 +4780,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mewtwo": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -4789,7 +4789,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mewtwo-Mega-X": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Steadfast",
 			"item": "Mewtwonite-X"
@@ -4798,7 +4798,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mewtwo-Mega-Y": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Insomnia",
 			"item": "Mewtwonite-Y"
@@ -4807,7 +4807,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mienshao": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4837,7 +4837,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Milotic": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4867,7 +4867,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mimikyu": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4927,7 +4927,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Moltres": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5032,7 +5032,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Naganadel": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5047,7 +5047,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Necrozma": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5062,7 +5062,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Necrozma-Dusk-Mane": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -5071,7 +5071,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Necrozma-Dawn-Wings": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -5080,7 +5080,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Necrozma-Ultra": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Neuroforce",
 			"item": "Ultranecronium-Z"
@@ -5089,7 +5089,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Nidoking": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5104,7 +5104,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Nidoqueen": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5119,7 +5119,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Nihilego": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5134,7 +5134,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ninetales": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5149,7 +5149,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ninetales-Alola": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5194,7 +5194,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Noivern": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5329,7 +5329,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Palkia": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5359,7 +5359,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pangoro": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5449,7 +5449,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pheromosa": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5488,19 +5488,10 @@ var SETDEX_GEN7_SETS = {
 
 	"Pidgeot-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "No Guard",
 			"item": "Pidgeotite"
-		}
-	},
-
-	"Pikachu": {
-		"Default": {
-			"level": 90,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers"
 		}
 	},
 
@@ -5515,7 +5506,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pinsir-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Aerilate",
 			"item": "Pinsirite"
@@ -5569,7 +5560,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Porygon-Z": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5584,7 +5575,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Porygon2": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5599,7 +5590,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Primarina": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5749,7 +5740,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Raikou": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5824,7 +5815,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Rayquaza": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5914,7 +5905,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Reshiram": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5929,7 +5920,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Reuniclus": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5944,7 +5935,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Rhyperior": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5974,7 +5965,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Roserade": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6034,7 +6025,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Rotom-H": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6064,7 +6055,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Rotom-W": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6088,7 +6079,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sableye-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Sablenite"
@@ -6097,7 +6088,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Salamence": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -6106,7 +6097,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Salamence-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Aerilate",
 			"item": "Salamencite"
@@ -6115,7 +6106,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Salazzle": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6175,7 +6166,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sawk": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6214,7 +6205,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sceptile-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Lightning Rod",
 			"item": "Sceptilite"
@@ -6223,7 +6214,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Scizor": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -6232,7 +6223,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Scizor-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Technician",
 			"item": "Scizorite"
@@ -6241,7 +6232,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Scolipede": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6316,7 +6307,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Serperior": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6346,7 +6337,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sharpedo": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -6355,7 +6346,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sharpedo-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -6364,7 +6355,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Shaymin": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6379,7 +6370,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Shaymin-S": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6784,7 +6775,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Skarmory": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6838,7 +6829,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Slowbro-Mega": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Shell Armor",
 			"item": "Slowbronite"
@@ -6912,7 +6903,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Snorlax": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6927,7 +6918,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Solgaleo": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7007,7 +6998,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Stakataka": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7019,7 +7010,7 @@ var SETDEX_GEN7_SETS = {
 			]
 		},
 		"Trick Room and/or Gyro Ball": {
-			"level": 88,
+			"level": 83,
 			"evs": {
 				"sd": "85",
 				"sp": "0"
@@ -7057,7 +7048,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Staraptor": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7072,7 +7063,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Starmie": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7096,7 +7087,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Steelix-Mega": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Sand Force",
 			"item": "Steelixite"
@@ -7120,7 +7111,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Stunfisk": {
 		"Default": {
-			"level": 91,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7150,7 +7141,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Suicune": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7195,7 +7186,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Swampert": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -7204,7 +7195,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Swampert-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Swift Swim",
 			"item": "Swampertite"
@@ -7228,7 +7219,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Swellow": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7258,7 +7249,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sylveon": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7273,7 +7264,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Talonflame": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7303,7 +7294,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tapu Bulu": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7318,7 +7309,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tapu Fini": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7333,7 +7324,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tapu Koko": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7348,7 +7339,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tapu Lele": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7378,7 +7369,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tentacruel": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7393,7 +7384,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Terrakion": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7423,7 +7414,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Thundurus": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7438,7 +7429,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Thundurus-T": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7466,24 +7457,9 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-	"Togetic": {
-		"Default": {
-			"level": 90,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers",
-			"moves": [
-				"Tackle",
-				"Take Down",
-				"Earthquake",
-				"Accelerock"
-			]
-		}
-	},
-
 	"Togekiss": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7513,7 +7489,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tornadus": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7528,7 +7504,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tornadus-T": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7573,7 +7549,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Toxapex": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7588,7 +7564,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Toxicroak": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7633,7 +7609,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tsareena": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7693,7 +7669,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tyranitar": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -7702,7 +7678,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tyranitar-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Sand Stream",
 			"item": "Tyranitarite"
@@ -7711,7 +7687,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tyrantrum": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7726,7 +7702,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Umbreon": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7786,7 +7762,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Uxie": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7831,7 +7807,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Venomoth": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7855,7 +7831,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Venusaur-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Thick Fat",
 			"item": "Venusaurite"
@@ -7879,7 +7855,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Victini": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7939,7 +7915,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Virizion": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7984,7 +7960,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Volcanion": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7999,7 +7975,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Volcarona": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8059,7 +8035,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Weavile": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8251,7 +8227,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Xerneas": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8266,7 +8242,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Xurkitree": {
 		"Default": {
-			"level": 86,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8281,7 +8257,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Yanmega": {
 		"Default": {
-			"level": 89,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8296,7 +8272,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Yveltal": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8326,7 +8302,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zapdos": {
 		"Default": {
-			"level": 85,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8356,7 +8332,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zekrom": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8371,7 +8347,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zeraora": {
 		"Default": {
-			"level": 87,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8386,7 +8362,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zoroark": {
 		"Default": {
-			"level": 88,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -8401,7 +8377,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zygarde": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -8410,13 +8386,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zygarde-10%": {
 		"Default": {
-			"level": 89,
-			"nature": "Serious",
-			"ability": "Defiant",
-			"item": "Leftovers"
-		},
-		"Not Aura Break": {
-			"level": 80,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -8425,7 +8395,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Zygarde-Complete": {
 		"Default": {
-			"level": 88,
+			"level": 78,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
