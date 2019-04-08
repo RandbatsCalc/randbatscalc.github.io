@@ -13017,8 +13017,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Ambipom": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Fake Out", "Knock Off", "Low Kick", "Seed Bomb", "Tail Slap", "U-turn"],
-		"randomBattleAb": ["Skill Link", "Technician"],
+		"randomBattleMoves": ["Fake Out", "Knock Off", "Low Kick", "Seed Bomb", "Return", "U-turn"],
+		"randomBattleAb": ["Technician"],
 	},
 	"Amoonguss": {
 		"randomBattleItems": ["Black Sludge", "Life Orb"],
@@ -13282,7 +13282,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Blaziken": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Blaze Kick", "High Jump Kick", "Knock Off", "Stone Edge"],
+		"randomBattleMoves": ["Fire Blast", "High Jump Kick", "Knock Off", "Hidden Power Ice"],
 		"randomBattleAb": ["Speed Boost"],
 	},
 	"Blaziken-Mega": {
@@ -13437,7 +13437,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Cinccino": {
 		"randomBattleItems": ["Choice Band"],
-		"randomBattleMoves": ["Aqua Tail", "Bullet Seed", "Knock Off", "Rock Blast", "Tail Slap", "U-turn"],
+		"randomBattleMoves": ["Bullet Seed", "Knock Off", "Rock Blast", "Tail Slap", "U-turn"],
 		"randomBattleAb": ["Skill Link"],
 	},
 	"Clawitzer": {
@@ -13547,7 +13547,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Delibird": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Aerial Ace", "Ice Punch", "Ice Shard"],
+		"randomBattleMoves": ["Rapid Spin", "Icy Wind", "Freeze-Dry"],
 		"randomBattleAb": ["Hustle"],
 	},
 	"Delphox": {
@@ -14527,7 +14527,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Medicham-Mega": {
 		"randomBattleItems": ["Medichamite"],
-		"randomBattleMoves": ["Drain Punch", "Fake Out", "High Jump Kick", "Ice Punch", "Zen Headbutt"],
+		"randomBattleMoves": ["Thunder Punch", "Fake Out", "High Jump Kick", "Ice Punch", "Zen Headbutt"],
 		"randomBattleAb": ["Pure Power"],
 	},
 	"Meganium": {

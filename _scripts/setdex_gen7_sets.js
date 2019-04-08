@@ -1916,7 +1916,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Delibird": {
 		"Default": {
-			"level": 89,
+			"level": 100,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2051,7 +2051,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Diancie": {
 		"Default": {
-			"level": 86,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3268,7 +3268,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Guzzlord": {
 		"Default": {
-			"level": 86,
+			"level": 88,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3391,7 +3391,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Heracross": {
 		"Default": {
-			"level": 82,
+			"level": 83,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -3514,7 +3514,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hoopa-Unbound": {
 		"Default": {
-			"level": 81,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3805,7 +3805,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kingler": {
 		"Default": {
-			"level": 88,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3865,7 +3865,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Kommo-o": {
 		"Default": {
-			"level": 82,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4882,7 +4882,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Minior": {
 		"Default": {
-			"level": 87,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5359,7 +5359,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pangoro": {
 		"Default": {
-			"level": 84,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6079,7 +6079,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sableye-Mega": {
 		"Default": {
-			"level": 80,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Magic Bounce",
 			"item": "Sablenite"
@@ -6121,7 +6121,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Samurott": {
 		"Default": {
-			"level": 87,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6820,7 +6820,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Slowbro": {
 		"Default": {
-			"level": 86,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers"
@@ -7654,7 +7654,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Typhlosion": {
 		"Default": {
-			"level": 87,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7831,7 +7831,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Venusaur-Mega": {
 		"Default": {
-			"level": 81,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Thick Fat",
 			"item": "Venusaurite"
@@ -7870,7 +7870,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Victreebel": {
 		"Default": {
-			"level": 89,
+			"level": 88,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
