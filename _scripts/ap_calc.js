@@ -97,6 +97,13 @@ $(".sl .dvs").keyup(function () {
 	calcHP(poke);
 });
 
+$(".no-abil").click(function () {
+	var poke = $(this).closest(".poke-info");
+	var abilityObj = poke.find(".ability");
+	setSelectValueIfValid(abilityObj, "(other)", "");
+	abilityObj.change();
+});
+
 function getHPDVs(poke) {
 	return ~~poke.find(".at .dvs").val() % 2 * 8 +
             ~~poke.find(".df .dvs").val() % 2 * 4 +
