@@ -14258,7 +14258,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Kyogre-Primal": {
 		"randomBattleItems": ["Blue Orb"],
 		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
-		"randomBattleAb": ["Primodial Sea"],
+		"randomBattleAb": ["Primordial Sea"],
 	},
 	"Kyurem": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf", "Choice Specs", "Assault Vest"],

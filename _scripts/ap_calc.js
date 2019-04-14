@@ -212,7 +212,7 @@ function autoSetTerrain() {
 
 function autosetWeather(ability, i) {
 	var currentWeather = $("input:radio[name='weather']:checked").val();
-	if (lastAutoWeather.indexOf(currentWeather) === -1 || currentWeather === "") {
+	if (!lastAutoWeather.includes(currentWeather) || currentWeather === "") {
 		lastManualWeather = currentWeather;
 		lastAutoWeather[1 - i] = "";
 	}
@@ -232,13 +232,13 @@ function autosetWeather(ability, i) {
 	if (ability in autoWeatherAbilities) {
 		lastAutoWeather[i] = autoWeatherAbilities[ability];
 		if (currentWeather === "Strong Winds") {
-			if (lastAutoWeather.indexOf("Strong Winds") === -1) {
+			if (!lastAutoWeather.includes("Strong Winds")) {
 				newWeather = lastAutoWeather[i];
 			}
-		} else if (primalWeather.indexOf(currentWeather) > -1) {
-			if (lastAutoWeather[i] === "Strong Winds" || primalWeather.indexOf(lastAutoWeather[i]) > -1) {
+		} else if (primalWeather.includes(currentWeather)) {
+			if (lastAutoWeather[i] === "Strong Winds" || primalWeather.includes(lastAutoWeather[i])) {
 				newWeather = lastAutoWeather[i];
-			} else if (primalWeather.indexOf(lastAutoWeather[1 - i]) > -1) {
+			} else if (primalWeather.includes(lastAutoWeather[1 - i])) {
 				newWeather = lastAutoWeather[1 - i];
 			} else {
 				newWeather = lastAutoWeather[i];
@@ -251,14 +251,14 @@ function autosetWeather(ability, i) {
 		newWeather = lastAutoWeather[1 - i] !== "" ? lastAutoWeather[1 - i] : lastManualWeather;
 	}
 
-	if (newWeather === "Strong Winds" || primalWeather.indexOf(newWeather) > -1) {
+	if (newWeather === "Strong Winds" || primalWeather.includes(newWeather)) {
 		// $("input:radio[name='weather']").prop("disabled", true);
 		// edited out by squirrelboy1225 for doubles!
 		$("input:radio[name='weather'][value='" + newWeather + "']").prop("disabled", false);
 	} else if (typeof newWeather != "undefined") {
 		for (var k = 0; k < $("input:radio[name='weather']").length; k++) {
 			var val = $("input:radio[name='weather']")[k].value;
-			if (primalWeather.indexOf(val) === -1 && val !== "Strong Winds") {
+			if (!primalWeather.includes(val) && val !== "Strong Winds") {
 				$("input:radio[name='weather']")[k].disabled = false;
 			} else {
 				// $("input:radio[name='weather']")[k].disabled = true;
@@ -350,7 +350,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				pokeObj.find(".randItems").append(", ");
 			}
 
-			if (pokeObj.find(".randItems").html().indexOf(pokemon.randomBattleItems[u]) === -1) {
+			if (!pokeObj.find(".randItems").html().includes(pokemon.randomBattleItems[u])) {
 				pokeObj.find(".randItems").append("<span class=\"assignableItem\" style=\"cursor: pointer;\" onClick=\"makeItem(\'" + $(this).parent().parent()[0].id + "\', \'" + pokemon.randomBattleItems[u] + "\')\">" + pokemon.randomBattleItems[u] + "</span>");
 			}
 		}
@@ -361,7 +361,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				pokeObj.find(".randAbility").append(", ");
 			}
 
-			if (pokeObj.find(".randAbility").html().indexOf(pokemon.randomBattleAb[v]) === -1) {
+			if (!pokeObj.find(".randAbility").html().includes(pokemon.randomBattleAb[v])) {
 				pokeObj.find(".randAbility").append("<span class=\"assignableAbility\" style=\"cursor: pointer;\" onClick=\"makeAbility(\'" + $(this).parent().parent()[0].id + "\', \'" + pokemon.randomBattleAb[v] + "\')\">" + pokemon.randomBattleAb[v] + "</span>");
 			}
 		}
@@ -379,7 +379,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 
 			randMovesArr.push(subRandMovesArr);
 
-			if (pokeObj.find(".randMoves").html().indexOf(pokemon.randomBattleMoves[c]) === -1) {
+			if (!pokeObj.find(".randMoves").html().includes(pokemon.randomBattleMoves[c])) {
 				pokeObj.find(".randMoves").append("<span class=\"assignableMove\">" + pokemon.randomBattleMoves[c] + "</span>");
 			}
 		}
@@ -440,7 +440,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 				}
 				moveObj.change();
 			}
-			if (moveCatArr.indexOf("Physical") === -1) {
+			if (!moveCatArr.includes("Physical")) {
 				pokeObj.find(".at .ivs").val(0);
 				pokeObj.find(".at .evs").val(0);
 				pokeObj.find(".at .avs").val(0);
@@ -490,15 +490,15 @@ function showFormes(formeObj, setName, pokemonName, pokemon) {
 		var set = setdex[pokemonName][setName];
 		if (set.item) {
 		// Repurpose the previous filtering code to provide the "different default" logic
-			if (set.item.indexOf("ite") !== -1 && set.item.indexOf("ite Y") === -1 ||
-            pokemonName === "Groudon" && set.item.indexOf("Red Orb") !== -1 ||
-            pokemonName === "Kyogre" && set.item.indexOf("Blue Orb") !== -1 ||
-            pokemonName === "Meloetta" && set.moves.indexOf("Relic Song") !== -1 ||
-            pokemonName === "Rayquaza" && set.moves.indexOf("Dragon Ascent") !== -1 ||
-        pokemonName === "Necrozma-Dusk Mane" && set.item.indexOf("Ultranecrozium Z") !== -1 ||
-        pokemonName === "Necrozma-Dawn Wings" && set.item.indexOf("Ultranecrozium Z") !== -1) {
+			if (set.item.includes("ite") && set.item.includes("ite Y") ||
+            pokemonName === "Groudon" && set.item.includes("Red Orb") ||
+            pokemonName === "Kyogre" && set.item.includes("Blue Orb") ||
+            pokemonName === "Meloetta" && set.moves.includes("Relic Song") ||
+            pokemonName === "Rayquaza" && set.moves.includes("Dragon Ascent") ||
+        pokemonName === "Necrozma-Dusk Mane" && set.item.includes("Ultranecrozium Z") ||
+        pokemonName === "Necrozma-Dawn Wings" && set.item.includes("Ultranecrozium Z")) {
 				defaultForme = 1;
-			} else if (set.item.indexOf("ite Y") !== -1) {
+			} else if (set.item.includes("ite Y")) {
 				defaultForme = 2;
 			}
 		}
@@ -532,9 +532,9 @@ $(".forme").change(function () {
 		baseStat.keyup();
 	}
 
-	if (abilities.indexOf(altForme.ab) > -1) {
+	if (abilities.includes(altForme.ab)) {
 		container.find(".ability").val(altForme.ab);
-	} else if (setName !== "Blank Set" && abilities.indexOf(setdex[pokemonName][setName].ability) > -1) {
+	} else if (setName !== "Blank Set" && abilities.includes(setdex[pokemonName][setName].ability)) {
 		setSelectValueIfValid(container.find(".ability"), pokedex[pokemonName].randomBattleAb[0], "");
 	} else {
 		container.find(".ability").val("");
@@ -812,9 +812,9 @@ var stickyMoves = (function () {
 		},
 		getSelectedSide: function () {
 			if (lastClicked) {
-				if (lastClicked.indexOf("resultMoveL") !== -1) {
+				if (lastClicked.includes("resultMoveL")) {
 					return "p1";
-				} else if (lastClicked.indexOf("resultMoveR") !== -1) {
+				} else if (lastClicked.includes("resultMoveR")) {
 					return "p2";
 				}
 			}
@@ -902,7 +902,7 @@ function Pokemon(pokeInfo) {
 		this.randomBattleAb = pokemon.randomBattleAb;
 		this.ability = pokemon.randomBattleAb[0] && typeof pokemon.randomBattleAb[0] !== "undefined" ? pokemon.randomBattleAb[0] :
 			pokemon.ab && typeof pokemon.ab !== "undefined" ? pokemon.ab : "";
-		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || set.item.indexOf("ite") < 0) ? set.item : "";
+		this.item = set.item && typeof set.item !== "undefined" && (set.item === "Eviolite" || !set.item.includes("ite")) ? set.item : "";
 		this.status = "Healthy";
 		this.toxicCounter = 0;
 		this.moves = [];
@@ -922,7 +922,7 @@ function Pokemon(pokeInfo) {
 		this.weight = pokemon.weight;
 	} else {
 		var setName = pokeInfo.find("input.set-selector").val();
-		if (setName.indexOf("(") === -1) {
+		if (!setName.includes("(")) {
 			this.name = setName;
 		} else {
 			var pokemonName = setName.substring(0, setName.indexOf(" ("));
@@ -999,7 +999,7 @@ function getMoveDetails(moveInfo, item) {
 }
 
 function getZMoveName(moveName, moveType, item) {
-	return moveName.indexOf("Hidden Power") !== -1 ? "Breakneck Blitz" : // Hidden Power will become Breakneck Blitz
+	return moveName.includes("Hidden Power") ? "Breakneck Blitz" : // Hidden Power will become Breakneck Blitz
 		moveName === "Clanging Scales" && item === "Kommonium Z" ? "Clangorous Soulblaze" :
 			moveName === "Darkest Lariat" && item === "Incinium Z" ? "Malicious Moonsault" :
 				moveName === "Giga Impact" && item === "Snorlium Z" ? "Pulverizing Pancake" :
@@ -1230,7 +1230,13 @@ function recalcEvIv() {
 		thisSubPart.push($("#p1").find(".move" + (i + 1) + " .move-type").val());
 		p2Arr[i].push(thisSubPart);
 	}
-	if ((p1Arr[0][0].indexOf("Physical") === -1 || p1Arr[0][0].indexOf("0") !== -1) && (p1Arr[1][0].indexOf("Physical") === -1 || p1Arr[1][0].indexOf("0") !== -1) && (p1Arr[2][0].indexOf("Physical") === -1 || p1Arr[2][0].indexOf("0") !== -1) && (p1Arr[3][0].indexOf("Physical") === -1 || p1Arr[3][0].indexOf("0") !== -1)) {
+
+	/* checks for physical attacks */
+
+	if ((!p1Arr[0][0].includes("Physical") || p1Arr[0][0].includes("0")) &&
+	(!p1Arr[1][0].includes("Physical") || p1Arr[1][0].includes("0")) &&
+	(!p1Arr[2][0].includes("Physical") || p1Arr[2][0].includes("0")) &&
+	(!p1Arr[3][0].includes("Physical") || p1Arr[3][0].includes("0"))) {
 		$("#p1").find(".at .ivs").val(0);
 		$("#p1").find(".at .evs").val(0);
 		$("#p1").find(".at .ivs").change();
@@ -1239,7 +1245,10 @@ function recalcEvIv() {
 		$("#p1").find(".at .evs").val(85);
 		$("#p1").find(".at .ivs").change();
 	}
-	if ((p2Arr[0][0].indexOf("Physical") === -1 || p2Arr[0][0].indexOf("0") !== -1) && (p2Arr[1][0].indexOf("Physical") === -1 || p2Arr[1][0].indexOf("0") !== -1) && (p2Arr[2][0].indexOf("Physical") === -1 || p2Arr[2][0].indexOf("0") !== -1) && (p2Arr[3][0].indexOf("Physical") === -1 || p2Arr[3][0].indexOf("0") !== -1)) {
+	if ((!p2Arr[0][0].includes("Physical") || p2Arr[0][0].includes("0")) &&
+	(!p2Arr[1][0].includes("Physical") || p2Arr[1][0].includes("0")) &&
+	(!p2Arr[2][0].includes("Physical") || p2Arr[2][0].includes("0")) &&
+	(!p2Arr[3][0].includes("Physical") || p2Arr[3][0].includes("0"))) {
 		$("#p2").find(".at .ivs").val(0);
 		$("#p2").find(".at .evs").val(0);
 		$("#p2").find(".at .ivs").change();
@@ -1248,7 +1257,13 @@ function recalcEvIv() {
 		$("#p2").find(".at .evs").val(85);
 		$("#p2").find(".at .ivs").change();
 	}
-	if ((p1Arr[0][0].indexOf("Physical") !== -1 && p1Arr[0][0].indexOf("1") !== -1 && p1Arr[0][0].indexOf("Steel") !== -1) || (p1Arr[1][0].indexOf("Physical") !== -1 && p1Arr[1][0].indexOf("1") !== -1 && p1Arr[1][0].indexOf("Steel") !== -1) || (p1Arr[2][0].indexOf("Physical") !== -1 && p1Arr[2][0].indexOf("1") !== -1 && p1Arr[2][0].indexOf("Steel") !== -1) || (p1Arr[3][0].indexOf("Physical") !== -1 && p1Arr[3][0].indexOf("1") !== -1 && p1Arr[3][0].indexOf("Steel") !== -1)) {
+
+	/* checks for gyro ball */
+
+	if ((p1Arr[0][0].includes("Physical") && p1Arr[0][0].includes("1") && p1Arr[0][0].includes("Steel")) ||
+	(p1Arr[1][0].includes("Physical") && p1Arr[1][0].includes("1") && p1Arr[1][0].includes("Steel")) ||
+	(p1Arr[2][0].includes("Physical") && p1Arr[2][0].includes("1") && p1Arr[2][0].includes("Steel")) ||
+	(p1Arr[3][0].includes("Physical") && p1Arr[3][0].includes("1") && p1Arr[3][0].includes("Steel"))) {
 		$("#p1").find(".sp .ivs").val(0);
 		$("#p1").find(".sp .evs").val(0);
 		$("#p1").find(".sp .ivs").change();
@@ -1257,7 +1272,10 @@ function recalcEvIv() {
 		$("#p1").find(".sp .evs").val(85);
 		$("#p1").find(".sp .ivs").change();
 	}
-	if ((p2Arr[0][0].indexOf("Physical") !== -1 && p2Arr[0][0].indexOf("1") !== -1 && p2Arr[0][0].indexOf("Steel") !== -1) || (p2Arr[1][0].indexOf("Physical") !== -1 && p2Arr[1][0].indexOf("1") !== -1 && p2Arr[1][0].indexOf("Steel") !== -1) || (p2Arr[2][0].indexOf("Physical") !== -1 && p2Arr[2][0].indexOf("1") !== -1 && p2Arr[2][0].indexOf("Steel") !== -1) || (p2Arr[3][0].indexOf("Physical") !== -1 && p2Arr[3][0].indexOf("1") !== -1 && p2Arr[3][0].indexOf("Steel") !== -1)) {
+	if ((p2Arr[0][0].includes("Physical") && p2Arr[0][0].includes("1") && p2Arr[0][0].includes("Steel")) ||
+	(p2Arr[1][0].includes("Physical") && p2Arr[1][0].includes("1") && p2Arr[1][0].includes("Steel")) ||
+	(p2Arr[2][0].includes("Physical") && p2Arr[2][0].includes("1") && p2Arr[2][0].includes("Steel")) ||
+	(p2Arr[3][0].includes("Physical") && p2Arr[3][0].includes("1") && p2Arr[3][0].includes("Steel"))) {
 		$("#p2").find(".sp .ivs").val(0);
 		$("#p2").find(".sp .evs").val(0);
 		$("#p2").find(".sp .ivs").change();
@@ -1387,7 +1405,7 @@ $(document).ready(function () {
 			var results = [];
 			for (var i = 0; i < setOptions.length; i++) {
 				var pokeName = setOptions[i].pokemon.toUpperCase();
-				if (!query.term || pokeName.indexOf(query.term.toUpperCase()) === 0 || pokeName.indexOf("" + query.term.toUpperCase()) >= 0) {
+				if (!query.term || pokeName.indexOf(query.term.toUpperCase()) === 0 || pokeName.includes("" + query.term.toUpperCase())) {
 					results.push(setOptions[i]);
 				}
 			}
@@ -1405,7 +1423,7 @@ $(document).ready(function () {
 		dropdownAutoWidth: true,
 		matcher: function (term, text) {
 			// 2nd condition is for Hidden Power
-			return text.toUpperCase().indexOf(term.toUpperCase()) === 0 || text.toUpperCase().indexOf(" " + term.toUpperCase()) >= 0;
+			return text.toUpperCase().indexOf(term.toUpperCase()) === 0 || text.toUpperCase().includes(" " + term.toUpperCase());
 		}
 	});
 	$(".set-selector").val(getSetOptions()[gen > 3 ? 1 : gen === 1 ? 5 : 3].id);
