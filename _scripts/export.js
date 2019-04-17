@@ -5,13 +5,13 @@ function exportToPsFormat(pokeInfo) {
 	var ivSum = 0;
 	var evsAlert = false;
 	var name = pokemon.name;
-	if (name.indexOf("Mega ") != -1) {
+	if (name.includes("Mega ")) {
 		var speciesName = name.substring(0, name.indexOf("Mega") - 1) + name.substring(name.indexOf("Mega") + 4, name.length);
-	} else if (name.indexOf("-Blade") != -1) {
+	} else if (name.includes("-Blade")) {
 		var speciesName = name.substring(0, name.indexOf("-")) + name.substring(name.indexOf("-") + 6, name.length);
-	} else if (name.indexOf("-Both") != -1) {
+	} else if (name.includes("-Both")) {
 		var speciesName = name.substring(0, name.indexOf("-")) + name.substring(name.indexOf("-") + 5, name.length);
-	} else if (name.indexOf("Primal ") != -1) {
+	} else if (name.includes("Primal ")) {
 		var speciesName = name.substring(0, name.indexOf("Primal") - 1) + name.substring(name.indexOf("Primal") + 6, name.length);
 	} else {
 		var speciesName = name;
