@@ -1016,7 +1016,8 @@ function getZMoveName(moveName, moveType, item) {
 															moveName === "Thunderbolt" && item === "Pikashunium Z" ? "10,000,000 Volt Thunderbolt" :
 																moveName === "Volt Tackle" && item === "Pikanium Z" ? "Catastropika" :
 																	moveName === "Nature\'s Madness" && item === "Tapunium Z" ? "Guardian of Alola" :
-																		ZMOVES_TYPING[moveType];
+																		moveName === "Spectal Thief" && item === "Marshadium Z" ? "Soul-Stealing 7-Star Strike" :
+																			ZMOVES_TYPING[moveType];
 }
 
 function Field() {
