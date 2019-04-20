@@ -40,8 +40,8 @@ function getKOChanceText(damage, move, defender, field, isBadDreams) {
 		hazards += Math.floor(effectiveness * defender.maxHP / 8);
 		hazardText.push("Stealth Rock");
 	}
-	if ([defender.type1, defender.type2].indexOf("Flying") === -1 &&
-            ["Magic Guard", "Levitate"].indexOf(defender.ability) === -1 && defender.item !== "Air Balloon") {
+	if (!([defender.type1, defender.type2].includes("Flying")) &&
+            !(["Magic Guard", "Levitate"].includes(defender.ability)) && defender.item !== "Air Balloon") {
 		if (field.spikes === 1) {
 			hazards += Math.floor(defender.maxHP / 8);
 			if (gen === 2) {
@@ -77,9 +77,9 @@ function getKOChanceText(damage, move, defender, field, isBadDreams) {
 			eotText.push("Rain Dish recovery");
 		}
 	} else if (field.weather === "Sand") {
-		if (["Rock", "Ground", "Steel"].indexOf(defender.type1) === -1 &&
-                ["Rock", "Ground", "Steel"].indexOf(defender.type2) === -1 &&
-                ["Magic Guard", "Overcoat", "Sand Force", "Sand Rush", "Sand Veil"].indexOf(defender.ability) === -1 &&
+		if (!(["Rock", "Ground", "Steel"].includes(defender.type1)) &&
+                !(["Rock", "Ground", "Steel"].includes(defender.type2)) &&
+                !(["Magic Guard", "Overcoat", "Sand Force", "Sand Rush", "Sand Veil"].includes(defender.ability)) &&
                 defender.item !== "Safety Goggles") {
 			eot -= Math.floor(defender.maxHP / 16);
 			eotText.push("sandstorm damage");
@@ -89,7 +89,7 @@ function getKOChanceText(damage, move, defender, field, isBadDreams) {
 			eot += Math.floor(defender.maxHP / 16);
 			eotText.push("Ice Body recovery");
 		} else if (defender.type1 !== "Ice" && defender.type2 !== "Ice" &&
-                ["Magic Guard", "Overcoat", "Snow Cloak"].indexOf(defender.ability) === -1 &&
+                !(["Magic Guard", "Overcoat", "Snow Cloak"].includes(defender.ability)) &&
                 defender.item !== "Safety Goggles") {
 			eot -= Math.floor(defender.maxHP / 16);
 			eotText.push("hail damage");
