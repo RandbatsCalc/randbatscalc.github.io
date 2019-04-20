@@ -18,7 +18,7 @@ function removejscssfile(filename, filetype) {
 	var targetattr = filetype == "js" ? "src" : filetype == "css" ? "href" : "none"; //determine corresponding attribute to test for
 	var allsuspects = document.getElementsByTagName(targetelement);
 	for (var i = allsuspects.length; i >= 0; i--) { //search backwards within nodelist for matching elements to remove
-		if (allsuspects[i] && allsuspects[i].getAttribute(targetattr) != null && allsuspects[i].getAttribute(targetattr).indexOf(filename) != -1)
+		if (allsuspects[i] && allsuspects[i].getAttribute(targetattr) != null && allsuspects[i].getAttribute(targetattr).includes(filename))
 			allsuspects[i].parentNode.removeChild(allsuspects[i]); //remove element by calling parentNode.removeChild()
 	}
 }
@@ -28,8 +28,8 @@ function readCookie(name) {
 	var ca = document.cookie.split(";");
 	for (var i = 0; i < ca.length; i++) {
 		var c = ca[i];
-		while (c.charAt(0) == " ") c = c.substring(1, c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+		while (c.charAt(0) === " ") c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
 	}
 	return null;
 }
