@@ -42,8 +42,8 @@ function readCookie(name) {
 	var ca = document.cookie.split(";");
 	for (var i = 0; i < ca.length; i++) {
 		var c = ca[i];
-		while (c.charAt(0) == " ") c = c.substring(1, c.length);
-		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+		while (c.charAt(0) === " ") c = c.substring(1, c.length);
+		if (c.indexOf(nameEQ) === 0) return c.substring(nameEQ.length, c.length);
 	}
 	return null;
 }
@@ -117,14 +117,14 @@ var savecustom = function () {
 		    */
 
 		//geting rid of gender identities (lel)
-		if (lines[0].indexOf("(M)") != -1) {
+		if (lines[0].includes("(M)")) {
 			lines[0] = lines[0].substring(0, lines[0].indexOf("(M)") - 1) +
 		        lines[0].substring(lines[0].indexOf("(M)") + 3, lines[0].length);
-		} else if (lines[0].indexOf("(F)") != -1) {
+		} else if (lines[0].includes("(F)")) {
 			lines[0] = lines[0].substring(0, lines[0].indexOf("(F)")) +
 		        lines[0].substring(lines[0].indexOf("(F)") + 3, lines[0].length);
 		}
-		if (lines[0].indexOf("(") != -1) {
+		if (lines[0].includes("(")) {
 			firstParenth = lines[0].lastIndexOf("(");
 			lastParenth = lines[0].lastIndexOf(")");
 			species = lines[0].substring(firstParenth + 1, lastParenth).trim();
@@ -135,17 +135,17 @@ var savecustom = function () {
 				species = showdownFormes[i][1];
 		}
 
-		if (lines[0].indexOf("@") != -1)
+		if (lines[0].includes("@"))
 			item = lines[0].substring(lines[0].indexOf("@") + 1).trim(); //item is always after @
 		if (lines.length > 1) {
 			for (var i = 1; i < lines.length; ++i) {
-				if (lines[i].indexOf("Ability") != -1) {
+				if (lines[i].includes("Ability")) {
 					ability = lines[i].substring(lines[i].indexOf(" ") + 1).trim();
 				}
-				if (lines[i].indexOf("Level") != -1) {
+				if (lines[i].includes("Level")) {
 					level = lines[i].split(" ")[1].trim(); //level is sometimes third but uh not always
 				}
-				if (lines[i].indexOf("EVs") != -1) { //If EVs are in this line
+				if (lines[i].includes("EVs")) { //If EVs are in this line
 					evList = lines[i].split(":")[1].split("/"); //splitting it into a list of " # Stat "
 					for (var j = 0; j < evList.length; ++j) {
 						evList[j] = evList[j].trim();
@@ -165,7 +165,7 @@ var savecustom = function () {
 					}
 
 				}
-				if (lines[i].indexOf("IVs") != -1) { //if EVs are in this line
+				if (lines[i].includes("IVs")) { //if EVs are in this line
 					ivList = lines[i].split(":")[1].split("/"); //splitting it into a list of " # Stat "
 					for (var j = 0; j < ivList.length; ++j) {
 						ivList[j] = ivList[j].trim();
@@ -185,10 +185,10 @@ var savecustom = function () {
 					}
 
 				}
-				if (lines[i].indexOf("Nature") != -1) { //if nature is in this line
+				if (lines[i].includes("Nature")) { //if nature is in this line
 					nature = lines[i].split(" ")[0].trim();
 				}
-				if (lines[i].indexOf("- ") != -1) { //if there is a move in this line
+				if (lines[i].includes("- ")) { //if there is a move in this line
 					var nextMove = lines[i].substring(lines[i].indexOf(" ") + 1).trim();
 					nextMove = nextMove.replace("[", "");
 					nextMove = nextMove.replace("]", "");
@@ -225,15 +225,11 @@ var savecustom = function () {
 		  */
 		var rejectSet = false;
 		var dispErrMsg = false;
-		if (ability === "Parental Bond" && moves.indexOf("Power-Up Punch") > -1 && moves.indexOf("Power-Up Punch") < 3) {
+		if ((ability === "Parental Bond" || species.includes("Kangaskhan")) && moves.includes("Power-Up Punch") && moves.indexOf("Power-Up Punch") < 3) {
 			rejectSet = true;
 			dispErrMsg = true;
 		}
-		if (species.indexOf("Kangaskhan") != -1 && moves.indexOf("Power-Up Punch") > -1 && moves.indexOf("Power-Up Punch") < 3) {
-			rejectSet = true;
-			dispErrMsg = true;
-		}
-		if (dispErrMsg === true) alert("Please ensure that Power-up Punch is in the 4th moveslot, otherwise you may experience some errors in calcs!");
+		if (dispErrMsg) alert("Please ensure that Power-up Punch is in the 4th moveslot, otherwise you may experience some errors in calcs!");
 
 		customFormat = {
 			"level": level,
@@ -266,7 +262,7 @@ var savecustom = function () {
 			"item": item,
 			"moves": moves,
 		};
-		if (rejectSet === true) {
+		if (rejectSet) {
 			alert("Set not saved: " + species);
 		} else {
 			if (SETDEX_CUSTOM[species] == null)
