@@ -13187,7 +13187,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Azelf": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Dazzling Gleam", "Explosion", "Fire Blast", "Knock Off", "Psyshock", "U-turn"],
+		"randomBattleMoves": ["Dazzling Gleam", "Explosion", "Fire Blast", "Knock Off", "Psyshock"],
 		"randomBattleAb": ["Levitate"],
 	},
 	"Azumarill": {
@@ -13401,8 +13401,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Natural Cure"],
 	},
 	"Charizard": {
-		"randomBattleItems": ["No Item", "Leftovers"],
-		"randomBattleMoves": ["Acrobatics", "Air Slash", "Earthquake", "Fire Blast", "Flame Charge", "Focus Blast"],
+		"randomBattleItems": ["Normalium Z", "Leftovers"],
+		"randomBattleMoves": ["Fire Blast", "Air Slash", "Earthquake"],
 		"randomBattleAb": ["Blaze"],
 	},
 	"Charizard-Mega-X": {
@@ -14151,8 +14151,8 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Intimidate"],
 	},
 	"Infernape": {
-		"randomBattleItems": ["Life Orb", "Choice Band", "Choice Scarf", "Expert Belt"],
-		"randomBattleMoves": ["Close Combat", "Earthquake", "Fire Blast", "Flare Blitz", "Grass Knot", "Hidden Power Ice", "Mach Punch", "Stone Edge", "U-turn", "Vacuum Wave"],
+		"randomBattleItems": ["Life Orb", "Choice Band", "Choice Scarf", "Expert Belt", "Fightinium Z"],
+		"randomBattleMoves": ["U-turn", "Close Combat", "Flare Blitz", "Stone Edge", "Mach Punch", "Fire Blast", "Focus Blast", "Vacuum Wave", "Grass Knot"],
 		"randomBattleAb": ["Blaze", "Iron fist"],
 	},
 	"Jellicent": {
@@ -14467,7 +14467,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Mandibuzz": {
 		"randomBattleItems": ["Leftovers", "Choice Scarf"],
-		"randomBattleMoves": ["Brave Bird", "Foul Play", "Knock Off", "U-turn"],
+		"randomBattleMoves": ["Brave Bird", "Foul Play", "U-turn"],
 		"randomBattleAb": ["Overcoat"],
 	},
 	"Manectric": {
@@ -15477,7 +15477,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tauros": {
 		"randomBattleItems": ["Life Orb", "Choice Band"],
-		"randomBattleMoves": ["Double-Edge", "Earthquake", "Rock Climb", "Rock Slide", "Zen Headbutt"],
+		"randomBattleMoves": ["Double-Edge", "Earthquake", "Body Slam", "Rock Slide", "Zen Headbutt"],
 		"randomBattleAb": ["Sheer Force", "Intimidate"],
 	},
 	"Tentacruel": {
@@ -15653,7 +15653,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Vespiquen": {
 		"randomBattleItems": ["Leftovers"],
-		"randomBattleMoves": ["Attack Order", "Infestation"],
+		"randomBattleMoves": ["Attack Order"],
 		"randomBattleAb": ["Pressure", "Unnerve"],
 	},
 	"Victini": {
