@@ -5447,6 +5447,22 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
+	"Pikachu": {
+		"Default": {
+			"level": 89,
+			"nature": "Serious",
+			"ability": "Defiant",
+			"item": "Leftovers",
+			"moves": [
+				"Tackle",
+				"Take Down",
+				"Earthquake",
+				"Accelerock"
+			]
+		}
+	},
+
+
 	"Pheromosa": {
 		"Default": {
 			"level": 78,

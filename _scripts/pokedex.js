@@ -13876,7 +13876,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Shadow Tag"],
 	},
 	"Gigalith": {
-		"randomBattleItems": ["Leftovers", "Life Orb"],
+		"randomBattleItems": ["Leftovers", "Choice Band"],
 		"randomBattleMoves": ["Earthquake", "Explosion", "Rock Blast", "Stone Edge", "Superpower"],
 		"randomBattleAb": ["Sand Stream"],
 	},
