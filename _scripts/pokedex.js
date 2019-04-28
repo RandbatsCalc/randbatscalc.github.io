@@ -14946,7 +14946,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Guts"],
 	},
 	"Raticate-Alola": {
-		"randomBattleItems": ["Lif Orb"],
+		"randomBattleItems": ["Life Orb"],
 		"randomBattleMoves": ["Double-Edge", "Knock Off", "Return", "Sucker Punch"],
 		"randomBattleAb": ["Hustle", "Thick Fat"],
 	},
