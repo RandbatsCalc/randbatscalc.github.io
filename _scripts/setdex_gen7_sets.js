@@ -5449,7 +5449,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pikachu": {
 		"Default": {
-			"level": 89,
+			"level": 90,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
