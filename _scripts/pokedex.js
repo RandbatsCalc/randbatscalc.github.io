@@ -14001,7 +14001,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Battle Bond"],
 	},
 	"Groudon": {
-		"randomBattleItems": ["Leftovers", "Choice Band"],
+		"randomBattleItems": ["Leftovers", "Choice Band", "Choice Scarf"],
 		"randomBattleMoves": ["Dragon Claw", "Earthquake", "Fire Punch", "Lava Plume", "Stone Edge"],
 		"randomBattleAb": ["Drought"],
 	},
