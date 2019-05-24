@@ -13318,7 +13318,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Bruxish": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Band"],
 		"randomBattleMoves": ["Aqua Jet", "Crunch", "Ice Fang", "Liquidation", "Psychic Fangs"],
-		"randomBattleAb": ["Strong Jaws", "Dazzling"],
+		"randomBattleAb": ["Strong Jaw", "Dazzling"],
 	},
 	"Butterfree": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
@@ -13966,7 +13966,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Shadow Tag"],
 	},
 	"Gourgeist-Small": {
-		"randomBattleItems": ["Leftoves"],
+		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
 		"randomBattleAb": ["Frisk", "Insomnia"],
 	},
@@ -13976,17 +13976,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Intimidate"],
 	},
 	"Gourgeist-Average": {
-		"randomBattleItems": ["Leftoves"],
+		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
 		"randomBattleAb": ["Frisk", "Insomnia"],
 	},
 	"Gourgeist-Large": {
-		"randomBattleItems": ["Leftoves"],
+		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
 		"randomBattleAb": ["Frisk", "Insomnia"],
 	},
 	"Gourgeist-Super": {
-		"randomBattleItems": ["Leftoves"],
+		"randomBattleItems": ["Leftovers"],
 		"randomBattleMoves": ["Seed Bomb", "Shadow Sneak"],
 		"randomBattleAb": ["Frisk", "Insomnia"],
 	},
@@ -14323,10 +14323,10 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Leavanny": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
 		"randomBattleMoves": ["Knock Off", "Leaf Blade", "X-Scissor"],
-		"randomBattleAb": ["Swarm", "Overcoat", "Chrolophyll"],
+		"randomBattleAb": ["Swarm", "Overcoat", "Chlorophyll"],
 	},
 	"Ledian": {
-		"randomBattleItems": ["Leftovers", "Light Clat"],
+		"randomBattleItems": ["Leftovers", "Light Clay"],
 		"randomBattleMoves": ["Knock Off", "U-turn"],
 		"randomBattleAb": ["Swarm", "Early Bird"],
 	},
@@ -14681,17 +14681,17 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Prism Armor"],
 	},
 	"Necrozma-Dusk-Mane": {
-		"randomBattleItems": ["Ultranecronium Z", "Solganium Z"],
+		"randomBattleItems": ["Ultranecrozium Z", "Solganium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike"],
 		"randomBattleAb": ["Prism Armor"],
 	},
 	"Necrozma-Dawn-Wings": {
-		"randomBattleItems": ["Ultranecronium Z", "Lunalium Z"],
+		"randomBattleItems": ["Ultranecrozium Z", "Lunalium Z"],
 		"randomBattleMoves": ["Heat Wave", "Moongeist Beam", "Photon Geyser", "Power Gem"],
 		"randomBattleAb": ["Prism Armor"],
 	},
 	"Necrozma-Ultra": {
-		"randomBattleItems": ["Ultranecronium Z"],
+		"randomBattleItems": ["Ultranecrozium Z"],
 		"randomBattleMoves": ["Earthquake", "Knock Off", "Photon Geyser", "Sunsteel Strike", "Heat Wave", "Moongeist Beam", "Power Gem"],
 		"randomBattleAb": ["Neuroforce"],
 	},
@@ -14921,7 +14921,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Lightning Rod", "Static"],
 	},
 	"Raichu-Alola": {
-		"randomBattleItems": ["Life Orb", "Choice Specs", "Aloraichuim Z"],
+		"randomBattleItems": ["Life Orb", "Choice Specs", "Aloraichium Z"],
 		"randomBattleMoves": ["Focus Blast", "Psyshock", "Surf", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Surge Surfer"],
 	},
@@ -15463,7 +15463,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Tapu Fini": {
 		"randomBattleItems": ["Leftovers", "Choice Specs"],
 		"randomBattleMoves": ["Hydro Pump", "Ice Beam", "Moonblast", "Scald"],
-		"randomBattleAb": ["MIsty Sure"],
+		"randomBattleAb": ["MIsty Surge"],
 	},
 	"Tapu Koko": {
 		"randomBattleItems": ["Expert Belt"],
