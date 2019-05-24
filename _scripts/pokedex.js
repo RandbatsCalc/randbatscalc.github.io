@@ -15463,7 +15463,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	"Tapu Fini": {
 		"randomBattleItems": ["Leftovers", "Choice Specs"],
 		"randomBattleMoves": ["Hydro Pump", "Ice Beam", "Moonblast", "Scald"],
-		"randomBattleAb": ["MIsty Surge"],
+		"randomBattleAb": ["Misty Surge"],
 	},
 	"Tapu Koko": {
 		"randomBattleItems": ["Expert Belt"],
