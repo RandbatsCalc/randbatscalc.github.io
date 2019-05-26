@@ -5462,7 +5462,6 @@ var SETDEX_GEN7_SETS = {
 		}
 	},
 
-
 	"Pheromosa": {
 		"Default": {
 			"level": 78,
