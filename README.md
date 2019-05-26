@@ -1,7 +1,7 @@
-# B S S D A M A G E C A L C ~
-[![Build Status](https://travis-ci.org/cantsay/cantsay.github.io.svg?branch=master)](https://travis-ci.org/cantsay/cantsay.github.io)
+# R A N D B A T S D A M A G E C A L C ~
+[![Build Status](https://travis-ci.org/randbatscalc/randbatscalc.github.io.svg?branch=master)](https://travis-ci.org/randbatscalc/randbatscalc.github.io)
 
-for all your bs singles calculations. based on the work by Jake White ([@squirrelboyvgc](https://twitter.com/squirrelboyvgc))
+Pokemon Damage Calculator for Gen 7 Random Battles, preloaded with sets for all available Pokemon. Based on the work by Jake White ([@squirrelboyvgc](https://twitter.com/squirrelboyvgc)), cant say ([@jakecantsay](https://twitter.com/jakecantsay)) and LegoFigure11 ([@LegoFigure11](https://twitter.com/LegoFigure11)).
 
 The calculator now supports custom sets. These can be input within the calculator using the official Pokemon Showdown format.
 
@@ -18,7 +18,7 @@ IVs: # Stat
 - Move Name
 ```
 
-The calculator also adds manual auras and aura breaks, as well as a completely new list of USUM BSS sets.  
+The calculator also adds manual auras and aura break, weathers, and terrains.
 
 ## Contributing:
 The site is powered by Jekyll, with linting by nodejs' eslint.
@@ -52,7 +52,8 @@ We use travis-ci to maintain code standards. Please ensure your code passes our 
 
 ## Handy Links:
 
-* [Calc](https://cantsay.github.io/sumo-bss-calc/)
+* [Calc](https://randbatscalc.github.io/)
+* [BSS Calc](https://cantsay.github.io/sumo-bss-calc/)
 * [Parser (PS! Importable to calc format)](https://legofigure11.github.io/custom-calc-parser/)
 * [VGC Calc](https://jake-white.github.io/VGC-Damage-Calculator/) ([git](https://github.com/jake-white/VGC-Damage-Calculator))
 * [PS! Calc](https://pokemonshowdown.com/damagecalc/) ([git](https://github.com/Zarel/honko-damagecalc))
