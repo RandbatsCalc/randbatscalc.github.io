@@ -58,3 +58,4 @@ We use travis-ci to maintain code standards. Please ensure your code passes our 
 * [VGC Calc](https://jake-white.github.io/VGC-Damage-Calculator/) ([git](https://github.com/jake-white/VGC-Damage-Calculator))
 * [PS! Calc](https://pokemonshowdown.com/damagecalc/) ([git](https://github.com/Zarel/honko-damagecalc))
 * Contribute directly in this repo or at our smogon thread [here](https://www.smogon.com/forums/threads/3597699/)!
+
