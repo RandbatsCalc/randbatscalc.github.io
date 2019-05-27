@@ -104,6 +104,13 @@ $(".no-abil").click(function () {
 	abilityObj.change();
 });
 
+$(".no-item").click(function () {
+	var poke = $(this).closest(".poke-info");
+	var itemObj = poke.find(".item");
+	setSelectValueIfValid(itemObj, "(none)", "");
+	itemObj.change();
+});
+
 function getHPDVs(poke) {
 	return ~~poke.find(".at .dvs").val() % 2 * 8 +
             ~~poke.find(".df .dvs").val() % 2 * 4 +
