@@ -20,34 +20,36 @@
         select.value = selectedItem;
       }
 
-      if (document.getElementById("theme") != null) {
-        var drop = document.getElementById("theme").value;
-
-        if (drop === "aegislash") {
+      switch (document.getElementById("theme").value) {
+        case "aegislash":
           loadjscssfile("/_css/ap_calc.css", "css");
           loadjscssfile("/_css/nb_calc.css", "css");
           loadjscssfile("/_css/select2.css", "css");
-        } else if (drop === "dark") {
+          break;
+        case "dark":
           loadjscssfile("/_css/dark_ap_calc.css", "css");
           loadjscssfile("/_css/dark_nb_calc.css", "css");
           loadjscssfile("/_css/select2.css", "css");
-        } else if (drop === "legacy") {
+          break;
+        case "legacy":
           loadjscssfile("/_css/legacy_ap_calc.css", "css");
           loadjscssfile("/_css/legacy_nb_calc.css", "css");
           loadjscssfile("/_css/select2.css", "css");
-        } else if (drop === "volcarona") {
+          break;
+        case "volcarona":
           loadjscssfile("/_css/volc_ap_calc.css", "css");
           loadjscssfile("/_css/volc_nb_calc.css", "css");
           loadjscssfile("/_css/select2.css", "css");
-        } else if (drop === "lgpe") {
+          break;
+        case "lgpe":
           loadjscssfile("/_css/lgpe_ap_calc.css", "css");
           loadjscssfile("/_css/lgpe_nb_calc.css", "css");
           loadjscssfile("/_css/select2.css", "css");
-        }
-      } else {
-        loadjscssfile("/_css/ap_calc.css", "css");
-        loadjscssfile("/_css/nb_calc.css", "css");
-        loadjscssfile("/_css/select2.css", "css");
+          break;
+        default:
+          loadjscssfile("/_css/ap_calc.css", "css");
+          loadjscssfile("/_css/nb_calc.css", "css");
+          loadjscssfile("/_css/select2.css", "css");
       }
     </script>
 
