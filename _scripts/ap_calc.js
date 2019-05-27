@@ -380,7 +380,7 @@ $(".set-selector").bind("change click keyup keydown", function () {
 			randMovesArr.push(subRandMovesArr);
 
 			if (!pokeObj.find(".randMoves").html().includes(pokemon.randomBattleMoves[c])) {
-				pokeObj.find(".randMoves").append("<span class=\"assignableMove\">" + pokemon.randomBattleMoves[c] + "</span>");
+				pokeObj.find(".randMoves").append("<span style=\"cursor: pointer;\" class=\"assignableMove\" onClick=\"makeMove(\'" + pokeObj[0].id + "\', \'" + pokemon.randomBattleMoves[c] + "\')\">" + pokemon.randomBattleMoves[c] + "</span>");
 			}
 		}
 
@@ -1320,6 +1320,12 @@ function makeItem(px, item) {
 function makeAbility(px, ab) {
 	$("#" + px).find(".ability").val(ab);
 	$("#" + px).find(".ability").change(); // Force the damage to recalculate - doesn't change move selections based on damage though
+}
+
+function makeMove(px, move) {
+	moveObj = $("#" + px).find(".move4 select.move-selector");
+	setSelectValueIfValid(moveObj, move, "(No Move)");
+	moveObj.change();
 }
 
 function getSetOptions() {
