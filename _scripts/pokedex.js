@@ -13267,7 +13267,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Blacephalon": {
 		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs", "Firium Z"],
-		"randomBattleMoves": ["Fire Blast", "Hidden Power Ice", "Mind Blown", "Shadow Ball"],
+		"randomBattleMoves": ["Fire Blast", "Hidden Power Ice", "Mind Blown", "Shadow Ball", "Explosion"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Blastoise": {
@@ -13586,7 +13586,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Steelworker"],
 	},
 	"Dialga": {
-		"randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Band"],
+		"randomBattleItems": ["Leftovers", "Air Balloon", "Choice Scarf", "Choice Specs"],
 		"randomBattleMoves": ["Draco Meteor", "Fire Blast", "Flash Cannon", "Thunderbolt"],
 		"randomBattleAb": ["Pressure"],
 	},
@@ -14257,7 +14257,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Kyogre-Primal": {
 		"randomBattleItems": ["Blue Orb"],
-		"randomBattleMoves": ["Ice Beam", "Origin Pulse", "Scald", "Thunder", "Water Spout"],
+		"randomBattleMoves": ["Ice Beam", "Scald", "Thunder", "Water Spout"],
 		"randomBattleAb": ["Primordial Sea"],
 	},
 	"Kyurem": {
@@ -14712,7 +14712,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Ninetales": {
 		"randomBattleItems": ["Leftovers", "Life Orb"],
-		"randomBattleMoves": ["Fire Blast", "Hidden Power Ice", "Solar Beam"],
+		"randomBattleMoves": ["Fire Blast", "Psyshock", "Solar Beam"],
 		"randomBattleAb": ["Drought"],
 	},
 	"Ninetales-Alola": {
@@ -15157,7 +15157,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Shaymin-S": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Specs"],
-		"randomBattleMoves": ["Air Slash", "Earth Power", "Hidden Power Fire", "Seed Flare"],
+		"randomBattleMoves": ["Air Slash", "Earth Power", "Hidden Power Ice", "Seed Flare"],
 		"randomBattleAb": ["Serene Grace"],
 	},
 	"Shedinja": {
@@ -15322,7 +15322,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Slurpuff": {
 		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Sitrus Berry"],
-		"randomBattleMoves": ["Dazzling Gleam", "Drain Punch", "Draining Kiss", "Flamethrower", "Play Rough", "Return", "Surf"],
+		"randomBattleMoves": ["Drain Punch", "Play Rough", "Return"],
 		"randomBattleAb": ["Unburden"],
 	},
 	"Smeargle": {
@@ -15467,7 +15467,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Tapu Koko": {
 		"randomBattleItems": ["Expert Belt"],
-		"randomBattleMoves": ["Brave Bird", "Dazzling Gleam", "Nature's Madness", "U-turn", "Volt Switch", "Wild Charge"],
+		"randomBattleMoves": ["Brave Bird", "Dazzling Gleam", "Nature's Madness", "U-turn", "Thunderbolt"],
 		"randomBattleAb": ["Electric Surge"],
 	},
 	"Tapu Lele": {

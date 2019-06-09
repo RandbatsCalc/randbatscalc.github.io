@@ -1826,7 +1826,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Cryogonal": {
 		"Default": {
-			"level": 86,
+			"level": 88,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4144,7 +4144,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Lilligant": {
 		"Default": {
-			"level": 88,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6181,7 +6181,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sawk": {
 		"Default": {
-			"level": 81,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6220,7 +6220,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Sceptile-Mega": {
 		"Default": {
-			"level": 83,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Lightning Rod",
 			"item": "Sceptilite"
@@ -7294,7 +7294,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Tangrowth": {
 		"Default": {
-			"level": 88,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
