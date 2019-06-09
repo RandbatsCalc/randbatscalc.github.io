@@ -5890,7 +5890,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Registeel": {
 		"Default": {
-			"level": 88,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
