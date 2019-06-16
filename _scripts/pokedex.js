@@ -12976,7 +12976,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Tough Claws"],
 	},
 	"Aerodactyl": {
-		"randomBattleItems": ["Leftovers", "Life Orb"],
+		"randomBattleItems": ["Leftovers", "Life Orb", "Choice Band"],
 		"randomBattleMoves": ["Double-Edge", "Earthquake", "Stone Edge"],
 		"randomBattleAb": ["Rock Head", "Pressure", "Unnerve"],
 	},
