@@ -14106,7 +14106,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Moxie"],
 	},
 	"Hoopa": {
-		"randomBattleItems": ["Life Orb", "Choice Scarf", "Choice Specs"],
+		"randomBattleItems": ["Life Orb", "Choice Scarf"],
 		"randomBattleMoves": ["Focus Blast", "Psyshock", "Shadow Ball"],
 		"randomBattleAb": ["Magician"],
 	},
@@ -15321,7 +15321,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Regenerator"],
 	},
 	"Slurpuff": {
-		"randomBattleItems": ["Leftovers", "Life Orb", "Assault Vest", "Sitrus Berry"],
+		"randomBattleItems": ["Sitrus Berry"],
 		"randomBattleMoves": ["Drain Punch", "Play Rough", "Return"],
 		"randomBattleAb": ["Unburden"],
 	},
