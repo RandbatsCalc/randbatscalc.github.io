@@ -5002,7 +5002,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Muk-Alola": {
 		"Default": {
-			"level": 88,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
