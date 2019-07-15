@@ -14707,7 +14707,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Nihilego": {
 		"randomBattleItems": ["Air Balloon"],
-		"randomBattleMoves": ["Acid Spray", "Power Gem", "Sludge Wave"],
+		"randomBattleMoves": ["Acid Spray", "Power Gem", "Sludge Wave", "Thunderbolt", "Grass Knot"],
 		"randomBattleAb": ["Beast Boost"],
 	},
 	"Ninetales": {
