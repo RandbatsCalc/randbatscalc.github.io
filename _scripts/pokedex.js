@@ -13741,7 +13741,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Harvest"],
 	},
 	"Exeggutor-Alola": {
-		"randomBattleItems": ["Sitrus Berry"],
+		"randomBattleItems": ["Choice Specs", "Life Orb"],
 		"randomBattleMoves": ["Draco Meteor", "Flamethrower", "Giga Drain", "Leaf Storm", "Trick Room"],
 		"randomBattleAb": ["Frisk"],
 	},
@@ -14257,7 +14257,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 	},
 	"Kyogre-Primal": {
 		"randomBattleItems": ["Blue Orb"],
-		"randomBattleMoves": ["Ice Beam", "Scald", "Thunder", "Water Spout"],
+		"randomBattleMoves": ["Ice Beam", "Scald", "Thunder", "Origin Pulse", "Water Spout"],
 		"randomBattleAb": ["Primordial Sea"],
 	},
 	"Kyurem": {

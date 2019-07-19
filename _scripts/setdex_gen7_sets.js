@@ -96,7 +96,7 @@ Format for adding pokemon with 2 sets in:
 var SETDEX_GEN7_SETS = {
 	"Abomasnow": {
 		"Default": {
-			"level": 89,
+			"level": 88,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -111,7 +111,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Abomasnow-Mega": {
 		"Default": {
-			"level": 85,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Snow Warning",
 			"item": "Abomasite",
@@ -366,7 +366,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Ampharos-Mega": {
 		"Default": {
-			"level": 86,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Mold Breaker",
 			"item": "Ampharosite",
@@ -861,7 +861,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Azumarill": {
 		"Default": {
-			"level": 81,
+			"level": 80,
 			"nature": "Serious",
 			"ability": "Huge Power",
 			"item": "Leftovers",
@@ -906,7 +906,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Barbaracle": {
 		"Default": {
-			"level": 85,
+			"level": 84,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -1586,7 +1586,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Cinccino": {
 		"Default": {
-			"level": 86,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2365,7 +2365,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Emboar": {
 		"Default": {
-			"level": 84,
+			"level": 85,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -2545,7 +2545,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Feraligatr": {
 		"Default": {
-			"level": 84,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -3514,7 +3514,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Hoopa-Unbound": {
 		"Default": {
-			"level": 80,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4732,7 +4732,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mesprit": {
 		"Default": {
-			"level": 88,
+			"level": 86,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -4867,7 +4867,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Mimikyu": {
 		"Default": {
-			"level": 80,
+			"level": 82,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -5521,7 +5521,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Pinsir-Mega": {
 		"Default": {
-			"level": 80,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Aerilate",
 			"item": "Pinsirite"
@@ -5560,7 +5560,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Poliwrath": {
 		"Default": {
-			"level": 88,
+			"level": 89,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6136,7 +6136,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Samurott": {
 		"Default": {
-			"level": 86,
+			"level": 87,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -6670,7 +6670,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Silvally-Ghost": {
 		"Default": {
-			"level": 88,
+			"level": 89,
 			"nature": "Serious",
 			"ability": "Defiant",
 			"item": "Leftovers",
@@ -7846,7 +7846,7 @@ var SETDEX_GEN7_SETS = {
 
 	"Venusaur-Mega": {
 		"Default": {
-			"level": 80,
+			"level": 81,
 			"nature": "Serious",
 			"ability": "Thick Fat",
 			"item": "Venusaurite"
