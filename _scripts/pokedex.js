@@ -14061,7 +14061,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Flash Fire"],
 	},
 	"Heliolisk": {
-		"randomBattleItems": ["Choice Specs", "Damp Rock"],
+		"randomBattleItems": ["Choice Specs", "Damp Rock", "Life Orb"],
 		"randomBattleMoves": ["Dark Pulse", "Hidden Power Ice", "Hyper Voice", "Surf", "Thunder", "Thunderbolt", "Volt Switch"],
 		"randomBattleAb": ["Dry Skin"],
 	},
