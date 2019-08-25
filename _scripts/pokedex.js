@@ -14706,7 +14706,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Sheer Force"],
 	},
 	"Nihilego": {
-		"randomBattleItems": ["Air Balloon"],
+		"randomBattleItems": ["Air Balloon", "Choice Specs", "Choice Scarf"],
 		"randomBattleMoves": ["Acid Spray", "Power Gem", "Sludge Wave", "Thunderbolt", "Grass Knot"],
 		"randomBattleAb": ["Beast Boost"],
 	},
@@ -15466,7 +15466,7 @@ var POKEDEX_RANDBATS = $.extend(true, {}, POKEDEX_SM, {
 		"randomBattleAb": ["Misty Surge"],
 	},
 	"Tapu Koko": {
-		"randomBattleItems": ["Expert Belt"],
+		"randomBattleItems": ["Expert Belt", "Life Orb", "Leftovers", "Electrium Z"],
 		"randomBattleMoves": ["Brave Bird", "Dazzling Gleam", "Nature's Madness", "U-turn", "Thunderbolt"],
 		"randomBattleAb": ["Electric Surge"],
 	},
